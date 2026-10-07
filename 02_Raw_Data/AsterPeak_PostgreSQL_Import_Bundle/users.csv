@@ -1,0 +1,26 @@
+user_id,first_name,last_name,email,job_title,team,segment,territory_id,manager_id,annual_quota,hire_date,is_active
+USR001,Maya,Chen,maya.chen@asterpeak.example,VP of Revenue,Exec Leadership,All,,,,2021-03-15,true
+USR002,Daniel,Ortiz,daniel.ortiz@asterpeak.example,Director of Sales,Sales,All,,USR001,,2021-08-09,true
+USR003,Priya,Shah,priya.shah@asterpeak.example,SMB Sales Manager,Sales,SMB,,USR002,,2022-01-10,true
+USR004,Marcus,Lee,marcus.lee@asterpeak.example,Mid-Market Sales Manager,Sales,MM,,USR002,,2022-02-14,true
+USR005,Emily,Carter,emily.carter@asterpeak.example,SMB Account Executive,Sales,SMB,1,USR003,650000,2022-06-06,true
+USR006,Jordan,Brooks,jordan.brooks@asterpeak.example,SMB Account Executive,Sales,SMB,2,USR003,650000,2023-01-09,true
+USR007,Nina,Patel,nina.patel@asterpeak.example,SMB Account Executive,Sales,SMB,3,USR003,650000,2023-04-17,true
+USR008,Tyler,Bennett,tyler.bennett@asterpeak.example,SMB Account Executive,Sales,SMB,4,USR003,650000,2024-02-12,true
+USR009,Rachel,Kim,rachel.kim@asterpeak.example,Mid-Market Account Executive,Sales,MM,1,USR004,1100000,2022-09-19,true
+USR010,Andre,Wilson,andre.wilson@asterpeak.example,Mid-Market Account Executive,Sales,MM,2,USR004,1100000,2023-02-06,true
+USR011,Lauren,Hayes,lauren.hayes@asterpeak.example,Mid-Market Account Executive,Sales,MM,3,USR004,1100000,2023-07-24,true
+USR012,Noah,Ramirez,noah.ramirez@asterpeak.example,Mid-Market Account Executive,Sales,MM,4,USR004,1100000,2024-01-15,true
+USR013,Chloe,Martin,chloe.martin@asterpeak.example,Sales Development Representative,Sales Dev,SMB,,USR002,,2024-03-04,true
+USR014,Ethan,Foster,ethan.foster@asterpeak.example,Sales Development Representative,Sales Dev,SMB,,USR002,,2024-05-20,true
+USR015,Sofia,Nguyen,sofia.nguyen@asterpeak.example,Sales Development Representative,Sales Dev,MM,,USR002,,2024-08-12,true
+USR016,Caleb,Morgan,caleb.morgan@asterpeak.example,Sales Development Representative,Sales Dev,MM,,USR002,,2025-01-13,true
+USR017,Olivia,Reed,olivia.reed@asterpeak.example,Revenue Operations Manager,RevOps,All,,USR001,,2022-04-11,true
+USR018,Alex,Turner,alex.turner@asterpeak.example,Revenue Operations Analyst,RevOps,All,,USR017,,2024-06-03,true
+USR019,Grace,Collins,grace.collins@asterpeak.example,Marketing Operations Manager,MktgOps,All,,USR001,,2022-11-07,true
+USR020,Samuel,Price,samuel.price@asterpeak.example,Director of Customer Success,CS,All,,USR001,,2022-05-16,true
+USR021,Mia,Cooper,mia.cooper@asterpeak.example,Customer Success Manager,CS,All,,USR020,,2023-03-13,true
+USR022,Lucas,Perry,lucas.perry@asterpeak.example,Customer Success Manager,CS,All,,USR020,,2023-10-02,true
+USR023,Ava,Richardson,ava.richardson@asterpeak.example,Customer Success Manager,CS,All,,USR020,,2024-04-08,true
+USR024,Benjamin,Clarke,benjamin.clarke@asterpeak.example,Finance Manager,Finance,All,,,,2021-11-01,true
+USR025,Natalie,Evans,natalie.evans@asterpeak.example,Legal Counsel,Legal,All,,,,2022-08-22,true

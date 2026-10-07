@@ -1,0 +1,52 @@
+state_code,state_name,territory_id
+ME,Maine,1
+NH,New Hampshire,1
+VT,Vermont,1
+MA,Massachusetts,1
+RI,Rhode Island,1
+CT,Connecticut,1
+NY,New York,1
+NJ,New Jersey,1
+PA,Pennsylvania,1
+DE,Delaware,1
+MD,Maryland,1
+DC,"Washington, D.C.",1
+WV,West Virginia,1
+VA,Virginia,2
+NC,North Carolina,2
+SC,South Carolina,2
+GA,Georgia,2
+FL,Florida,2
+TN,Tennessee,2
+KY,Kentucky,2
+AL,Alabama,2
+MS,Mississippi,2
+AR,Arkansas,2
+LA,Louisiana,2
+TX,Texas,2
+OK,Oklahoma,2
+OH,Ohio,3
+MI,Michigan,3
+IN,Indiana,3
+IL,Illinois,3
+WI,Wisconsin,3
+MN,Minnesota,3
+IA,Iowa,3
+MO,Missouri,3
+KS,Kansas,3
+NE,Nebraska,3
+ND,North Dakota,3
+SD,South Dakota,3
+CA,California,4
+OR,Oregon,4
+WA,Washington,4
+NV,Nevada,4
+AZ,Arizona,4
+UT,Utah,4
+CO,Colorado,4
+NM,New Mexico,4
+ID,Idaho,4
+MT,Montana,4
+WY,Wyoming,4
+AK,Alaska,4
+HI,Hawaii,4

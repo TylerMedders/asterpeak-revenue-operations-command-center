@@ -1,0 +1,326 @@
+account_id,account_name,website,industry,employee_count,estimated_annual_revenue,state_code,segment,territory_id,owner_id,account_status,created_at
+ACC0001,Goldcrest Distribution Inc.,goldcrestdistribution.com,Transportation & Logistics,,329100000,NY,Upper Mid-Market,1,USR009,Prospect,2023-07-02 03:34:36
+ACC0002,BluePeak Distribution Group,bluepeakdistribution.com,Transportation & Logistics,130,21600000,GA,SMB,2,USR006,Prospect,2023-09-17 11:44:20
+ACC0003,Bluewater Health Partners,bluewaterhealthpartners.com,Healthcare,542,82300000,NY,Mid-Market,1,USR009,Prospect,2024-03-23 04:27:21
+ACC0004,Cedarstone Operations,cedarstoneoperations.com,Business Services,595,78100000,OR,Mid-Market,4,USR012,Prospect,2026-04-10 03:17:49
+ACC0005,Apex Precision Works LLC,apexprecisionworks.com,Manufacturing,137,32600000,TN,SMB,2,USR006,Customer,2023-04-13 02:30:39
+ACC0006,Cobalt Logistics Group,cobaltlogistics.com,Transportation & Logistics,40,9700000,NH,SMB,1,USR006,Prospect,2025-02-24 18:09:59
+ACC0007,ClearPath Professional Services,,Professional Services,310,64300000,CA,Mid-Market,4,USR012,Prospect,2025-12-12 20:33:05
+ACC0008,Vantage Freight LLC,vantagefreight.com,Transportation & Logistics,738,182600000,MI,Mid-Market,3,USR011,Prospect,2023-07-26 06:46:27
+ACC0009,Northstar Professional Services,northstarprofessionalservices.com,Professional Services,148,24900000,CA,SMB,4,USR008,Prospect,2026-02-25 13:05:30
+ACC0010,Riverbend Academy,riverbendacademy.com,Education,1255,154900000,KS,Upper Mid-Market,3,USR011,Prospect,2024-02-07 21:07:05
+ACC0011,Rivermark Manufacturing,rivermarkmanufacturing.com,Manufacturing,85,18100000,IL,SMB,3,USR007,Prospect,2023-12-11 04:07:33
+ACC0012,TrueNorth Solutions Inc.,truenorthsolutions.com,Professional Services,293,73700000,NY,Mid-Market,1,USR009,Prospect,2026-01-24 05:13:30
+ACC0013,Elmwood Freight,elmwoodfreight.com,Transportation & Logistics,2018,340600000,MT,Upper Mid-Market,4,,Prospect,2026-08-17 13:04:57
+ACC0014,Vertex Digital LLC,vertexdigital.com,Software & Technology,1774,421200000,FL,Upper Mid-Market,2,USR010,Prospect,2023-03-06 22:10:23
+ACC0015,Brightwell Infrastructure Inc.,brightwellinfrastructure.com,Construction,304,55400000,CA,Mid-Market,4,USR012,Prospect,2026-08-28 06:45:15
+ACC0016,Crestpoint Medical Group,crestpointmedical.com,Healthcare,140,20300000,DC,SMB,1,USR005,Prospect,2025-04-02 05:33:31
+ACC0017,Skyline Systems,skylinesystems.com,Software & Technology,57,12000000,NJ,SMB,1,USR005,Prospect,2023-07-09 23:17:07
+ACC0018,Parkline Distribution,parklinedistribution.com,Transportation & Logistics,85,13200000,NV,SMB,4,USR008,Prospect,2025-09-28 10:40:11
+ACC0019,Granite Peak Freight,granitepeakfreight.com,Transportation & Logistics,74,17300000,OR,SMB,4,USR008,Customer,2025-02-15 05:43:01
+ACC0020,Cobalt Builders Inc.,cobaltbuilders.com,Construction,66,12100000,IL,SMB,3,USR007,Prospect,2025-08-07 18:08:00
+ACC0021,Crownstone Financial Services Group,crownstonefinancialservices.com,Financial Services,691,230300000,NJ,Mid-Market,1,USR009,Prospect,2026-02-19 18:42:54
+ACC0022,TrueNorth Fabrication,truenorthfabrication.com,Manufacturing,46,11600000,FL,SMB,2,USR006,Customer,2022-01-21 21:19:18
+ACC0023,Eastwood Wealth Partners Group,eastwoodwealthpartners.com,Financial Services,85,22300000,LA,SMB,2,USR006,Customer,2026-05-29 22:47:54
+ACC0024,Frontier Labs LLC,frontierlabs.com,Software & Technology,179,49900000,VA,SMB,2,USR006,Prospect,2025-01-22 12:31:30
+ACC0025,Blue Harbor Labs,blueharborlabs.com,Software & Technology,488,89800000,FL,Mid-Market,2,USR010,Prospect,2023-10-01 04:24:12
+ACC0026,Riverbend Consulting Group,riverbendconsulting.com,Professional Services,158,32400000,KY,SMB,3,USR006,Customer,2023-08-11 07:35:02
+ACC0027,Lakeshore Training,lakeshoretraining.com,Education,483,73400000,KS,Mid-Market,3,USR011,Prospect,2026-08-07 20:51:58
+ACC0028,Vantage Transportation Group,vantagetransportation.com,Transportation & Logistics,386,64800000,GA,Mid-Market,2,USR010,Prospect,2025-06-19 10:29:47
+ACC0029,ClearPath Industrial,clearpathindustrial.com,Manufacturing,19,5200000,TN,,2,USR006,Prospect,2024-10-24 13:30:52
+ACC0030,Harborview Digital,harborviewdigital.com,Software & Technology,2147,572100000,TX,Upper Mid-Market,2,USR010,Former Customer,2022-08-22 00:18:30
+ACC0031,Redwood Fabrication,redwoodfabrication.com,Manufacturing,79,23100000,GA,SMB,2,USR006,Customer,2023-01-17 20:18:59
+ACC0032,Riverbend Contracting Group,riverbendcontracting.com,Construction,53,10300000,CA,SMB,4,USR008,Customer,2024-11-27 23:29:09
+ACC0033,OpenGate Freight,opengatefreight.com,Transportation & Logistics,402,93800000,NJ,Mid-Market,1,USR009,Prospect,2024-04-24 09:14:47
+ACC0034,Cornerstone Advisory Partners,cornerstoneadvisorypartners.com,Professional Services,91,15300000,NC,SMB,2,USR006,Prospect,2024-03-19 01:35:24
+ACC0035,Goldcrest Business Solutions,goldcrestbusinesssolutions.com,Business Services,43,9200000,DC,SMB,1,USR005,Prospect,2024-06-17 04:16:28
+ACC0036,Bluewater Precision Works,bluewaterprecisionworks.com,Manufacturing,97,21900000,AK,SMB,4,USR008,Prospect,2024-01-01 00:02:12
+ACC0037,Sterling Operations,sterlingoperations.com,Business Services,121,16200000,NY,SMB,1,USR005,Customer,2024-06-12 23:42:32
+ACC0038,Eastgate Advisory Group,eastgateadvisory.com,Financial Services,149,66900000,VA,SMB,2,USR006,Former Customer,2025-07-07 14:47:35
+ACC0039,Apex Technologies Group,apextechnologies.com,Software & Technology,41,7400000,MD,SMB,1,USR005,Customer,2023-06-16 03:00:29
+ACC0040,Foxbridge Training Inc.,foxbridgetraining.com,Education,361,49300000,NC,Mid-Market,2,USR010,Prospect,2023-05-26 10:09:33
+ACC0041,Parkline Labs,parklinelabs.com,Software & Technology,98,17700000,AZ,SMB,4,USR008,Customer,2023-11-29 15:38:35
+ACC0042,Meridian Advisory Partners LLC,meridianadvisorypartners.com,Professional Services,593,92300000,UT,Mid-Market,4,USR012,Prospect,2023-07-09 07:01:40
+ACC0043,Arbor Learning Systems Group,arborlearningsystems.com,Education,128,13800000,FL,SMB,2,USR006,Prospect,2023-08-05 10:30:15
+ACC0044,Silverline Software,silverlinesoftware.com,Software & Technology,,144800000,CA,Mid-Market,4,USR012,Prospect,2023-03-10 00:52:04
+ACC0045,Clearwater Financial Group,clearwaterfinancial.com,Financial Services,5,2000000,CT,,,USR005,Customer,2025-04-14 21:54:33
+ACC0046,Skyline Clinical Services,skylineclinicalservices.com,Healthcare,64,15100000,GA,SMB,2,USR006,Former Customer,2025-03-19 01:44:12
+ACC0047,Pioneer Systems,pioneersystems.com,Software & Technology,93,26400000,OR,SMB,4,USR008,Prospect,2025-05-22 04:38:03
+ACC0048,Cedarstone Retail Group Inc.,,Retail & E-Commerce,56,16900000,CT,SMB,1,USR005,Former Customer,2025-04-06 02:17:33
+ACC0049,Evergreen Services Group Inc.,evergreenservices.com,Business Services,79,12400000,WA,SMB,3,USR008,Customer,2023-11-10 01:48:43
+ACC0050,Brightwell Academy,brightwellacademy.com,Education,141,16000000,IL,SMB,3,USR007,Customer,2025-11-08 18:55:23
+ACC0051,Stonebridge Professional Services Group,stonebridgeprofessionalservices.com,Professional Services,622,110800000,MN,Mid-Market,3,USR011,Customer,2024-12-05 10:22:00
+ACC0052,Sterling Medical Group,sterlingmedical.com,Healthcare,1801,404200000,MA,Upper Mid-Market,1,USR009,Prospect,2026-05-09 09:50:01
+ACC0053,Maplewood Systems,maplewoodsystems.com,Software & Technology,126,28900000,VA,SMB,2,USR006,Customer,2022-05-09 15:23:51
+ACC0054,Ironwood Precision Works,ironwoodprecisionworks.com,Manufacturing,586,126100000,RI,Mid-Market,1,USR009,Customer,2022-06-23 04:45:30
+ACC0055,Bluewater Builders,,Construction,657,132800000,OH,Mid-Market,3,USR011,Prospect,2024-07-02 09:36:47
+ACC0056,Evergreen Consulting,evergreenconsulting.com,Professional Services,1885,419400000,CA,Upper Mid-Market,4,USR012,Prospect,2025-01-20 16:11:13
+ACC0057,Skyline Care Network,skylinecarenetwork.com,Healthcare,113,26000000,NJ,SMB,1,USR005,Prospect,2026-04-27 12:56:37
+ACC0058,Vantage Retail,vantageretail.com,Retail & E-Commerce,126,30900000,WV,SMB,1,USR007,Prospect,2025-11-10 21:50:07
+ACC0059,Cedarstone Labs,cedarstonelabs.com,Software & Technology,,35500000,MI,SMB,3,USR007,Prospect,2024-07-17 20:25:40
+ACC0060,Sterling Distribution,sterlingdistribution.com,Transportation & Logistics,462,111200000,MI,Mid-Market,3,USR011,Customer,2022-10-27 14:55:16
+ACC0061,Clearwater Transportation,clearwatertransportation.com,Transportation & Logistics,59,11200000,NC,SMB,2,USR006,Prospect,2024-12-08 00:55:01
+ACC0062,Oakridge Industries,oakridgeindustries.com,Manufacturing,2096,525100000,CO,Upper Mid-Market,4,USR012,Customer,2026-02-01 20:01:00
+ACC0063,Granite Peak Advisory Partners,granitepeakadvisorypartners.com,Professional Services,502,123500000,NC,Mid-Market,2,USR010,Customer,2022-07-19 12:22:27
+ACC0064,Crossroads Health Partners,crossroadshealthpartners.com,Healthcare,770,130100000,AZ,Mid-Market,4,USR012,Customer,2022-12-03 05:19:27
+ACC0065,Suncrest Clinical Services,suncrestclinicalservices.com,Healthcare,154,34700000,VA,SMB,2,USR006,Prospect,2023-10-02 15:41:38
+ACC0066,Rivermark Capital Group,rivermarkcapital.com,Financial Services,641,219500000,FL,Mid-Market,2,USR011,Prospect,2024-11-10 00:41:01
+ACC0067,Sterling Labs,sterlinglabs.com,Software & Technology,873,196700000,CA,Mid-Market,4,USR012,Prospect,2024-09-29 20:58:08
+ACC0068,ClearPath Advisory,,Financial Services,718,205100000,GA,Mid-Market,2,USR010,Customer,2025-10-10 10:31:07
+ACC0069,Meridian Construction Group,meridianconstruction.com,Construction,125,34400000,NV,SMB,4,USR008,Customer,2024-04-09 00:17:30
+ACC0070,Crossroads Commerce,crossroadscommerce.com,Retail & E-Commerce,121,32500000,KS,SMB,3,USR007,Customer,2023-03-13 03:21:36
+ACC0071,Greenfield Industries LLC,greenfieldindustries.com,Manufacturing,864,195400000,KS,Mid-Market,3,USR011,Customer,2025-12-17 22:42:02
+ACC0072,Highland Fabrication,highlandfabrication.com,Manufacturing,288,,IL,Mid-Market,3,USR011,Customer,2026-01-31 08:24:46
+ACC0073,Skyline Health Partners,skylinehealthpartners.com,Healthcare,93,22200000,LA,SMB,2,USR006,Customer,2023-10-20 01:15:40
+ACC0074,Evergreen Wealth Partners LLC,evergreenwealthpartners.com,Financial Services,303,107800000,ID,Mid-Market,4,USR012,Customer,2026-01-15 08:16:22
+ACC0075,Greenfield Software,greenfieldsoftware.com,Software & Technology,73,15200000,IL,SMB,3,USR007,Former Customer,2024-09-27 14:31:34
+ACC0076,PrimePoint Consulting,primepointconsulting.com,Professional Services,87,22100000,KY,SMB,2,USR006,Prospect,2026-08-11 20:34:31
+ACC0077,Skyline Industries,skylineindustries.com,Manufacturing,497,104400000,OK,Mid-Market,2,USR010,Prospect,2023-11-01 01:04:13
+ACC0078,Northstar Technologies Inc.,northstartechnologies.com,Software & Technology,586,118500000,AZ,Mid-Market,4,USR012,Prospect,2026-01-21 04:37:12
+ACC0079,Highland Logistics,highlandlogistics.com,Transportation & Logistics,37,8800000,NY,SMB,1,USR005,Customer,2024-06-05 08:27:55
+ACC0080,Arbor Financial Services,arborfinancialservices.com,Financial Services,707,214900000,CO,Mid-Market,4,USR012,Customer,2023-11-19 16:30:07
+ACC0081,ClearPath Distribution,clearpathdistribution.com,Transportation & Logistics,787,215300000,KS,Mid-Market,3,USR009,Prospect,2024-02-17 21:46:51
+ACC0082,Bluewater Manufacturing,bluewatermanufacturing.com,Manufacturing,67,13100000,NY,SMB,1,USR005,Prospect,2026-02-12 17:33:27
+ACC0083,Apex Retail,apexretail.com,Retail & E-Commerce,238,56100000,OR,Mid-Market,4,USR012,Prospect,2024-04-08 07:50:33
+ACC0084,Ridgeview Retail Group,ridgeviewretail.com,Retail & E-Commerce,663,224600000,FL,Mid-Market,1,USR010,Customer,2024-06-07 11:26:03
+ACC0085,Northwind Learning Systems Group,northwindlearningsystems.com,Education,104,15700000,NJ,SMB,1,USR005,Prospect,2023-10-14 11:36:09
+ACC0086,Highland Digital,highlanddigital.com,Software & Technology,402,64000000,AL,Mid-Market,2,USR010,Prospect,2026-09-11 20:44:31
+ACC0087,Silver Oak Technologies Group,silveroaktechnologies.com,Software & Technology,86,19900000,MA,SMB,1,USR005,Customer,2023-10-04 19:43:45
+ACC0088,Stonebridge Solutions,stonebridgesolutions.com,Professional Services,80,14300000,NY,SMB,1,USR005,Customer,2024-11-27 18:36:25
+ACC0089,BluePeak Software,bluepeaksoftware.com,Software & Technology,358,102900000,NY,Mid-Market,1,USR009,Prospect,2023-11-19 20:53:24
+ACC0090,Oakridge Brands,oakridgebrands.com,Retail & E-Commerce,95,35500000,TN,SMB,2,USR006,Prospect,2024-06-29 06:32:08
+ACC0091,Oakridge Support Services,oakridgesupportservices.com,Business Services,165,39700000,IA,SMB,3,USR007,Prospect,2024-06-15 04:30:28
+ACC0092,Vertex Digital Group,vertexdigital.com,Software & Technology,391,79100000,TN,Mid-Market,2,USR010,Customer,2022-01-16 04:22:31
+ACC0093,Pioneer Software,pioneersoftware.com,Software & Technology,34,5400000,IL,SMB,3,USR007,Prospect,2024-03-23 13:56:47
+ACC0094,Skyline Business Solutions,skylinebusinesssolutions.com,Business Services,166,38300000,CT,SMB,1,USR005,Prospect,2023-04-30 04:16:43
+ACC0095,Vantage Software,vantagesoftware.com,Software & Technology,900,189900000,AZ,Mid-Market,4,USR012,Customer,2026-03-26 16:01:25
+ACC0096,Lakeshore Transportation LLC,lakeshoretransportation.com,Transportation & Logistics,123,21500000,OH,SMB,3,USR007,Customer,2024-09-06 16:01:05
+ACC0097,Westfield Construction Group,westfieldconstruction.com,Construction,725,159000000,MI,Mid-Market,1,USR011,Prospect,2026-07-15 00:09:22
+ACC0098,Bridgeway Learning Systems Group,bridgewaylearningsystems.com,Education,2073,323700000,NY,Upper Mid-Market,1,USR009,Customer,2024-12-13 11:49:49
+ACC0099,Foxbridge Financial Group,foxbridgefinancial.com,Financial Services,87,28000000,AZ,SMB,4,USR008,Customer,2024-06-30 15:02:30
+ACC0100,Rivermark Digital,rivermarkdigital.com,Software & Technology,1136,323900000,PA,Upper Mid-Market,1,USR009,Prospect,2024-09-08 12:25:02
+ACC0101,OpenGate Consulting LLC,opengateconsulting.com,Professional Services,100,14700000,IL,SMB,3,USR007,Prospect,2026-03-14 03:09:51
+ACC0102,Summit Ridge Builders Group,summitridgebuilders.com,Construction,2097,546300000,PA,Upper Mid-Market,1,USR009,Prospect,2024-07-16 05:23:45
+ACC0103,Fairview Fabrication LLC,fairviewfabrication.com,Manufacturing,504,163500000,MI,Mid-Market,3,USR010,Prospect,2023-04-04 22:06:59
+ACC0104,Rivermark Clinical Services LLC,rivermarkclinicalservices.com,Healthcare,104,18300000,LA,SMB,2,USR006,Prospect,2023-08-27 03:24:21
+ACC0105,TrueNorth Health Services,truenorthhealthservices.com,Healthcare,139,20200000,CA,SMB,4,USR008,Prospect,2024-02-01 20:33:20
+ACC0106,Sterling Advisory,sterlingadvisory.com,Financial Services,609,195800000,DE,Mid-Market,1,USR009,Customer,2024-01-17 20:15:31
+ACC0107,Arbor Support Services Inc.,arborsupportservices.com,Business Services,19,3300000,NY,,1,USR005,Prospect,2024-01-22 17:55:23
+ACC0108,Clearwater Health Partners,clearwaterhealthpartners.com,Healthcare,75,10900000,KS,SMB,3,USR007,Prospect,2023-11-14 01:24:45
+ACC0109,ClearPath Manufacturing LLC,clearpathmanufacturing.com,Manufacturing,1191,387500000,KY,Upper Mid-Market,2,USR010,Customer,2025-06-03 20:46:39
+ACC0110,Frontier Precision Works LLC,frontierprecisionworks.com,Manufacturing,49,15400000,TX,SMB,2,USR006,Prospect,2026-03-04 19:22:27
+ACC0111,Frontier Learning,frontierlearning.com,Education,553,60900000,CA,Mid-Market,4,USR012,Prospect,2023-03-01 09:17:04
+ACC0112,Redstone Manufacturing,redstonemanufacturing.com,Manufacturing,3048,613500000,AR,,2,USR010,Former Customer,2025-01-06 04:16:26
+ACC0113,Catalyst Support Services,catalystsupportservices.com,Business Services,1806,345500000,MO,Upper Mid-Market,3,USR011,Former Customer,2025-10-10 01:13:35
+ACC0114,Granite Peak Manufacturing LLC,granitepeakmanufacturing.com,Manufacturing,135,28300000,IL,SMB,3,USR007,Customer,2025-09-29 07:49:19
+ACC0115,Cobalt Health Services,cobalthealthservices.com,Healthcare,1879,356700000,NE,Upper Mid-Market,3,USR011,Customer,2023-04-22 05:29:25
+ACC0116,Eastwood Consulting,eastwoodconsulting.com,Professional Services,529,123300000,MA,Mid-Market,1,USR009,Prospect,2025-09-02 23:01:24
+ACC0117,Crownstone Business Solutions Group,crownstonebusinesssolutions.com,Business Services,485,111200000,NY,Mid-Market,1,USR009,Customer,2025-05-12 06:47:44
+ACC0118,Summit Ridge Academy Group,summitridgeacademy.com,Education,67,10200000,NY,SMB,1,USR005,Customer,2022-12-09 16:07:33
+ACC0119,Blue Harbor Health Services,blueharborhealthservices.com,Healthcare,69,12700000,NJ,SMB,1,USR005,Customer,2023-07-23 17:30:08
+ACC0120,Cobalt Clinical Services LLC,cobaltclinicalservices.com,Healthcare,490,72700000,ID,Mid-Market,4,USR012,Customer,2023-12-23 20:03:00
+ACC0121,Keystone Labs LLC,keystonelabs.com,Software & Technology,261,43800000,WA,Mid-Market,4,USR012,Prospect,2026-01-29 13:09:40
+ACC0122,PrimePoint Software,primepointsoftware.com,Software & Technology,1398,297300000,LA,Upper Mid-Market,2,USR010,Prospect,2026-08-14 15:05:24
+ACC0123,Redstone Marketplace Inc.,redstonemarketplace.com,Retail & E-Commerce,662,228800000,IN,Mid-Market,2,USR011,Prospect,2023-12-24 12:07:42
+ACC0124,Vantage Systems,vantagesystems.com,,577,122500000,MA,Mid-Market,1,USR009,Prospect,2026-03-08 16:45:25
+ACC0125,Silverline Technologies,silverlinetechnologies.com,Software & Technology,76,19700000,NV,SMB,4,USR008,Customer,2024-01-20 12:36:14
+ACC0126,Ironwood Software Group,ironwoodsoftware.com,Software & Technology,160,26400000,NY,SMB,1,USR005,Customer,2023-02-24 08:32:05
+ACC0127,Meridian Financial Services,meridianfinancialservices.com,Financial Services,582,267000000,IL,Mid-Market,4,USR011,Customer,2022-02-02 21:18:35
+ACC0128,Cornerstone Industries Inc.,cornerstoneindustries.com,Manufacturing,162,47500000,WA,SMB,4,USR008,Prospect,2025-03-12 21:24:43
+ACC0129,Clearwater Precision Works,clearwaterprecisionworks.com,Manufacturing,97,21900000,OK,SMB,2,USR006,Prospect,2026-03-25 11:51:49
+ACC0130,Northwind Contracting LLC,northwindcontracting.com,Construction,115,19200000,TN,SMB,2,USR006,Prospect,2026-06-06 08:20:45
+ACC0131,Evergreen Support Services,evergreensupportservices.com,Business Services,48,9500000,AL,SMB,1,USR006,Prospect,2026-07-22 22:56:38
+ACC0132,Brookstone Precision Works,,Manufacturing,735,181500000,MA,Mid-Market,1,USR009,Prospect,2024-09-20 11:50:33
+ACC0133,Lakeshore Commerce,lakeshorecommerce.com,Retail & E-Commerce,805,211500000,NY,Mid-Market,1,USR009,Customer,2026-02-22 19:26:08
+ACC0134,Suncrest Freight Inc.,suncrestfreight.com,Transportation & Logistics,56,12900000,,SMB,1,USR005,Prospect,2024-02-07 21:45:12
+ACC0135,Redstone Consulting Group,redstoneconsulting.com,Professional Services,112,19000000,NY,SMB,1,USR005,Prospect,2023-12-17 14:27:51
+ACC0136,Skyline Precision Works Group,skylineprecisionworks.com,Manufacturing,842,221300000,TX,Mid-Market,2,USR010,Customer,2026-05-29 20:11:33
+ACC0137,Oakridge Distribution,oakridgedistribution.com,Transportation & Logistics,299,47300000,MI,Mid-Market,3,USR011,Prospect,2026-01-27 08:05:47
+ACC0138,Riverbend Support Services Inc.,riverbendsupportservices.com,Business Services,122,27900000,WA,SMB,4,USR008,Prospect,2024-01-09 07:56:28
+ACC0139,Maplewood Distribution Inc.,maplewooddistribution.com,Transportation & Logistics,731,174200000,MO,Mid-Market,3,USR011,Customer,2025-10-20 03:17:40
+ACC0140,Cobalt Supply Chain LLC,cobaltsupplychain.com,Transportation & Logistics,1642,305200000,CA,Upper Mid-Market,4,USR012,Customer,2022-03-17 23:18:11
+ACC0141,Beacon Capital,beaconcapital.com,Financial Services,2121,639800000,NY,Upper Mid-Market,1,USR009,Customer,2026-04-25 02:21:28
+ACC0142,Northstar Business Solutions Inc.,northstarbusinesssolutions.com,Business Services,349,75100000,CA,Mid-Market,4,USR012,Prospect,2023-07-24 18:22:43
+ACC0143,Frontier Software,frontiersoftware.com,Software & Technology,162,29200000,CA,SMB,4,USR008,Customer,2024-10-18 16:43:50
+ACC0144,Ridgeview Marketplace,ridgeviewmarketplace.com,Retail & E-Commerce,150,50200000,FL,SMB,2,USR006,Customer,2023-12-08 10:49:47
+ACC0145,Silver Oak Manufacturing,silveroakmanufacturing.com,Manufacturing,87,23600000,TX,SMB,2,USR006,Customer,2024-08-14 20:38:08
+ACC0146,Vertex Support Services,vertexsupportservices.com,Business Services,744,122900000,OH,Mid-Market,3,USR011,Prospect,2026-08-13 02:13:24
+ACC0147,Vertex Logistics,vertexlogistics.com,Transportation & Logistics,82,13200000,CA,SMB,4,USR008,Customer,2023-07-18 00:39:50
+ACC0148,Arbor Software Inc.,arborsoftware.com,Software & Technology,124,21100000,AL,SMB,2,USR006,Prospect,2023-08-19 16:49:21
+ACC0149,Silverline Transportation,silverlinetransportation.com,Transportation & Logistics,65,12500000,FL,SMB,2,USR006,Prospect,2023-03-06 11:35:06
+ACC0150,TrueNorth Consulting Group,truenorthconsulting.com,Professional Services,115,28200000,NY,SMB,1,USR005,Customer,2024-12-09 14:31:12
+ACC0151,Westlake Services Group,westlakeservices.com,Business Services,69,11700000,AZ,SMB,4,USR008,Customer,2026-01-27 10:21:29
+ACC0152,Northstar Commerce,northstarcommerce.com,Retail & E-Commerce,1073,404900000,CA,Upper Mid-Market,4,USR012,Former Customer,2025-09-02 06:28:55
+ACC0153,Granite Peak Care Network LLC,granitepeakcarenetwork.com,Healthcare,71,15900000,OK,SMB,2,USR006,Customer,2024-11-01 21:35:41
+ACC0154,Ironwood Industrial Inc.,ironwoodindustrial.com,Manufacturing,47,8800000,NC,SMB,2,USR006,Prospect,2023-02-15 21:10:37
+ACC0155,Granite Peak Clinical Services,granitepeakclinicalservices.com,Healthcare,235,40200000,WV,Mid-Market,1,USR009,Prospect,2024-08-07 17:02:16
+ACC0156,Harborview Clinical Services Group,harborviewclinicalservices.com,Healthcare,513,73300000,NJ,Mid-Market,1,USR009,Prospect,2023-11-23 09:50:08
+ACC0157,PrimePoint Commerce Inc.,primepointcommerce.com,Retail & E-Commerce,163,53600000,NJ,SMB,1,USR007,Prospect,2025-12-02 01:23:58
+ACC0158,Granite Peak Business Services Inc.,granitepeakbusinessservices.com,Business Services,154,23300000,NV,SMB,4,USR008,Prospect,2026-05-28 23:39:58
+ACC0159,Brookstone Business Solutions,brookstonebusinesssolutions.com,Business Services,127,18200000,MN,SMB,3,,Customer,2026-03-31 21:45:16
+ACC0160,Redstone Construction,redstoneconstruction.com,Construction,323,94100000,CO,Mid-Market,4,USR012,Prospect,2026-05-23 03:13:19
+ACC0161,Eastgate Supply Chain,eastgatesupplychain.com,Transportation & Logistics,61,14900000,NY,SMB,1,USR005,Former Customer,2025-11-22 12:49:22
+ACC0162,Clearwater Consulting,clearwaterconsulting.com,Professional Services,67,15300000,VA,SMB,2,USR006,Customer,2022-06-16 14:42:37
+ACC0163,Redwood Operations,redwoodoperations.com,Business Services,105,20300000,SC,SMB,2,USR006,Prospect,2023-01-14 11:47:19
+ACC0164,Mosaic Fabrication Inc.,mosaicfabrication.com,Manufacturing,142,45700000,MI,SMB,3,USR007,Customer,2026-05-29 03:36:41
+ACC0165,Redstone Advisory,redstoneadvisory.com,Financial Services,48,17800000,MI,SMB,,USR007,Prospect,2025-08-16 09:52:58
+ACC0166,Cobalt Precision Works,cobaltprecisionworks.com,Manufacturing,59,12900000,OH,SMB,3,USR007,Prospect,2026-02-20 14:07:58
+ACC0167,Harborview Retail Group,harborviewretail.com,Retail & E-Commerce,112,43600000,NY,SMB,1,USR005,Prospect,2026-01-19 08:34:37
+ACC0168,Evergreen Professional Services,evergreenprofessionalservices.com,Professional Services,693,101600000,MS,Mid-Market,2,USR010,Customer,2022-02-07 22:18:30
+ACC0169,Blue Harbor Brands,blueharborbrands.com,Retail & E-Commerce,148,44000000,WA,SMB,4,USR008,Prospect,2024-02-02 19:30:11
+ACC0170,ClearPath Wealth Partners LLC,clearpathwealthpartners.com,Financial Services,382,144300000,MI,Mid-Market,3,USR011,Prospect,2025-04-23 23:31:01
+ACC0171,Fairview Consulting Group,fairviewconsulting.com,Professional Services,365,86000000,CO,Mid-Market,4,USR012,Customer,2023-10-02 05:17:43
+ACC0172,BrightPath Retail,brightpathretail.com,,2058,599400000,NC,Upper Mid-Market,2,USR010,Prospect,2023-04-28 03:32:34
+ACC0173,Bluewater Contracting,bluewatercontracting.com,Construction,113,22000000,CA,SMB,4,USR008,Customer,2025-04-25 01:21:52
+ACC0174,Cornerstone Training,cornerstonetraining.com,Education,76,11900000,NY,SMB,1,USR005,Prospect,2023-04-22 21:52:03
+ACC0175,Frontier Financial Services Inc.,frontierfinancialservices.com,Financial Services,164,60800000,GA,SMB,2,USR006,Customer,2025-03-23 20:42:08
+ACC0176,Clearwater Precision Works LLC,clearwaterprecisionworks.com,Manufacturing,131,27900000,FL,SMB,2,USR006,Customer,2023-01-22 13:53:15
+ACC0177,Vertex Services Group Group,vertexservices.com,Business Services,129,22800000,NC,SMB,2,USR006,Prospect,2025-11-15 20:16:24
+ACC0178,Skyline Fabrication,skylinefabrication.com,Manufacturing,65,16200000,VA,SMB,2,USR006,Customer,2023-09-13 09:59:30
+ACC0179,Brightwell Digital Group,brightwelldigital.com,Software & Technology,226,61500000,OH,Mid-Market,3,USR011,Former Customer,2022-10-31 15:13:49
+ACC0180,Lakeview Transportation,lakeviewtransportation.com,Transportation & Logistics,57,14400000,AL,SMB,2,USR006,Prospect,2023-01-02 10:58:56
+ACC0181,BluePeak Construction,bluepeakconstruction.com,Construction,447,128400000,TX,Mid-Market,2,USR010,Customer,2026-04-04 11:52:39
+ACC0182,Horizon Fabrication,,Manufacturing,1224,272200000,NY,Upper Mid-Market,1,USR009,Prospect,2024-10-01 15:14:22
+ACC0183,Silver Oak Clinical Services Inc.,silveroakclinicalservices.com,,632,145000000,FL,Mid-Market,2,USR010,Customer,2024-12-30 07:27:08
+ACC0184,ClearPath Support Services,clearpathsupportservices.com,Business Services,130,24400000,OH,SMB,3,USR007,Customer,2024-09-29 23:06:50
+ACC0185,Brookstone Labs Inc.,brookstonelabs.com,Software & Technology,96,26700000,NY,SMB,1,USR005,Customer,2025-05-13 16:17:37
+ACC0186,Brightwell Operations Group,brightwelloperations.com,Business Services,516,85500000,NY,Mid-Market,1,USR009,Customer,2023-09-01 10:54:29
+ACC0187,BluePeak Care Network,bluepeakcarenetwork.com,Healthcare,356,81500000,KS,Mid-Market,3,USR009,Customer,2025-10-18 11:48:53
+ACC0188,BluePeak Fabrication,bluepeakfabrication.com,Manufacturing,162,42200000,WY,SMB,4,USR008,Customer,2024-06-30 13:06:19
+ACC0189,Beacon Software,,Software & Technology,344,96300000,WI,Mid-Market,3,USR011,Customer,2022-03-10 08:58:31
+ACC0190,Bluewater Industrial,bluewaterindustrial.com,Manufacturing,693,147100000,,Mid-Market,2,USR010,Prospect,2024-09-20 14:10:57
+ACC0191,Ironwood Financial Group,ironwoodfinancial.com,Financial Services,45,11400000,FL,SMB,2,USR006,Prospect,2026-03-23 16:13:02
+ACC0192,Fairview Advisory Partners,fairviewadvisorypartners.com,Professional Services,170,45800000,AK,SMB,4,USR008,Prospect,2026-01-01 05:26:22
+ACC0193,Westlake Academy LLC,westlakeacademy.com,Education,141,16700000,MA,SMB,1,USR005,Prospect,2026-04-11 11:01:04
+ACC0194,BluePeak Brands,bluepeakbrands.com,Retail & E-Commerce,119,47700000,GA,SMB,2,USR006,Prospect,2024-05-02 19:54:16
+ACC0195,Summit Ridge Health Partners,summitridgehealthpartners.com,Healthcare,111,25300000,SC,SMB,2,USR006,Customer,2024-06-30 00:57:49
+ACC0196,Northstar Retail,northstarretail.com,Retail & E-Commerce,512,124600000,KS,Mid-Market,3,USR011,Prospect,2023-11-14 16:30:23
+ACC0197,Cedarstone Software,cedarstonesoftware.com,Software & Technology,74,11800000,IL,SMB,3,USR007,Customer,2022-12-02 15:23:11
+ACC0198,Blue Harbor Digital Inc.,blueharbordigital.com,Software & Technology,80,19100000,KY,SMB,2,USR006,Prospect,2023-01-31 08:16:55
+ACC0199,Oakridge Professional Services,oakridgeprofessionalservices.com,Professional Services,83,12900000,OH,SMB,3,USR007,Prospect,2023-07-21 03:10:54
+ACC0200,Meridian Contracting Group,meridiancontracting.com,Construction,135,30500000,,SMB,2,USR006,Prospect,2023-01-29 17:01:22
+ACC0201,Riverbend Systems Group,riverbendsystems.com,Software & Technology,38,7500000,CA,SMB,4,USR008,Customer,2023-02-26 07:44:35
+ACC0202,Clearwater Support Services Group,,Business Services,447,106100000,TN,Mid-Market,2,USR010,Prospect,2026-01-08 07:53:26
+ACC0203,Blue Harbor Precision Works LLC,blueharborprecisionworks.com,Manufacturing,1296,248800000,OH,Upper Mid-Market,3,USR011,Customer,2024-06-20 13:00:52
+ACC0204,OpenGate Solutions,,Professional Services,3247,656000000,GA,,2,USR010,Prospect,2026-04-05 01:35:50
+ACC0205,Pinecrest Manufacturing LLC,pinecrestmanufacturing.com,Manufacturing,367,128500000,CA,Mid-Market,4,USR012,Customer,2025-04-23 18:33:59
+ACC0206,Granite Peak Contracting,granitepeakcontracting.com,Construction,89,21600000,TX,SMB,2,USR006,Prospect,2023-11-18 16:48:46
+ACC0207,BrightPath Health Partners LLC,brightpathhealthpartners.com,Healthcare,476,80200000,TX,Mid-Market,2,USR010,Customer,2023-04-04 10:12:58
+ACC0208,Westfield Labs,westfieldlabs.com,Software & Technology,83,15000000,TX,SMB,2,USR006,Former Customer,2022-12-14 20:29:00
+ACC0209,Highpoint Freight,highpointfreight.com,Transportation & Logistics,1557,334800000,PA,Upper Mid-Market,1,USR009,Prospect,2024-02-24 15:40:42
+ACC0210,Rivermark Retail,rivermarkretail.com,Retail & E-Commerce,3773,909600000,OK,,2,USR010,Customer,2026-02-15 04:48:09
+ACC0211,Northwind Support Services Inc.,northwindsupportservices.com,Business Services,,69400000,IL,Mid-Market,3,USR011,Prospect,2025-10-04 07:53:50
+ACC0212,Brookstone Health Services,brookstonehealthservices.com,Healthcare,93,12700000,GA,SMB,4,USR006,Prospect,2023-12-03 15:49:55
+ACC0213,Silver Oak Retail Group,silveroakretail.com,Retail & E-Commerce,2605,616200000,IN,,3,USR011,Prospect,2026-08-21 08:35:21
+ACC0214,Redstone Logistics Group,redstonelogistics.com,Transportation & Logistics,55,15100000,PA,SMB,1,USR005,Prospect,2025-08-18 03:01:57
+ACC0215,Highpoint Care Network LLC,highpointcarenetwork.com,Healthcare,91,11900000,NY,SMB,1,USR005,Prospect,2023-10-27 05:35:32
+ACC0216,Parkline Manufacturing,,Manufacturing,370,127600000,WI,Mid-Market,3,USR011,Customer,2022-10-20 18:30:56
+ACC0217,Brookstone Software,brookstonesoftware.com,Software & Technology,1329,360000000,FL,Upper Mid-Market,2,USR010,Prospect,2026-06-16 19:27:40
+ACC0218,Fairview Digital,fairviewdigital.com,Software & Technology,130,28800000,IN,SMB,3,USR007,Customer,2022-03-14 23:38:57
+ACC0219,Maplewood Consulting,maplewoodconsulting.com,Professional Services,1910,491400000,WA,Upper Mid-Market,4,USR012,Customer,2024-02-27 13:54:05
+ACC0220,Brookstone Technologies,brookstonetechnologies.com,Software & Technology,3090,683000000,CA,,,USR012,Customer,2022-12-08 21:13:39
+ACC0221,Keystone Labs,keystonelabs.com,Software & Technology,365,63000000,WV,Mid-Market,1,,Prospect,2024-09-01 20:48:14
+ACC0222,Cedarstone Freight LLC,cedarstonefreight.com,Transportation & Logistics,61,14300000,CA,SMB,4,USR008,Prospect,2023-09-26 18:28:18
+ACC0223,Eastgate Advisory Partners,eastgateadvisorypartners.com,Professional Services,1862,473200000,OH,Upper Mid-Market,3,USR011,Prospect,2026-02-18 22:22:35
+ACC0224,Brightwell Builders,,Construction,134,22300000,WV,SMB,1,USR005,Customer,2025-12-14 04:35:19
+ACC0225,Beacon Freight,beaconfreight.com,Transportation & Logistics,2214,512100000,NV,Upper Mid-Market,4,USR012,Customer,2023-01-10 00:14:25
+ACC0226,Foxbridge Capital,foxbridgecapital.com,Financial Services,122,50000000,NY,SMB,1,USR005,Customer,2025-04-26 04:11:28
+ACC0227,Sterling Digital Inc.,sterlingdigital.com,Software & Technology,56,13200000,PA,SMB,1,USR005,Prospect,2025-07-14 15:54:11
+ACC0228,Cornerstone Construction,cornerstoneconstruction.com,Construction,695,,CA,Mid-Market,4,USR012,Customer,2025-10-12 19:17:38
+ACC0229,Elmwood Wealth Partners,elmwoodwealthpartners.com,Financial Services,174,49300000,GA,SMB,2,USR006,Prospect,2026-06-06 18:36:13
+ACC0230,OpenGate Advisory Partners Inc.,opengateadvisorypartners.com,Professional Services,1853,384600000,MN,Upper Mid-Market,3,USR011,Prospect,2025-02-13 03:28:11
+ACC0231,Ironwood Labs,ironwoodlabs.com,Software & Technology,517,,IA,Mid-Market,3,USR011,Prospect,2023-02-14 20:06:52
+ACC0232,Pinecrest Labs,pinecrestlabs.com,Software & Technology,421,112500000,NE,Mid-Market,3,USR011,Prospect,2023-10-08 16:29:30
+ACC0233,TrueNorth Marketplace Inc.,truenorthmarketplace.com,Retail & E-Commerce,441,110100000,IL,Mid-Market,3,USR011,Customer,2024-05-28 15:31:51
+ACC0234,Crownstone Fabrication,crownstonefabrication.com,Manufacturing,131,27200000,NY,SMB,1,USR005,Customer,2026-05-19 12:19:45
+ACC0235,Highland Clinical Services,highlandclinicalservices.com,Healthcare,89,16100000,NC,SMB,2,USR006,Prospect,2023-12-15 22:36:33
+ACC0236,Brightwell Fabrication Inc.,,Manufacturing,73,14400000,WV,SMB,1,USR005,Prospect,2026-07-24 08:16:47
+ACC0237,Silver Oak Professional Services LLC,silveroakprofessionalservices.com,Professional Services,283,53200000,PA,Mid-Market,1,USR009,Prospect,2026-08-18 11:12:20
+ACC0238,Catalyst Supply Chain LLC,catalystsupplychain.com,,169,25700000,VA,SMB,2,USR006,Prospect,2025-01-08 19:49:41
+ACC0239,Westlake Support Services Group,westlakesupportservices.com,Business Services,398,81000000,NV,Mid-Market,4,,Customer,2023-09-07 17:12:26
+ACC0240,Ridgeview Labs,ridgeviewlabs.com,Software & Technology,121,23600000,VA,SMB,2,,Prospect,2024-08-24 13:40:36
+ACC0241,Bluewater Freight,bluewaterfreight.com,Transportation & Logistics,68,13400000,OH,SMB,3,USR007,Prospect,2025-02-04 15:57:06
+ACC0242,Brookstone Learning Systems,brookstonelearningsystems.com,Education,55,8500000,WA,SMB,4,USR008,Prospect,2025-02-16 17:05:56
+ACC0243,Greenfield Construction LLC,greenfieldconstruction.com,Construction,145,39600000,NY,SMB,1,USR005,Former Customer,2022-05-25 07:34:56
+ACC0244,Ridgeview Brands,ridgeviewbrands.com,Retail & E-Commerce,61,22400000,SC,SMB,2,USR006,Customer,2022-01-30 01:37:28
+ACC0245,Cobalt Labs,cobaltlabs.com,Software & Technology,,212400000,OR,Upper Mid-Market,4,USR012,Prospect,2025-07-08 00:02:54
+ACC0246,Riverbend Medical Group Inc.,,Healthcare,2013,405700000,CO,Upper Mid-Market,4,USR012,Customer,2023-04-11 11:02:02
+ACC0247,TrueNorth Supply Chain,truenorthsupplychain.com,Transportation & Logistics,826,140500000,CT,Mid-Market,1,USR009,Customer,2025-08-06 09:33:14
+ACC0248,Clearwater Advisory Partners Group,clearwateradvisorypartners.com,Professional Services,754,166000000,WA,Mid-Market,4,USR012,Former Customer,2022-07-05 02:53:52
+ACC0249,Highpoint Health Partners,highpointhealthpartners.com,Healthcare,377,84500000,FL,Mid-Market,2,USR010,Prospect,2025-02-14 16:13:46
+ACC0250,BrightPath Advisory Partners LLC,brightpathadvisorypartners.com,Professional Services,52,,CA,SMB,4,USR008,Customer,2022-09-22 03:03:59
+ACC0251,Westfield Retail Group,westfieldretail.com,Retail & E-Commerce,59,23400000,CA,SMB,4,USR008,Prospect,2023-10-08 09:35:55
+ACC0252,Silver Oak Consulting Group,silveroakconsulting.com,,48,7200000,IL,SMB,3,USR007,Prospect,2024-06-19 09:29:20
+ACC0253,Crestpoint Professional Services,crestpointprofessionalservices.com,Professional Services,211,,GA,Mid-Market,2,USR010,Prospect,2025-08-14 13:58:48
+ACC0254,Riverbend Learning Systems,riverbendlearningsystems.com,Education,2169,192700000,DC,Upper Mid-Market,1,USR009,Customer,2025-04-22 15:17:25
+ACC0255,Maplewood Brands,maplewoodbrands.com,Retail & E-Commerce,532,190500000,CA,Mid-Market,4,USR012,Prospect,2026-02-09 13:32:08
+ACC0256,Rivermark Labs Inc.,,Software & Technology,55,10500000,FL,SMB,2,USR006,Customer,2026-03-11 19:38:29
+ACC0257,Sterling Digital,sterlingdigital.com,Software & Technology,895,247100000,IL,Mid-Market,3,USR011,Customer,2022-10-03 16:13:58
+ACC0258,Crescent Solutions,crescentsolutions.com,Professional Services,711,157500000,NY,Mid-Market,1,USR012,Customer,2025-09-30 17:46:07
+ACC0259,Eastgate Labs,eastgatelabs.com,Software & Technology,733,150900000,NC,Mid-Market,3,USR010,Prospect,2025-10-25 18:45:13
+ACC0260,Parkline Professional Services,parklineprofessionalservices.com,Professional Services,106,18600000,CT,SMB,1,USR005,Customer,2024-05-16 14:09:03
+ACC0261,Fairview Commerce Group,fairviewcommerce.com,Retail & E-Commerce,308,95700000,CA,Mid-Market,1,USR012,Customer,2023-02-04 19:45:12
+ACC0262,Redwood Manufacturing Inc.,redwoodmanufacturing.com,Manufacturing,127,34000000,NY,SMB,1,USR005,Prospect,2023-12-12 17:16:26
+ACC0263,Northwind Industries LLC,northwindindustries.com,,180,60600000,OR,SMB,4,USR008,Prospect,2026-05-17 21:18:59
+ACC0264,Northwind Systems,northwindsystems.com,Software & Technology,89,20900000,,SMB,3,USR007,Customer,2025-12-15 05:08:44
+ACC0265,Westfield Commerce Group,westfieldcommerce.com,Retail & E-Commerce,146,,AZ,SMB,4,USR008,Prospect,2026-03-19 11:24:37
+ACC0266,Lakeshore Manufacturing,lakeshoremanufacturing.com,Manufacturing,1448,455900000,IL,Upper Mid-Market,3,,Customer,2023-01-27 10:04:15
+ACC0267,Cedarstone Health Services LLC,cedarstonehealthservices.com,Healthcare,147,34000000,NY,SMB,1,USR005,Prospect,2025-01-03 05:43:18
+ACC0268,Clearwater Software LLC,clearwatersoftware.com,Software & Technology,87,21900000,CA,SMB,4,USR008,Prospect,2026-09-09 11:09:00
+ACC0269,Apex Marketplace,apexmarketplace.com,Retail & E-Commerce,306,107000000,MD,Mid-Market,1,USR009,Prospect,2023-02-18 22:15:11
+ACC0270,Pioneer Care Network Inc.,pioneercarenetwork.com,Healthcare,143,24300000,NY,SMB,1,USR005,Prospect,2024-12-10 10:56:50
+ACC0271,Northstar Software,northstarsoftware.com,Software & Technology,37,10600000,CA,SMB,4,USR008,Customer,2024-08-28 14:38:02
+ACC0272,Eastwood Financial Services Group,eastwoodfinancialservices.com,Financial Services,587,163500000,GA,Mid-Market,2,USR010,Customer,2026-01-21 06:53:25
+ACC0273,Ironwood Training Inc.,ironwoodtraining.com,Education,82,9500000,OH,SMB,3,USR007,Prospect,2025-08-13 20:27:26
+ACC0274,Horizon Support Services,horizonsupportservices.com,Business Services,2368,554600000,WV,Upper Mid-Market,1,USR009,Customer,2024-11-11 18:16:02
+ACC0275,Lakeshore Infrastructure,lakeshoreinfrastructure.com,Construction,97,27200000,FL,SMB,2,USR006,Prospect,2026-04-18 12:49:54
+ACC0276,Lakeview Support Services,lakeviewsupportservices.com,Business Services,713,154800000,IL,Mid-Market,3,USR011,Prospect,2024-08-28 15:17:38
+ACC0277,Arbor Care Network,arborcarenetwork.com,Healthcare,761,132200000,FL,Mid-Market,2,USR010,Prospect,2025-12-06 12:11:11
+ACC0278,Westfield Industrial,westfieldindustrial.com,Manufacturing,879,228500000,OK,Mid-Market,2,USR010,Customer,2025-04-12 05:24:33
+ACC0279,Stonebridge Learning,stonebridgelearning.com,Education,618,84500000,MO,Mid-Market,3,USR011,Prospect,2023-05-03 07:55:58
+ACC0280,Highpoint Financial Services Group,highpointfinancialservices.com,Financial Services,114,38700000,IL,SMB,3,USR007,Former Customer,2023-07-12 20:50:02
+ACC0281,Parkline Development LLC,parklinedevelopment.com,Construction,123,30500000,AZ,SMB,,USR008,Prospect,2025-04-22 09:14:53
+ACC0282,Fairview Manufacturing,fairviewmanufacturing.com,Manufacturing,2011,429300000,NC,Upper Mid-Market,2,USR010,Prospect,2024-06-09 12:52:35
+ACC0283,Silver Oak Systems Group,silveroaksystems.com,Software & Technology,34,6600000,GA,SMB,2,USR006,Prospect,2026-08-12 18:29:13
+ACC0284,Cedarstone Financial Group,cedarstonefinancial.com,Financial Services,542,163700000,WV,Mid-Market,1,USR009,Customer,2022-01-23 15:17:50
+ACC0285,Granite Peak Services Group Group,granitepeakservices.com,Business Services,259,49500000,IN,Mid-Market,3,USR011,Prospect,2023-10-05 20:37:52
+ACC0286,Foxbridge Labs LLC,foxbridgelabs.com,Software & Technology,1561,269000000,CA,Upper Mid-Market,4,USR012,Customer,2022-04-03 21:18:24
+ACC0287,Brookstone Retail Group,brookstoneretail.com,Retail & E-Commerce,130,50700000,CA,SMB,4,USR008,Customer,2022-06-30 19:58:20
+ACC0288,Lakeshore Contracting,lakeshorecontracting.com,Construction,2306,572300000,WA,Upper Mid-Market,4,USR012,Customer,2024-07-26 02:30:49
+ACC0289,BluePeak Systems Group,bluepeaksystems.com,Software & Technology,125,,CT,SMB,1,USR005,Prospect,2024-08-20 20:12:34
+ACC0290,Beacon Digital,beacondigital.com,Software & Technology,67,16800000,CO,SMB,4,USR008,Customer,2023-04-30 11:57:49
+ACC0291,Sterling Professional Services,sterlingprofessionalservices.com,Professional Services,259,48700000,VA,Mid-Market,2,USR010,Customer,2025-05-04 08:22:50
+ACC0292,Vantage Training,vantagetraining.com,Education,701,82900000,WA,Mid-Market,4,USR012,Prospect,2025-05-08 19:22:57
+ACC0293,Horizon Operations Group,horizonoperations.com,Business Services,612,100600000,WA,Mid-Market,4,USR012,Prospect,2023-03-14 07:00:51
+ACC0294,Harborview Capital,harborviewcapital.com,Financial Services,783,209300000,CT,Mid-Market,1,USR011,Customer,2022-07-31 14:50:47
+ACC0295,Vertex Wealth Partners Inc.,vertexwealthpartners.com,Financial Services,452,146200000,FL,Mid-Market,2,USR010,Former Customer,2022-12-02 04:22:45
+ACC0296,Catalyst Health Partners Inc.,catalysthealthpartners.com,Healthcare,437,84600000,CA,Mid-Market,4,USR012,Customer,2024-12-27 01:31:29
+ACC0297,Elmwood Transportation,elmwoodtransportation.com,Transportation & Logistics,93,19200000,OR,SMB,4,USR008,Customer,2025-05-23 13:48:11
+ACC0298,Suncrest Systems,suncrestsystems.com,Software & Technology,510,117100000,IN,Mid-Market,3,USR011,Prospect,2024-12-23 22:20:15
+ACC0299,Clearwater Manufacturing,clearwatermanufacturing.com,Manufacturing,52,14900000,MS,SMB,2,USR006,Prospect,2024-05-04 22:11:35
+ACC0300,Stonebridge Services Group,stonebridgeservices.com,Business Services,60,,LA,SMB,2,USR006,Prospect,2026-04-03 14:44:11
+ACC0301,Stonebridge Financial Services Group,stonebridgefinancialservices.com,Financial Services,314,128900000,ID,Mid-Market,4,USR012,Prospect,2025-06-16 18:53:26
+ACC0302,Riverbend Operations,riverbendoperations.com,Business Services,569,78100000,CA,Mid-Market,4,USR012,Prospect,2024-05-08 14:13:37
+ACC0303,TrueNorth Freight,truenorthfreight.com,Transportation & Logistics,362,76300000,IN,Mid-Market,3,USR011,Customer,2022-02-08 09:16:49
+ACC0304,Clearwater Digital,clearwaterdigital.com,Software & Technology,176,34300000,UT,SMB,4,USR008,Customer,2023-10-10 23:37:47
+ACC0305,Skyline Fabrication LLC,skylinefabrication.com,Manufacturing,117,40900000,FL,SMB,2,USR006,Customer,2024-07-27 21:58:48
+ACC0306,Silver Oak Academy,silveroakacademy.com,Education,111,17000000,LA,SMB,2,USR006,Customer,2026-03-22 06:43:49
+ACC0307,Brookstone Solutions Inc.,brookstonesolutions.com,Professional Services,89,22500000,TX,SMB,2,USR006,Prospect,2025-04-21 16:05:06
+ACC0308,Vertex Retail Inc.,vertexretail.com,Retail & E-Commerce,139,40500000,TX,SMB,2,USR006,Prospect,2025-02-13 19:29:30
+ACC0309,Silverline Services Group LLC,silverlineservices.com,Business Services,3289,787700000,TX,,2,USR010,Customer,2024-01-07 17:50:37
+ACC0310,Keystone Builders,keystonebuilders.com,Construction,74,22400000,NJ,SMB,1,USR005,Prospect,2025-02-23 04:14:59
+ACC0311,Harborview Transportation,harborviewtransportation.com,Transportation & Logistics,652,133400000,VA,Mid-Market,2,USR010,Prospect,2026-04-27 08:02:48
+ACC0312,Vertex Consulting,vertexconsulting.com,Professional Services,1669,291400000,GA,Upper Mid-Market,2,USR010,Prospect,2023-08-15 16:06:55
+ACC0313,Greenfield Services Group LLC,greenfieldservices.com,Business Services,590,139200000,CT,Mid-Market,1,USR009,Customer,2026-05-23 00:38:18
+ACC0314,Suncrest Care Network,suncrestcarenetwork.com,Healthcare,474,84900000,NJ,Mid-Market,1,USR009,Customer,2022-01-26 09:40:31
+ACC0315,Cedarstone Health Partners Group,cedarstonehealthpartners.com,Healthcare,549,111500000,NY,Mid-Market,1,USR009,Prospect,2023-03-26 14:26:44
+ACC0316,Pinecrest Fabrication Group,pinecrestfabrication.com,Manufacturing,303,87700000,OK,Mid-Market,2,USR010,Customer,2022-11-10 11:41:38
+ACC0317,Summit Ridge Digital,summitridgedigital.com,,567,142900000,ID,Mid-Market,4,USR012,Prospect,2025-10-29 22:26:19
+ACC0318,Mosaic Precision Works,mosaicprecisionworks.com,Manufacturing,56,19100000,TN,SMB,2,USR006,Customer,2026-04-29 12:12:18
+ACC0319,Ridgeview Consulting Group,ridgeviewconsulting.com,Professional Services,587,96800000,CA,Mid-Market,4,USR012,Prospect,2026-08-18 21:56:14
+ACC0320,Northwind Brands,northwindbrands.com,Retail & E-Commerce,138,54700000,FL,SMB,2,USR006,Prospect,2026-03-24 14:36:03
+ACC0321,Lakeview Financial Services,lakeviewfinancialservices.com,Financial Services,1783,688800000,IN,Upper Mid-Market,3,USR011,Former Customer,2022-04-11 21:41:49
+ACC0322,Frontier Builders,frontierbuilders.com,Construction,1510,464600000,NJ,Upper Mid-Market,1,USR009,Customer,2023-08-02 19:30:04
+ACC0323,Rivermark Medical Group,rivermarkmedical.com,Healthcare,,24700000,NH,SMB,1,USR005,Prospect,2024-03-06 22:28:27
+ACC0324,Frontier Academy Group,frontieracademy.com,Education,1614,197200000,NM,Upper Mid-Market,4,USR012,Prospect,2026-07-17 06:57:38
+ACC0325,Beacon Health Partners,beaconhealthpartners.com,Healthcare,39,5200000,FL,SMB,2,USR006,Prospect,2024-10-20 04:25:58

@@ -1,0 +1,651 @@
+contact_id,account_id,first_name,last_name,email,job_title,phone,contact_role,lead_source,original_lead_id,owner_id,created_at,is_active
+CON0001,ACC0001,Maya,Shah,maya.shah@goldcrestdistribution.com,Chief Operating Officer,212-555-2813,Decision Maker,Content Download,LEAD0262,USR009,2024-03-29 06:36:59,true
+CON0002,ACC0001,Justin,Evans,justin.evans@goldcrestdistribution.com,Director of Business Transformation,212-555-8180,Champion,Content Download,LEAD0234,USR009,2024-02-08 21:44:13,true
+CON0003,ACC0001,Angela,Allen,angela.allen@goldcrestdistribution.com,Enterprise Applications Lead,212-555-8322,Influencer,Webinar / Event,,USR009,2024-05-07 07:59:17,true
+CON0004,ACC0001,Chloe,Perry,chloe.perry@goldcrestdistribution.com,Solutions Architect,212-555-1359,Evaluator,Partner Referral,LEAD0088,USR009,2023-09-06 15:55:25,true
+CON0005,ACC0002,Ella,Smith,ella.smith@bluepeakdistribution.com,VP of Technology,404-555-5909,Decision Maker,Outbound SDR,LEAD0097,USR006,2023-10-30 06:31:06,true
+CON0006,ACC0002,Kevin,Campbell,kevin.campbell@bluepeakdistribution.com,Project Coordinator,404-555-1342,Influencer,Organic Search,,USR006,2024-01-25 15:33:36,true
+CON0007,ACC0003,Sarah,Young,sarah.young@bluewaterhealthpartners.com,VP of Transformation,212-555-7713,Decision Maker,Paid Search,,USR009,2024-10-28 15:10:18,true
+CON0008,ACC0003,Lucas,Reed,lucas.reed@bluewaterhealthpartners.com,Transformation Manager,212-555-7189,Champion,Inbound Demo Request,LEAD0044,USR009,2024-07-27 08:40:49,true
+CON0009,ACC0003,Andrea,Cruz,andrea.cruz@bluewaterhealthpartners.com,Operations Program Manager,212-555-9262,Influencer,Inbound Demo Request,LEAD0231,,2024-08-03 10:19:06,true
+CON0010,ACC0004,Carlos,Perry,carlos.perry@cedarstoneoperations.com,Chief Information Officer,503-555-4289,Decision Maker,Inbound Demo Request,LEAD0086,USR012,2026-08-11 20:46:52,true
+CON0011,ACC0004,Madison,Lewis,madison.lewis@cedarstoneoperations.com,Director of Business Systems,,Champion,Inbound Demo Request,,USR012,2026-05-24 12:30:42,true
+CON0012,ACC0004,Abigail,Ward,abigail.ward@cedarstoneoperations.com,,503-555-3229,Influencer,,LEAD0273,USR012,2026-05-19 03:09:23,true
+CON0013,ACC0005,Aiden,Clark,aiden.clark@apexprecisionworks.com,VP of Technology,615-555-8671,Decision Maker,Content Download,,USR006,2024-02-20 02:16:20,true
+CON0014,ACC0005,Vanessa,Chen,vanessa.chen@apexprecisionworks.com,Operations Analyst,615-555-1358,Evaluator,,,USR006,2023-07-30 12:34:22,true
+CON0015,ACC0006,Jordan,Cruz,jordan.cruz@cobaltlogistics.com,Director of Operations,603-555-4506,Champion,,,USR006,2025-04-05 08:33:34,true
+CON0016,ACC0006,Nathan,Hayes,nathan.hayes@cobaltlogistics.com,Office Manager,603-555-5016,Procurement,Outbound SDR,,USR006,2025-12-11 14:42:23,true
+CON0017,ACC0007,Natalie,Torres,natalie.torres@clearpathprofessionalservices.com,VP of Information Technology,213-555-9613,Decision Maker,Inbound Demo Request,LEAD0221,USR012,2026-03-18 04:00:39,true
+CON0018,ACC0007,Chloe,Hall,chloe.hall@clearpathprofessionalservices.com,Senior Operations Manager,213-555-4542,Champion,Partner Referral,,USR012,2026-05-29 15:02:37,true
+CON0019,ACC0007,Catherine,Wright,catherine.wright@clearpathprofessionalservices.com,Procurement Manager,213-555-5779,Procurement,,,USR012,2026-07-12 17:38:30,false
+CON0020,ACC0008,Lucas,Morgan,lucas.morgan@vantagefreight.com,VP of Information Technology,313-555-9409,Decision Maker,,,USR011,2024-07-19 12:10:13,false
+CON0021,ACC0008,Catherine,Brooks,catherine.brooks@vantagefreight.com,Business Operations Director,313-555-3179,Champion,Webinar / Event,LEAD0050,USR011,2024-06-03 19:56:53,true
+CON0022,ACC0008,Jacob,Lee,jacob.lee@vantagefreight.com,Solutions Architect,313-555-3725,Evaluator,Content Download,,USR011,2024-04-18 16:19:24,true
+CON0023,ACC0009,Diana,Jones,diana.jones@northstarprofessionalservices.com,Owner,213-555-5941,Decision Maker,Partner Referral,,USR008,2026-07-30 17:31:41,true
+CON0024,ACC0009,Elena,Jones,elena.jones@northstarprofessionalservices.com,Finance Manager,213-555-8906,Procurement,Customer Referral,LEAD0106,USR008,2026-08-15 19:09:37,true
+CON0025,ACC0010,Brandon,Scott,brandon.scott@riverbendacademy.com,SVP of Operations,913-555-9785,Decision Maker,Partner Referral,,USR011,2024-04-12 10:07:14,true
+CON0026,ACC0010,Daniel,Hughes,daniel.hughes@riverbendacademy.com,Enterprise Systems Manager,913-555-9334,Champion,Content Download,,,2024-06-30 23:27:43,true
+CON0027,ACC0010,Adrian,Thompson,adrian.thompson@riverbendacademy.com,Program Manager,,Evaluator,Inbound Demo Request,,USR011,2024-05-26 13:10:27,true
+CON0028,ACC0011,Chloe,Evans,chloe.evans@rivermarkmanufacturing.com,Director of Operations,312-555-9435,Champion,Inbound Demo Request,,USR007,2024-05-09 15:40:27,true
+CON0029,ACC0012,Jordan,Nguyen,jordan.nguyen@truenorthsolutions.com,Transformation Manager,212-555-7766,Champion,Outbound SDR,LEAD0045,USR009,2026-08-04 20:03:54,true
+CON0030,ACC0012,Abigail,Miller,abigail.miller@truenorthsolutions.com,Purchasing Manager,212-555-7692,Procurement,Outbound SDR,,USR009,2026-07-11 19:12:47,true
+CON0031,ACC0013,Lucas,Jenkins,lucas.jenkins@elmwoodfreight.com,VP of Enterprise Systems,406-555-1814,Decision Maker,Outbound SDR,,,2026-09-18 01:26:48,true
+CON0032,ACC0013,Brianna,Parker,brianna.parker@elmwoodfreight.com,Director of Process Excellence,,Champion,Webinar / Event,LEAD0125,,2026-08-20 20:25:58,true
+CON0033,ACC0013,Brianna,Wright,brianna.wright@elmwoodfreight.com,Enterprise Applications Lead,406-555-9501,Influencer,Webinar / Event,LEAD0053,,2026-09-19 08:12:14,true
+CON0034,ACC0013,Angela,Garcia,angela.garcia@elmwoodfreight.com,Vendor Management Director,406-555-8469,Procurement,,LEAD0085,,2026-09-10 23:16:42,true
+CON0035,ACC0014,Lucas,Wright,lucas.wright@vertexdigital.com,VP of Enterprise Systems,,Decision Maker,Outbound SDR,,USR010,2023-07-09 14:35:37,true
+CON0036,ACC0014,Amanda,Clark,amanda.clark@vertexdigital.com,Senior Director of Operations,,Champion,Organic Search,LEAD0129,USR010,2024-01-12 07:29:33,true
+CON0037,ACC0014,Marcus,Collins,marcus.collins@vertexdigital.com,Senior Program Manager,305-555-4807,Influencer,Outbound SDR,,USR010,2023-06-22 17:34:23,true
+CON0038,ACC0015,Jack,Hall,jack.hall@brightwellinfrastructure.com,Solutions Architect,213-555-7525,Evaluator,Inbound Demo Request,,USR012,2026-09-17 06:27:57,true
+CON0039,ACC0016,David,Young,david.young@crestpointmedical.com,IT Manager,202-555-6498,Champion,Partner Referral,,USR005,2026-03-28 04:25:08,true
+CON0040,ACC0016,Michelle,Anderson,michelle.anderson@crestpointmedical.com,Department Manager,,Influencer,,,USR005,2025-12-19 21:15:49,true
+CON0041,ACC0017,Jordan,Lopez,jordan.lopez@skylinesystems.com,IT Manager,201-555-5059,Champion,Organic Search,LEAD0182,USR005,2023-09-27 15:58:21,true
+CON0042,ACC0018,Sarah,Reed,sarah.reed@parklinedistribution.com,Operations Manager,702-555-2308,Champion,Content Download,,USR008,2025-11-23 01:16:28,true
+CON0043,ACC0019,Brianna,Thompson,brianna.thompson@granitepeakfreight.com,Chief Operating Officer,503-555-4481,Decision Maker,Customer Referral,LEAD0275,USR008,2025-11-07 21:02:19,true
+CON0044,ACC0019,Sophia,Davis,sophia.davis@granitepeakfreight.com,Project Manager,,Evaluator,Outbound SDR,,USR008,2025-04-26 22:54:33,true
+CON0045,ACC0020,Steven,Collins,steven.collins@cobaltbuilders.com,VP of Technology,312-555-2699,Decision Maker,Content Download,LEAD0197,USR007,2026-01-01 18:09:00,true
+CON0046,ACC0020,Jordan,Diaz,jordan.diaz@cobaltbuilders.com,Procurement Manager,312-555-7909,Procurement,Inbound Demo Request,LEAD0203,USR007,2026-01-12 16:47:50,true
+CON0047,ACC0021,Kevin,Gomez,kevin.gomez@crownstonefinancialservices.com,VP of Business Systems,201-555-6911,Decision Maker,Partner Referral,LEAD0178,USR009,2026-03-13 20:10:06,true
+CON0048,ACC0021,Liam,Edwards,liam.edwards@crownstonefinancialservices.com,Senior Operations Manager,201-555-5993,Champion,Content Download,,USR009,2026-06-11 11:49:44,true
+CON0049,ACC0021,Bianca,Nelson,bianca.nelson@crownstonefinancialservices.com,Solutions Architect,201-555-3212,Evaluator,Partner Referral,LEAD0033,USR009,2026-04-30 21:25:44,true
+CON0050,ACC0022,Emily,Shah,emily.shah@truenorthfabrication.com,Operations Manager,305-555-8933,Champion,,LEAD0115,USR006,2022-03-20 23:38:07,true
+CON0051,ACC0023,Angela,Wilson,angela.wilson@eastwoodwealthpartners.com,President,504-555-3986,Decision Maker,Content Download,,USR006,2026-07-06 16:44:42,true
+CON0052,ACC0023,Grace,Williams,grace.williams@eastwoodwealthpartners.com,Systems Administrator,504-555-9227,Evaluator,Content Download,,USR006,2026-06-01 04:40:52,true
+CON0053,ACC0024,Aaron,Collins,aaron.collins@frontierlabs.com,Owner,,Decision Maker,Outbound SDR,LEAD0092,USR006,2025-12-23 05:12:26,true
+CON0054,ACC0024,Jessica,Barnes,jessica.barnes@frontierlabs.com,Purchasing Manager,804-555-3724,Procurement,Organic Search,,USR006,2025-11-08 00:43:26,true
+CON0055,ACC0025,Alexandra,Walker,alexandra.walker@blueharborlabs.com,VP of Operations,,Decision Maker,Outbound SDR,,USR010,2023-12-21 00:04:27,true
+CON0056,ACC0025,Michelle,Peterson,michelle.peterson@blueharborlabs.com,Strategic Sourcing Manager,305-555-1417,Procurement,Paid Search,LEAD0037,USR010,2024-05-14 03:38:06,true
+CON0057,ACC0026,Nathan,Edwards,nathan.edwards@riverbendconsulting.com,Business Analyst,502-555-3902,Evaluator,Webinar / Event,LEAD0269,USR006,2023-12-09 21:58:23,true
+CON0058,ACC0027,Abigail,Washington,abigail.washington@lakeshoretraining.com,VP of Transformation,913-555-8514,Decision Maker,Outbound SDR,LEAD0109,USR011,2026-08-26 19:32:19,true
+CON0059,ACC0027,Elizabeth,Miller,elizabeth.miller@lakeshoretraining.com,Transformation Manager,913-555-9756,Champion,Inbound Demo Request,LEAD0055,USR011,2026-08-11 03:12:17,true
+CON0060,ACC0027,Jenna,Peterson,jenna.peterson@lakeshoretraining.com,Program Manager,913-555-6422,Influencer,Content Download,LEAD0168,USR011,2026-08-15 11:26:58,true
+CON0061,ACC0028,Ariana,Thomas,ariana.thomas@vantagetransportation.com,Director of Operations,404-555-2876,Champion,Webinar / Event,,,2026-03-21 00:45:45,false
+CON0062,ACC0029,Rebecca,Walker,rebecca.walker@clearpathindustrial.com,VP of Operations,615-555-3213,Decision Maker,Inbound Demo Request,LEAD0233,USR006,2025-10-21 08:54:11,true
+CON0063,ACC0030,Carmen,Campbell,carmen.campbell@harborviewdigital.com,VP of Digital Transformation,214-555-2395,Decision Maker,Paid Search,,USR010,2023-05-10 16:27:47,true
+CON0064,ACC0030,Rebecca,Allen,rebecca.allen@harborviewdigital.com,Director of Process Excellence,214-555-2953,Champion,Webinar / Event,,USR010,2022-09-05 06:53:58,false
+CON0065,ACC0030,Michelle,Kelly,michelle.kelly@harborviewdigital.com,"Senior Manager, Operations",214-555-6670,Influencer,Webinar / Event,LEAD0022,USR010,2023-06-29 04:03:28,false
+CON0066,ACC0031,Benjamin,Cooper,benjamin.cooper@redwoodfabrication.com,IT Manager,,Champion,Organic Search,LEAD0082,USR006,2023-03-29 11:42:15,true
+CON0067,ACC0031,Benjamin,Stewart,benjamin.stewart@redwoodfabrication.com,Purchasing Manager,404-555-2888,Procurement,Content Download,,USR006,2023-07-07 05:31:17,true
+CON0068,ACC0032,Liam,Kelly,liam.kelly@riverbendcontracting.com,Owner,213-555-2858,Decision Maker,Content Download,LEAD0043,USR008,2024-11-30 07:09:03,true
+CON0069,ACC0032,Taylor,Thompson,taylor.thompson@riverbendcontracting.com,Project Manager,213-555-4974,Evaluator,Partner Referral,LEAD0124,USR008,2025-01-22 07:32:42,true
+CON0070,ACC0033,Lauren,James,lauren.james@opengatefreight.com,VP of Operations,,Decision Maker,Partner Referral,,USR009,2024-10-04 03:31:45,true
+CON0071,ACC0033,Marcus,Perry,marcus.perry@opengatefreight.com,Business Operations Director,201-555-4498,Champion,Paid Search,,USR009,2024-09-04 22:36:09,true
+CON0072,ACC0033,Ryan,Foster,ryan.foster@opengatefreight.com,Systems Manager,201-555-4883,Evaluator,Inbound Demo Request,,USR009,2024-11-15 11:06:56,true
+CON0073,ACC0034,Amir,Edwards,amir.edwards@cornerstoneadvisorypartners.com,Process Improvement Manager,704-555-4084,Champion,Partner Referral,,USR006,2025-03-16 18:17:58,true
+CON0074,ACC0034,Sofia,Perez,sofia.perez@cornerstoneadvisorypartners.com,Systems Administrator,704-555-6529,Evaluator,Outbound SDR,LEAD0179,USR006,2024-07-22 01:13:00,true
+CON0075,ACC0035,Justin,Washington,justin.washington@goldcrestbusinesssolutions.com,Director of Operations,202-555-5949,Champion,Content Download,,USR005,2025-01-02 23:50:40,true
+CON0076,ACC0035,Maya,Howard,maya.howard@goldcrestbusinesssolutions.com,Finance Manager,202-555-9774,Procurement,Webinar / Event,,,2024-09-21 13:46:00,true
+CON0077,ACC0036,Andrea,Butler,andrea.butler@bluewaterprecisionworks.com,General Manager,907-555-3817,Decision Maker,Inbound Demo Request,LEAD0116,USR008,2024-04-09 15:37:41,true
+CON0078,ACC0036,Angela,Moore,angela.moore@bluewaterprecisionworks.com,Team Lead,907-555-6320,Influencer,Paid Search,,USR008,2024-09-24 12:38:34,true
+CON0079,ACC0037,Alexandra,James,alexandra.james@sterlingoperations.com,President,212-555-7874,Decision Maker,Paid Search,,USR005,2024-08-07 13:08:06,true
+CON0080,ACC0038,Gabriel,Phillips,gabriel.phillips@eastgateadvisory.com,Business Operations Manager,,Champion,Inbound Demo Request,,USR006,2025-08-05 22:26:58,false
+CON0081,ACC0039,Sofia,Taylor,sofia.taylor@apextechnologies.com,Business Operations Manager,410-555-2578,Champion,Content Download,LEAD0149,USR005,2024-01-23 12:55:23,true
+CON0082,ACC0040,Catherine,Martin,catherine.martin@foxbridgetraining.com,Solutions Architect,704-555-6133,Evaluator,,,USR010,2023-06-10 20:14:20,true
+CON0083,ACC0041,Ariana,Cooper,ariana.cooper@parklinelabs.com,Process Improvement Manager,602-555-6619,Champion,,,USR008,2024-01-01 22:38:12,true
+CON0084,ACC0042,Dominic,Rivera,dominic.rivera@meridianadvisorypartners.com,Transformation Manager,801-555-4559,Champion,,,USR012,2023-10-08 11:02:13,true
+CON0085,ACC0042,Ethan,Johnson,ethan.johnson@meridianadvisorypartners.com,Department Manager,801-555-1974,Influencer,Inbound Demo Request,,USR012,2023-09-14 06:35:59,true
+CON0086,ACC0043,Danielle,Hughes,danielle.hughes@arborlearningsystems.com,Chief Operating Officer,305-555-6862,Decision Maker,Webinar / Event,LEAD0162,USR006,2023-09-16 05:59:17,true
+CON0087,ACC0043,Christopher,Hill,christopher.hill@arborlearningsystems.com,Procurement Manager,305-555-5784,Procurement,Organic Search,LEAD0211,USR006,2023-10-03 03:31:09,true
+CON0088,ACC0044,Carlos,Shah,carlos.shah@silverlinesoftware.com,Director of Operations,213-555-6776,Champion,Outbound SDR,,USR012,2024-02-10 16:49:31,true
+CON0089,ACC0044,Ryan,Morris,ryan.morris@silverlinesoftware.com,Business Systems Analyst,213-555-1184,Evaluator,,,USR012,2023-06-04 22:49:23,true
+CON0090,ACC0045,Rebecca,Jones,rebecca.jones@clearwaterfinancial.com,Procurement Manager,203-555-5216,Procurement,Partner Referral,LEAD0029,,2026-01-16 13:13:45,true
+CON0091,ACC0046,Eric,Lopez,eric.lopez@skylineclinicalservices.com,VP of Technology,404-555-3069,Decision Maker,,LEAD0120,USR006,2025-06-20 13:08:13,false
+CON0092,ACC0047,Kevin,Reed,kevin.reed@pioneersystems.com,Director of Operations,503-555-5566,Champion,Paid Search,,USR008,2026-04-20 03:34:47,true
+CON0093,ACC0048,Sofia,Evans,sofia.evans@cedarstoneretailgroup.com,Owner,203-555-4868,Decision Maker,Outbound SDR,LEAD0250,USR005,2025-10-10 23:06:55,false
+CON0094,ACC0048,Jack,Nelson,jack.nelson@cedarstoneretailgroup.com,Operations Coordinator,203-555-6813,Influencer,Content Download,,USR005,2025-08-30 16:09:39,true
+CON0095,ACC0049,Eva,Allen,eva.allen@evergreenservices.com,VP of Operations,206-555-1558,Decision Maker,Inbound Demo Request,LEAD0126,USR008,2024-10-30 08:33:20,true
+CON0096,ACC0049,Bianca,Collins,bianca.collins@evergreenservices.com,Systems Administrator,206-555-4469,Evaluator,Inbound Demo Request,,USR008,2024-06-09 06:32:45,true
+CON0097,ACC0050,Katherine,Rodriguez,katherine.rodriguez@brightwellacademy.com,Owner,312-555-8057,Decision Maker,Inbound Demo Request,,USR007,2026-03-12 05:16:13,true
+CON0098,ACC0050,Rebecca,Parker,rebecca.parker@brightwellacademy.com,Office Manager,312-555-8600,Procurement,Content Download,,USR007,2026-06-06 00:38:27,true
+CON0099,ACC0051,Brandon,Parker,brandon.parker@stonebridgeprofessionalservices.com,Chief Operating Officer,612-555-1523,Decision Maker,Outbound SDR,,USR011,2025-09-17 22:08:37,true
+CON0100,ACC0051,Carlos,Phillips,carlos.phillips@stonebridgeprofessionalservices.com,Transformation Manager,612-555-8411,Champion,Outbound SDR,,USR011,2025-09-07 13:40:30,true
+CON0101,ACC0051,David,Turner,david.turner@stonebridgeprofessionalservices.com,Systems Analyst,612-555-5438,Influencer,Inbound Demo Request,LEAD0054,USR011,2025-04-16 18:02:26,true
+CON0102,ACC0052,Amanda,Baker,amanda.baker@sterlingmedical.com,Chief Technology Officer,617-555-5996,Decision Maker,Paid Search,,USR009,2026-07-13 21:15:31,true
+CON0103,ACC0052,Isaiah,Harris,isaiah.harris@sterlingmedical.com,Director of Enterprise Applications,617-555-1322,Champion,Organic Search,LEAD0025,USR009,2026-06-14 11:55:48,true
+CON0104,ACC0052,Madison,Rodriguez,madison.rodriguez@sterlingmedical.com,Senior Program Manager,617-555-4036,Influencer,Organic Search,,USR009,2026-06-17 07:48:47,true
+CON0105,ACC0053,Lucas,Stewart,lucas.stewart@maplewoodsystems.com,Owner,804-555-1901,Decision Maker,Partner Referral,LEAD0101,USR006,2023-01-06 00:11:14,true
+CON0106,ACC0053,Liam,Ramirez,liam.ramirez@maplewoodsystems.com,Business Operations Manager,804-555-5133,Champion,Outbound SDR,,USR006,2022-11-11 17:10:40,true
+CON0107,ACC0054,Jason,Edwards,jason.edwards@ironwoodprecisionworks.com,Director of Business Systems,401-555-9332,Champion,Webinar / Event,LEAD0034,USR009,2022-07-06 02:11:13,true
+CON0108,ACC0054,Omar,Williams,omar.williams@ironwoodprecisionworks.com,Solutions Architect,401-555-3824,Evaluator,Inbound Demo Request,,USR009,2023-04-22 05:59:39,true
+CON0109,ACC0055,Henry,Miller,henry.miller@bluewaterbuilders.com,Director of Business Systems,614-555-9999,Champion,Organic Search,LEAD0248,USR011,2025-02-17 13:16:27,true
+CON0110,ACC0056,Brianna,Cooper,brianna.cooper@evergreenconsulting.com,Chief Information Officer,213-555-6045,Decision Maker,Outbound SDR,LEAD0195,USR012,2026-01-01 09:41:05,true
+CON0111,ACC0056,Anthony,Perry,anthony.perry@evergreenconsulting.com,Director of Process Excellence,213-555-7789,Champion,Paid Search,,USR012,2025-03-04 06:44:37,true
+CON0112,ACC0056,Priya,Richardson,priya.richardson@evergreenconsulting.com,Director of Procurement,213-555-2567,Procurement,Webinar / Event,,USR012,2025-10-24 17:57:09,true
+CON0113,ACC0056,Caroline,Ross,caroline.ross@evergreenconsulting.com,Process Excellence Lead,213-555-6209,Evaluator,Paid Search,,USR012,2025-05-29 10:48:28,true
+CON0114,ACC0057,Dominic,Lewis,dominic.lewis@skylinecarenetwork.com,Operations Analyst,201-555-4843,Evaluator,Outbound SDR,LEAD0018,USR005,2026-05-30 05:54:17,true
+CON0115,ACC0058,Justin,Rodriguez,justin.rodriguez@vantageretail.com,VP of Technology,304-555-5873,Decision Maker,Outbound SDR,LEAD0035,USR007,2026-09-18 23:33:40,true
+CON0116,ACC0058,Megan,Brooks,megan.brooks@vantageretail.com,Systems Administrator,304-555-4461,Evaluator,Content Download,,USR007,2026-08-31 01:05:50,true
+CON0117,ACC0059,Ariana,Reed,ariana.reed@cedarstonelabs.com,VP of Technology,313-555-3999,Decision Maker,Inbound Demo Request,LEAD0286,USR007,2025-02-22 21:24:02,true
+CON0118,ACC0060,Carmen,Johnson,carmen.johnson@sterlingdistribution.com,Chief Information Officer,313-555-9697,Decision Maker,Partner Referral,LEAD0148,USR011,2023-09-19 16:37:04,true
+CON0119,ACC0060,Camila,Perez,camila.perez@sterlingdistribution.com,Business Operations Director,313-555-3909,Champion,Organic Search,LEAD0144,USR011,2022-12-05 11:04:55,true
+CON0120,ACC0060,Victoria,Phillips,victoria.phillips@sterlingdistribution.com,Systems Analyst,313-555-7123,Influencer,Paid Search,LEAD0265,USR011,2022-12-17 03:59:43,true
+CON0121,ACC0061,Carlos,Torres,carlos.torres@clearwatertransportation.com,IT Manager,704-555-1224,Champion,Webinar / Event,LEAD0196,USR006,2025-08-31 05:19:41,true
+CON0122,ACC0062,Noah,Evans,noah.evans@oakridgeindustries.com,Chief Technology Officer,303-555-6881,Decision Maker,Outbound SDR,LEAD0059,USR012,2026-07-03 03:11:45,true
+CON0123,ACC0062,Emily,Evans,emily.evans@oakridgeindustries.com,Director of Enterprise Applications,303-555-3287,Champion,Outbound SDR,LEAD0263,USR012,2026-03-07 11:29:50,true
+CON0124,ACC0062,Emily,Murphy,emily.murphy@oakridgeindustries.com,"Senior Manager, Operations",303-555-7262,Influencer,Content Download,,USR012,2026-09-13 14:01:13,true
+CON0125,ACC0062,David,Gonzalez,david.gonzalez@oakridgeindustries.com,Vendor Management Director,303-555-7111,Procurement,Webinar / Event,LEAD0010,USR012,2026-03-16 09:23:40,true
+CON0126,ACC0063,Jose,Young,jose.young@granitepeakadvisorypartners.com,Chief Information Officer,704-555-1834,Decision Maker,Organic Search,LEAD0251,USR010,2023-04-17 19:06:44,true
+CON0127,ACC0063,Vanessa,Chen,vanessa.chen@granitepeakadvisorypartners.com,Strategic Sourcing Manager,704-555-7339,Procurement,Partner Referral,LEAD0031,USR010,2022-09-28 22:38:43,true
+CON0128,ACC0064,Kevin,Howard,kevin.howard@crossroadshealthpartners.com,Chief Operating Officer,602-555-8767,Decision Maker,Webinar / Event,,USR012,2023-06-18 01:48:40,true
+CON0129,ACC0064,Derek,Collins,derek.collins@crossroadshealthpartners.com,IT Applications Manager,602-555-5393,Champion,Content Download,,USR012,2023-11-09 05:07:03,true
+CON0130,ACC0064,Abigail,Ross,abigail.ross@crossroadshealthpartners.com,Systems Analyst,602-555-3487,Influencer,Paid Search,,USR012,2023-11-06 20:05:18,true
+CON0131,ACC0065,Nathan,Bell,nathan.bell@suncrestclinicalservices.com,IT Specialist,804-555-8641,Evaluator,Partner Referral,LEAD0272,USR006,2024-02-29 22:48:53,true
+CON0132,ACC0066,Alicia,Bennett,alicia.bennett@rivermarkcapital.com,VP of Business Systems,,Decision Maker,Content Download,,USR011,2025-08-15 23:50:19,true
+CON0133,ACC0066,Thomas,Cruz,thomas.cruz@rivermarkcapital.com,Transformation Manager,305-555-9432,Champion,Webinar / Event,LEAD0057,USR011,2025-01-11 15:19:38,true
+CON0134,ACC0066,Carmen,Jackson,carmen.jackson@rivermarkcapital.com,Procurement Manager,305-555-6598,Procurement,Content Download,LEAD0279,USR011,2025-05-24 06:31:59,true
+CON0135,ACC0067,Abigail,Harris,abigail.harris@sterlinglabs.com,Chief Information Officer,213-555-7157,Decision Maker,Paid Search,,USR012,2025-03-31 02:07:03,true
+CON0136,ACC0068,Jack,Green,jack.green@clearpathadvisory.com,VP of Business Systems,404-555-4620,Decision Maker,Paid Search,,USR010,2025-11-22 01:43:44,true
+CON0137,ACC0068,Andrea,Flores,andrea.flores@clearpathadvisory.com,Transformation Manager,,Champion,Inbound Demo Request,LEAD0005,USR010,2026-09-01 00:26:42,true
+CON0138,ACC0068,Michael,Hill,michael.hill@clearpathadvisory.com,Program Coordinator,404-555-9704,Other,Webinar / Event,LEAD0089,USR010,2025-11-07 05:25:29,true
+CON0139,ACC0069,Adrian,Garcia,adrian.garcia@meridianconstruction.com,Process Improvement Manager,702-555-4870,Champion,Inbound Demo Request,,USR008,2025-04-07 18:09:48,true
+CON0140,ACC0069,Rebecca,Ortiz,rebecca.ortiz@meridianconstruction.com,Purchasing Manager,702-555-2180,Procurement,Content Download,LEAD0236,,2024-08-03 14:51:36,true
+CON0141,ACC0070,Caroline,Kelly,caroline.kelly@crossroadscommerce.com,Operations Analyst,913-555-2650,Evaluator,Paid Search,,USR007,2023-04-20 01:29:00,true
+CON0142,ACC0071,Jasmine,Reed,jasmine.reed@greenfieldindustries.com,Systems Analyst,913-555-4677,Decision Maker,Webinar / Event,,USR011,2026-02-24 01:05:01,true
+CON0143,ACC0071,Katherine,Lee,katherine.lee@greenfieldindustries.com,Transformation Manager,913-555-4077,Champion,Webinar / Event,LEAD0229,USR011,2026-04-27 19:10:54,true
+CON0144,ACC0071,Jasmine,Reed,jasmine.reed@greenfieldindustries.com,Systems Analyst,913-555-4677,Influencer,Customer Referral,,USR011,2026-04-29 09:01:35,true
+CON0145,ACC0072,Jenna,Cooper,jenna.cooper@highlandfabrication.com,VP of Information Technology,312-555-9997,,Webinar / Event,,USR011,2026-06-03 14:11:36,true
+CON0146,ACC0072,Jenna,Cooper,jenna.cooper@highlandfabrication.com,VP of Information Technology,312-555-9997,Champion,Paid Search,LEAD0049,USR011,2026-02-01 03:03:59,true
+CON0147,ACC0072,Carmen,Cooper,carmen.cooper@highlandfabrication.com,Operations Program Manager,312-555-2250,Influencer,Outbound SDR,,USR011,2026-06-14 04:32:29,true
+CON0148,ACC0073,Jacob,Foster,jacob.foster@skylinehealthpartners.com,Operations Manager,504-555-4753,Champion,Paid Search,,USR006,2023-11-13 23:23:19,true
+CON0149,ACC0073,Katherine,Brooks,katherine.brooks@skylinehealthpartners.com,Operations Analyst,504-555-7572,Evaluator,Organic Search,,USR006,2024-06-13 05:37:26,true
+CON0150,ACC0074,Jacob,Foster,jacob.foster@evergreenwealthpartners.com,VP of Operations,,Decision Maker,Inbound Demo Request,LEAD0190,USR012,2026-09-18 18:05:36,true
+CON0151,ACC0074,Aaliyah,Jackson,aaliyah.jackson@evergreenwealthpartners.com,Director of Operations,208-555-4880,Champion,,LEAD0012,USR012,2026-01-24 20:26:39,true
+CON0152,ACC0074,Amanda,Martin,amanda.martin@evergreenwealthpartners.com,Procurement Manager,208-555-6512,Procurement,Inbound Demo Request,,USR012,2026-02-11 01:52:22,true
+CON0153,ACC0075,Priya,Chen,priya.chen@greenfieldsoftware.com,IT Manager,312-555-9964,Champion,Content Download,LEAD0062,USR007,2024-10-04 08:47:43,false
+CON0154,ACC0075,Diana,Rodriguez,diana.rodriguez@greenfieldsoftware.com,Operations Analyst,312-555-3296,Evaluator,Inbound Demo Request,,USR007,2025-01-20 17:48:00,true
+CON0155,ACC0076,William,Wilson,william.wilson@primepointconsulting.com,Director of Operations,502-555-4310,Champion,Webinar / Event,LEAD0299,USR006,2026-09-12 08:42:19,true
+CON0156,ACC0077,Chloe,Collins,chloe.collins@skylineindustries.com,VP of Business Systems,405-555-8473,Decision Maker,Organic Search,LEAD0104,USR010,2024-10-24 11:20:17,true
+CON0157,ACC0077,William,Lee,william.lee@skylineindustries.com,Senior Operations Manager,405-555-7503,Champion,Webinar / Event,,USR010,2024-06-27 14:24:20,true
+CON0158,ACC0077,Zoe,Butler,zoe.butler@skylineindustries.com,Process Analyst,405-555-5795,Evaluator,Inbound Demo Request,LEAD0056,USR010,2023-12-24 04:33:01,true
+CON0159,ACC0078,Katherine,Rivera,katherine.rivera@northstartechnologies.com,VP of Business Systems,,Decision Maker,Inbound Demo Request,LEAD0139,USR012,2026-07-24 15:35:39,true
+CON0160,ACC0078,Jessica,Walker,jessica.walker@northstartechnologies.com,IT Applications Manager,602-555-6545,Champion,Content Download,,USR012,2026-08-14 14:09:29,true
+CON0161,ACC0078,Katherine,Rodriguez,katherine.rodriguez@northstartechnologies.com,Systems Analyst,602-555-1270,Influencer,Inbound Demo Request,,,2026-07-22 08:23:39,true
+CON0162,ACC0079,Henry,Garcia,henry.garcia@highlandlogistics.com,Purchasing Manager,212-555-8659,Procurement,Outbound SDR,LEAD0241,USR005,2024-06-17 10:14:57,true
+CON0163,ACC0080,Dominic,Johnson,dominic.johnson@arborfinancialservices.com,Strategic Sourcing Manager,303-555-4413,Procurement,Paid Search,,USR012,2024-04-26 21:33:19,true
+CON0164,ACC0081,Caleb,Stewart,caleb.stewart@clearpathdistribution.com,Strategic Sourcing Manager,913-555-2542,Procurement,Paid Search,,USR009,2024-04-20 20:03:15,true
+CON0165,ACC0082,Derek,Perez,derek.perez@bluewatermanufacturing.com,VP of Operations,212-555-9601,Decision Maker,Inbound Demo Request,,USR005,2026-07-07 07:29:47,true
+CON0166,ACC0082,Nathan,Jones,nathan.jones@bluewatermanufacturing.com,Business Operations Manager,212-555-4858,Champion,Organic Search,,USR005,2026-05-23 03:15:57,true
+CON0167,ACC0083,Maya,Morris,maya.morris@apexretail.com,Business Operations Director,,Champion,Content Download,,USR012,2025-01-21 04:29:40,true
+CON0168,ACC0083,Noah,Cruz,noah.cruz@apexretail.com,,503-555-6387,Influencer,Paid Search,LEAD0291,USR012,2025-02-08 13:32:57,true
+CON0169,ACC0084,Michelle,Patel,michelle.patel@ridgeviewretail.com,VP of Business Systems,305-555-1196,Decision Maker,Outbound SDR,,USR010,2024-07-27 06:18:35,true
+CON0170,ACC0084,Dominic,Richardson,dominic.richardson@ridgeviewretail.com,Director of Business Systems,305-555-7990,Champion,,LEAD0079,USR010,2024-07-16 20:17:56,true
+CON0171,ACC0084,Claire,Miller,claire.miller@ridgeviewretail.com,Senior Analyst,305-555-6139,Influencer,Inbound Demo Request,,USR010,2024-09-30 07:10:25,true
+CON0172,ACC0085,Rebecca,Gomez,rebecca.gomez@northwindlearningsystems.com,Chief Operating Officer,,Decision Maker,Inbound Demo Request,LEAD0235,USR005,2024-10-11 06:53:18,true
+CON0173,ACC0086,Noah,Brooks,noah.brooks@highlanddigital.com,Senior Operations Manager,205-555-3353,Champion,Paid Search,,USR010,2026-09-18 15:16:58,true
+CON0174,ACC0086,Katherine,Gonzalez,katherine.gonzalez@highlanddigital.com,Procurement Manager,205-555-2009,Procurement,Partner Referral,,USR010,2026-09-17 22:33:43,true
+CON0175,ACC0087,Victoria,Carter,victoria.carter@silveroaktechnologies.com,President,617-555-3499,Decision Maker,Webinar / Event,,USR005,2024-07-04 04:52:55,false
+CON0176,ACC0088,Priya,Perez,priya.perez@stonebridgesolutions.com,Process Improvement Manager,212-555-3946,Champion,Webinar / Event,,USR005,2025-04-06 19:00:44,true
+CON0177,ACC0089,Jose,Butler,jose.butler@bluepeaksoftware.com,Transformation Manager,212-555-9231,Champion,Paid Search,,USR009,2024-10-10 04:10:46,true
+CON0178,ACC0090,Jasmine,Rodriguez,jasmine.rodriguez@oakridgebrands.com,Procurement Manager,615-555-5724,Procurement,Webinar / Event,,USR006,2024-08-10 19:33:04,true
+CON0179,ACC0091,Priya,Torres,priya.torres@oakridgesupportservices.com,Office Manager,515-555-9295,Procurement,Content Download,LEAD0028,USR007,2024-12-27 06:17:45,true
+CON0180,ACC0092,Henry,Cooper,henry.cooper@vertexdigital.com,Chief Operating Officer,615-555-6295,Decision Maker,Content Download,LEAD0036,USR010,2022-04-16 02:52:53,false
+CON0181,ACC0092,Rachel,Sanchez,rachel.sanchez@vertexdigital.com,IT Applications Manager,615-555-1463,Champion,Outbound SDR,,USR010,2022-05-15 17:13:13,true
+CON0182,ACC0092,Zoe,Chen,zoe.chen@vertexdigital.com,Procurement Manager,615-555-8376,Procurement,Webinar / Event,,USR010,2022-04-24 09:59:26,true
+CON0183,ACC0093,Andrew,Miller,andrew.miller@pioneersoftware.com,General Manager,312-555-6275,Decision Maker,Inbound Demo Request,LEAD0293,USR007,2024-08-05 19:02:08,true
+CON0184,ACC0093,Andrew,Price,andrew.price@pioneersoftware.com,Operations Manager,312-555-7609,Champion,Content Download,LEAD0277,USR007,2024-04-24 01:33:44,true
+CON0185,ACC0094,Aiden,Richardson,aiden.richardson@skylinebusinesssolutions.com,Owner,203-555-5552,Decision Maker,Organic Search,LEAD0166,USR005,2023-11-22 18:07:48,true
+CON0186,ACC0094,Jessica,King,jessica.king@skylinebusinesssolutions.com,Systems Administrator,203-555-9553,Evaluator,Webinar / Event,,USR005,2024-02-25 05:26:51,true
+CON0187,ACC0095,Jacob,Garcia,jacob.garcia@vantagesoftware.com,Chief Information Officer,602-555-9901,Decision Maker,,,USR012,2026-09-08 04:38:23,true
+CON0188,ACC0095,Jenna,Edwards,jenna.edwards@vantagesoftware.com,IT Applications Manager,602-555-7024,Champion,Paid Search,,USR012,2026-06-12 03:58:13,true
+CON0189,ACC0095,Marcus,Martinez,marcus.martinez@vantagesoftware.com,Senior Business Analyst,,Evaluator,Outbound SDR,,USR012,2026-08-25 16:04:46,true
+CON0190,ACC0096,Julia,Murphy,julia.murphy@lakeshoretransportation.com,President,,Decision Maker,Paid Search,,USR007,2025-06-06 06:01:54,false
+CON0191,ACC0096,Jasmine,Rodriguez,jasmine.rodriguez@lakeshoretransportation.com,Department Manager,614-555-9583,Influencer,Outbound SDR,,USR007,2025-05-13 02:54:00,true
+CON0192,ACC0097,Samuel,Murphy,samuel.murphy@westfieldconstruction.com,Chief Operating Officer,,Decision Maker,Content Download,,,2026-08-20 03:01:16,true
+CON0193,ACC0097,Ella,Bell,ella.bell@westfieldconstruction.com,Senior Operations Manager,313-555-1867,Champion,Content Download,LEAD0001,USR011,2026-08-08 23:21:11,true
+CON0194,ACC0097,Jason,Thompson,jason.thompson@westfieldconstruction.com,Solutions Architect,,Evaluator,Content Download,,USR011,2026-08-08 00:37:05,false
+CON0195,ACC0098,Andrea,Bennett,andrea.bennett@bridgewaylearningsystems.com,Chief Information Officer,212-555-1043,Decision Maker,Paid Search,,USR009,2025-11-20 02:05:14,true
+CON0196,ACC0098,Carmen,Perez,carmen.perez@bridgewaylearningsystems.com,Senior Director of Operations,,Champion,Content Download,LEAD0021,USR009,2025-01-30 08:54:21,true
+CON0197,ACC0098,Charles,Green,charles.green@bridgewaylearningsystems.com,Enterprise Applications Lead,212-555-5862,Influencer,Inbound Demo Request,LEAD0080,USR009,2025-03-21 06:20:06,true
+CON0198,ACC0098,Abigail,Roberts,abigail.roberts@bridgewaylearningsystems.com,Executive Assistant,212-555-7361,Other,Partner Referral,LEAD0002,USR009,2025-03-02 06:55:53,true
+CON0199,ACC0099,Maya,Collins,maya.collins@foxbridgefinancial.com,Process Improvement Manager,602-555-1868,Champion,Inbound Demo Request,LEAD0217,USR008,2024-07-02 04:52:20,false
+CON0200,ACC0099,Rachel,Thomas,rachel.thomas@foxbridgefinancial.com,Office Manager,602-555-8792,Procurement,Organic Search,LEAD0244,USR008,2025-06-06 14:10:17,true
+CON0201,ACC0100,Madison,Gray,madison.gray@rivermarkdigital.com,Chief Technology Officer,215-555-1741,Decision Maker,Content Download,,USR009,2025-03-08 20:15:42,true
+CON0202,ACC0100,Chloe,Brown,chloe.brown@rivermarkdigital.com,Director of Business Transformation,,Champion,Webinar / Event,,USR009,2025-09-04 14:37:03,true
+CON0203,ACC0100,Eli,Ramirez,eli.ramirez@rivermarkdigital.com,Senior Business Systems Analyst,215-555-5136,Evaluator,Organic Search,LEAD0167,USR009,2024-12-05 00:02:03,true
+CON0204,ACC0100,Brandon,Evans,brandon.evans@rivermarkdigital.com,Director of Procurement,215-555-2202,Procurement,,LEAD0017,USR009,2025-04-27 16:02:11,true
+CON0205,ACC0101,Ryan,Hughes,ryan.hughes@opengateconsulting.com,Office Manager,312-555-1100,Procurement,Partner Referral,,,2026-04-02 14:51:17,true
+CON0206,ACC0102,Ariana,Harris,ariana.harris@summitridgebuilders.com,VP of Enterprise Systems,,Decision Maker,Content Download,LEAD0289,USR009,2024-12-06 10:09:43,true
+CON0207,ACC0102,Rachel,Torres,rachel.torres@summitridgebuilders.com,Director of Enterprise Applications,,Champion,Partner Referral,LEAD0300,USR009,2025-05-23 20:47:07,true
+CON0208,ACC0102,Elena,Gray,elena.gray@summitridgebuilders.com,Operations Strategy Manager,,Influencer,Inbound Demo Request,,USR009,2024-11-18 09:47:47,true
+CON0209,ACC0102,Jordan,Gonzalez,jordan.gonzalez@summitridgebuilders.com,Operations Coordinator,215-555-9661,Other,Partner Referral,,USR009,2024-08-08 14:19:08,true
+CON0210,ACC0103,Natalie,Wright,natalie.wright@fairviewfabrication.com,VP of Information Technology,313-555-2506,Decision Maker,Outbound SDR,,USR010,2023-06-05 20:19:20,true
+CON0211,ACC0104,Katherine,Morris,katherine.morris@rivermarkclinicalservices.com,VP of Operations,,Decision Maker,Organic Search,,USR006,2023-09-22 12:23:04,true
+CON0212,ACC0105,Megan,Edwards,megan.edwards@truenorthhealthservices.com,Operations Manager,213-555-1806,Champion,Webinar / Event,LEAD0078,USR008,2024-10-01 15:34:07,true
+CON0213,ACC0106,Jenna,Jones,jenna.jones@sterlingadvisory.com,VP of Transformation,302-555-4446,Decision Maker,Inbound Demo Request,,USR009,2024-09-04 11:30:09,true
+CON0214,ACC0106,Alexandra,Perez,alexandra.perez@sterlingadvisory.com,Transformation Manager,302-555-1786,Champion,Paid Search,LEAD0051,USR009,2024-06-21 10:59:24,true
+CON0215,ACC0107,Natalie,Martinez,natalie.martinez@arborsupportservices.com,Chief Operating Officer,,Decision Maker,,,,2024-02-10 07:33:11,true
+CON0216,ACC0107,Jessica,Mitchell,jessica.mitchell@arborsupportservices.com,Business Operations Manager,212-555-8079,Champion,,,USR005,2024-07-26 09:13:04,true
+CON0217,ACC0108,Madison,Bailey,madison.bailey@clearwaterhealthpartners.com,General Manager,913-555-9345,Decision Maker,Webinar / Event,,USR007,2024-10-10 12:25:22,true
+CON0218,ACC0108,Aaliyah,Bennett,aaliyah.bennett@clearwaterhealthpartners.com,Director of Operations,913-555-5228,Champion,Inbound Demo Request,,USR007,2024-11-08 19:23:00,true
+CON0219,ACC0109,Andrew,Collins,andrew.collins@clearpathmanufacturing.com,SVP of Operations,502-555-5695,Decision Maker,Outbound SDR,,USR010,2026-05-20 03:11:26,true
+CON0220,ACC0109,Aaliyah,Kim,aaliyah.kim@clearpathmanufacturing.com,Senior Director of Operations,502-555-4289,Champion,Webinar / Event,LEAD0136,USR010,2026-05-27 00:15:07,true
+CON0221,ACC0109,Henry,Roberts,henry.roberts@clearpathmanufacturing.com,Program Manager,502-555-3144,Evaluator,Organic Search,LEAD0249,USR010,2025-09-05 06:35:21,true
+CON0222,ACC0109,Eli,Butler,eli.butler@clearpathmanufacturing.com,Director of Procurement,502-555-9683,Procurement,Content Download,LEAD0076,USR010,2025-06-07 17:05:04,true
+CON0223,ACC0110,Olivia,Phillips,olivia.phillips@frontierprecisionworks.com,VP of Technology,214-555-5636,Decision Maker,,LEAD0290,USR006,2026-06-14 11:19:03,true
+CON0224,ACC0111,Jack,Rogers,jack.rogers@frontierlearning.com,IT Applications Manager,213-555-2286,Champion,Organic Search,LEAD0298,USR012,2023-04-16 12:18:03,true
+CON0225,ACC0112,Derek,Bennett,derek.bennett@redstonemanufacturing.com,Operations Manager,501-555-2262,Champion,Content Download,LEAD0282,USR010,2025-06-06 15:00:49,false
+CON0226,ACC0113,Ashley,Campbell,ashley.campbell@catalystsupportservices.com,Chief Information Officer,314-555-2584,Decision Maker,Paid Search,LEAD0160,,2025-12-22 16:11:51,true
+CON0227,ACC0113,Emily,Clark,emily.clark@catalystsupportservices.com,Enterprise Systems Manager,314-555-4381,Champion,Outbound SDR,,USR011,2025-12-08 20:44:14,false
+CON0228,ACC0113,Christopher,Patel,christopher.patel@catalystsupportservices.com,Enterprise Architect,314-555-2865,Evaluator,Outbound SDR,LEAD0081,USR011,2025-11-28 15:35:03,false
+CON0229,ACC0114,Leah,Miller,leah.miller@granitepeakmanufacturing.com,VP of Technology,312-555-5897,Decision Maker,Customer Referral,LEAD0209,USR007,2026-06-05 20:14:28,true
+CON0230,ACC0114,Henry,Miller,henry.miller@granitepeakmanufacturing.com,Business Analyst,312-555-1138,Evaluator,Paid Search,LEAD0069,USR007,2026-02-11 18:40:08,true
+CON0231,ACC0115,Caroline,Jones,caroline.jones@cobalthealthservices.com,VP of Digital Transformation,402-555-8538,Decision Maker,Inbound Demo Request,,USR011,2024-03-18 03:47:43,true
+CON0232,ACC0115,Catherine,Carter,catherine.carter@cobalthealthservices.com,Director of Enterprise Applications,402-555-6542,Champion,Webinar / Event,,USR011,2023-08-05 14:08:43,true
+CON0233,ACC0115,Brianna,Allen,brianna.allen@cobalthealthservices.com,Enterprise Applications Lead,402-555-8850,Influencer,Organic Search,,USR011,2024-01-04 06:44:54,true
+CON0234,ACC0115,Emily,Kim,emily.kim@cobalthealthservices.com,Vendor Management Director,,Procurement,Organic Search,LEAD0192,USR011,2024-01-25 17:38:04,true
+CON0235,ACC0116,Sarah,Scott,sarah.scott@eastwoodconsulting.com,VP of Operations,617-555-8009,Decision Maker,Paid Search,LEAD0014,,2025-12-27 07:41:42,true
+CON0236,ACC0116,Chloe,Bennett,chloe.bennett@eastwoodconsulting.com,Systems Analyst,617-555-8018,Influencer,Organic Search,,USR009,2025-11-20 16:45:22,true
+CON0237,ACC0117,Carlos,Ramirez,carlos.ramirez@crownstonebusinesssolutions.com,VP of Information Technology,212-555-2112,Decision Maker,Partner Referral,,USR009,2026-03-03 06:03:43,true
+CON0238,ACC0118,Brandon,Harris,brandon.harris@summitridgeacademy.com,Director of Operations,212-555-7479,Champion,,,USR005,2022-12-15 15:17:37,true
+CON0239,ACC0118,Aaron,Mitchell,aaron.mitchell@summitridgeacademy.com,Project Coordinator,212-555-9416,Influencer,Outbound SDR,,USR005,2023-08-19 07:24:50,true
+CON0240,ACC0119,Jasmine,Robinson,jasmine.robinson@blueharborhealthservices.com,President,201-555-9189,,Outbound SDR,LEAD0247,USR005,2024-02-07 04:02:38,true
+CON0241,ACC0120,Dominic,Mitchell,dominic.mitchell@cobaltclinicalservices.com,VP of Information Technology,208-555-9319,Decision Maker,Paid Search,LEAD0188,USR012,2024-06-19 14:55:53,true
+CON0242,ACC0120,Alexandra,Walker,alexandra.walker@cobaltclinicalservices.com,Program Manager,208-555-9357,Influencer,Customer Referral,,USR012,2024-04-04 09:59:54,true
+CON0243,ACC0121,Noah,Richardson,noah.richardson@keystonelabs.com,VP of Information Technology,,Decision Maker,Inbound Demo Request,LEAD0068,USR012,2026-08-26 16:23:13,true
+CON0244,ACC0121,Jessica,Nguyen,jessica.nguyen@keystonelabs.com,Transformation Manager,,Champion,Content Download,,USR012,2026-03-30 18:26:41,true
+CON0245,ACC0121,Camila,Brooks,camila.brooks@keystonelabs.com,Systems Manager,206-555-9727,Evaluator,Partner Referral,LEAD0294,USR012,2026-07-16 18:07:53,true
+CON0246,ACC0122,Katherine,Moore,katherine.moore@primepointsoftware.com,SVP of Operations,504-555-7844,Decision Maker,Webinar / Event,,USR010,2026-08-16 06:18:23,true
+CON0247,ACC0122,Steven,Butler,steven.butler@primepointsoftware.com,Director of Business Transformation,504-555-9299,Champion,Partner Referral,LEAD0099,USR010,2026-08-24 06:52:16,true
+CON0248,ACC0122,Brianna,Anderson,brianna.anderson@primepointsoftware.com,Enterprise Architect,504-555-8071,Evaluator,Organic Search,LEAD0072,USR010,2026-08-27 20:45:59,true
+CON0249,ACC0122,Adrian,Miller,adrian.miller@primepointsoftware.com,Senior Procurement Manager,504-555-8176,Procurement,Organic Search,LEAD0181,USR010,2026-08-28 14:52:53,true
+CON0250,ACC0123,Dominic,Flores,dominic.flores@redstonemarketplace.com,VP of Transformation,317-555-9293,Decision Maker,Customer Referral,,USR011,2023-12-24 17:06:34,true
+CON0251,ACC0123,Liam,Bennett,liam.bennett@redstonemarketplace.com,Transformation Manager,317-555-6874,Champion,Partner Referral,,USR011,2024-02-27 21:57:27,false
+CON0252,ACC0123,Sophia,Jackson,sophia.jackson@redstonemarketplace.com,Process Analyst,317-555-5247,Evaluator,Paid Search,,USR011,2024-12-08 23:31:36,true
+CON0253,ACC0124,Diana,Chen,diana.chen@vantagesystems.com,VP of Business Systems,617-555-6758,Decision Maker,Content Download,,,2026-03-20 11:38:26,true
+CON0254,ACC0124,Adrian,Carter,adrian.carter@vantagesystems.com,IT Applications Manager,617-555-7400,,Partner Referral,LEAD0256,,2026-09-04 23:40:40,true
+CON0255,ACC0124,Michael,Chen,michael.chen@vantagesystems.com,Strategic Sourcing Manager,617-555-2390,Procurement,Paid Search,LEAD0040,USR009,2026-08-29 12:58:56,true
+CON0256,ACC0125,Diana,Robinson,diana.robinson@silverlinetechnologies.com,IT Manager,702-555-8663,Champion,Outbound SDR,,USR008,2024-01-30 07:23:46,true
+CON0257,ACC0125,Danielle,Perez,danielle.perez@silverlinetechnologies.com,Department Manager,702-555-8527,Influencer,Organic Search,,USR008,2024-05-17 01:16:35,true
+CON0258,ACC0126,Abigail,Martinez,abigail.martinez@ironwoodsoftware.com,General Manager,212-555-6193,Decision Maker,Paid Search,,USR005,2023-03-18 10:22:35,true
+CON0259,ACC0126,Samuel,Clark,samuel.clark@ironwoodsoftware.com,Operations Manager,212-555-4113,Champion,Content Download,LEAD0177,USR005,2023-03-04 14:39:23,true
+CON0260,ACC0127,Grace,Cruz,grace.cruz@meridianfinancialservices.com,VP of Information Technology,312-555-5859,Decision Maker,Inbound Demo Request,,USR011,2022-11-08 03:55:12,true
+CON0261,ACC0127,Lucas,Morgan,lucas.morgan@meridianfinancialservices.com,IT Project Manager,,Evaluator,Content Download,LEAD0009,USR011,2022-03-21 03:47:02,true
+CON0262,ACC0128,Amanda,Gomez,amanda.gomez@cornerstoneindustries.com,IT Specialist,206-555-1882,Evaluator,Organic Search,LEAD0255,USR008,2025-10-17 19:36:28,true
+CON0263,ACC0129,William,Harris,william.harris@clearwaterprecisionworks.com,Business Operations Manager,405-555-9684,Champion,Content Download,,USR006,2026-08-22 00:14:27,true
+CON0264,ACC0130,Diana,Smith,diana.smith@northwindcontracting.com,Business Operations Manager,,Champion,Inbound Demo Request,,USR006,2026-06-14 03:17:36,true
+CON0265,ACC0131,Eric,Bennett,eric.bennett@evergreensupportservices.com,Finance Manager,205-555-4759,Procurement,Inbound Demo Request,LEAD0173,USR006,2026-08-18 06:06:33,true
+CON0266,ACC0132,Nathan,Miller,nathan.miller@brookstoneprecisionworks.com,IT Applications Manager,617-555-5455,Champion,Customer Referral,LEAD0169,USR009,2025-08-09 10:32:47,true
+CON0267,ACC0132,Leah,Clark,leah.clark@brookstoneprecisionworks.com,Department Manager,617-555-4767,Influencer,Outbound SDR,LEAD0216,USR009,2024-11-24 21:06:28,true
+CON0268,ACC0133,Adrian,Ross,adrian.ross@lakeshorecommerce.com,VP of Information Technology,212-555-8567,Decision Maker,Content Download,,USR009,2026-02-24 00:54:17,true
+CON0269,ACC0133,Ariana,Wilson,ariana.wilson@lakeshorecommerce.com,Senior Business Analyst,212-555-2888,Evaluator,Inbound Demo Request,LEAD0252,USR009,2026-05-23 04:28:52,true
+CON0270,ACC0134,Charles,Peterson,charles.peterson@suncrestfreight.com,Operations Manager,555-555-5546,Champion,,LEAD0103,USR005,2024-06-23 18:44:12,false
+CON0271,ACC0134,Angela,Cooper,angela.cooper@suncrestfreight.com,Purchasing Manager,,Procurement,,LEAD0100,USR005,2025-01-09 09:51:00,true
+CON0272,ACC0135,Eric,Williams,eric.williams@redstoneconsulting.com,Process Improvement Manager,212-555-1299,Champion,Content Download,,USR005,2024-01-12 00:29:58,true
+CON0273,ACC0135,Aiden,Kelly,aiden.kelly@redstoneconsulting.com,Senior Analyst,212-555-4411,Influencer,Webinar / Event,,USR005,2024-10-27 13:56:03,true
+CON0274,ACC0136,Sophia,Rodriguez,sophia.rodriguez@skylineprecisionworks.com,VP of Transformation,214-555-6394,Decision Maker,Outbound SDR,,USR010,2026-08-02 03:05:06,true
+CON0275,ACC0136,Aaron,Robinson,aaron.robinson@skylineprecisionworks.com,Systems Manager,,Evaluator,Outbound SDR,LEAD0113,USR010,2026-06-09 10:12:22,true
+CON0276,ACC0137,Rebecca,Turner,rebecca.turner@oakridgedistribution.com,Chief Operating Officer,313-555-6950,Decision Maker,Webinar / Event,,USR011,2026-07-27 15:12:01,false
+CON0277,ACC0137,Samuel,Martinez,samuel.martinez@oakridgedistribution.com,Director of Business Systems,313-555-5651,Champion,Organic Search,LEAD0270,USR011,2026-01-27 15:53:44,true
+CON0278,ACC0138,Rebecca,Rivera,rebecca.rivera@riverbendsupportservices.com,IT Manager,206-555-3039,Champion,Webinar / Event,LEAD0019,USR008,2024-10-12 02:59:16,true
+CON0279,ACC0139,Chloe,Collins,chloe.collins@maplewooddistribution.com,VP of Information Technology,314-555-3711,Decision Maker,Partner Referral,LEAD0271,USR011,2026-08-22 04:55:53,true
+CON0280,ACC0139,Elena,Davis,elena.davis@maplewooddistribution.com,Transformation Manager,314-555-1416,Champion,Content Download,,USR011,2026-08-22 07:41:05,true
+CON0281,ACC0139,Christopher,Torres,christopher.torres@maplewooddistribution.com,Strategic Sourcing Manager,,Procurement,Content Download,LEAD0159,USR011,2026-03-28 16:34:37,true
+CON0282,ACC0140,Aiden,Nelson,aiden.nelson@cobaltsupplychain.com,VP of Enterprise Systems,213-555-7117,Decision Maker,Partner Referral,LEAD0161,USR012,2023-01-29 11:48:07,true
+CON0283,ACC0140,Rachel,Cooper,rachel.cooper@cobaltsupplychain.com,Senior Director of Operations,213-555-3577,Champion,Paid Search,,USR012,2022-09-16 19:28:36,true
+CON0284,ACC0140,Maya,Walker,maya.walker@cobaltsupplychain.com,Director of Procurement,213-555-8638,Procurement,Content Download,LEAD0048,USR012,2022-11-28 10:55:22,true
+CON0285,ACC0140,Eric,Bell,eric.bell@cobaltsupplychain.com,Senior Business Systems Analyst,213-555-5547,,Paid Search,LEAD0140,USR012,2022-06-24 23:54:34,true
+CON0286,ACC0141,Henry,White,henry.white@beaconcapital.com,Chief Technology Officer,212-555-6565,Decision Maker,Outbound SDR,LEAD0210,USR009,2026-06-06 11:39:12,true
+CON0287,ACC0141,Leah,Smith,leah.smith@beaconcapital.com,Director of Enterprise Applications,212-555-4931,Champion,Outbound SDR,LEAD0026,USR009,2026-06-16 09:06:39,true
+CON0288,ACC0141,Bianca,Sanchez,bianca.sanchez@beaconcapital.com,Strategic Sourcing Director,212-555-6444,Procurement,Inbound Demo Request,,USR009,2026-07-01 17:36:13,true
+CON0289,ACC0142,Ella,Harris,ella.harris@northstarbusinesssolutions.com,VP of Transformation,213-555-6983,Decision Maker,,LEAD0214,USR012,2024-06-19 01:55:27,true
+CON0290,ACC0142,Anthony,Perez,anthony.perez@northstarbusinesssolutions.com,Director of Operations,213-555-3159,Champion,Outbound SDR,LEAD0171,USR012,2023-10-23 17:50:18,true
+CON0291,ACC0142,Derek,Martin,derek.martin@northstarbusinesssolutions.com,Purchasing Manager,213-555-9211,Procurement,Customer Referral,LEAD0020,USR012,2024-04-02 18:49:50,true
+CON0292,ACC0143,Dominic,Perry,dominic.perry@frontiersoftware.com,Owner,213-555-8654,Decision Maker,Webinar / Event,LEAD0213,USR008,2024-12-07 19:45:33,true
+CON0293,ACC0143,Thomas,White,thomas.white@frontiersoftware.com,Senior Analyst,213-555-4424,Influencer,Inbound Demo Request,,USR008,2025-02-07 15:07:42,true
+CON0294,ACC0144,Ariana,Washington,ariana.washington@ridgeviewmarketplace.com,Project Manager,305-555-3750,Evaluator,,LEAD0060,USR006,2024-10-26 08:08:41,true
+CON0295,ACC0145,Danielle,Mitchell,danielle.mitchell@silveroakmanufacturing.com,Operations Manager,214-555-2667,Champion,,,USR006,2024-08-17 11:56:24,true
+CON0296,ACC0145,Jose,Bell,jose.bell@silveroakmanufacturing.com,Project Manager,214-555-9430,Evaluator,Organic Search,,USR006,2024-10-20 23:15:12,true
+CON0297,ACC0146,Rebecca,Roberts,rebecca.roberts@vertexsupportservices.com,VP of Transformation,,Decision Maker,Content Download,,USR011,2026-09-09 08:53:35,true
+CON0298,ACC0146,Taylor,Gray,taylor.gray@vertexsupportservices.com,Transformation Manager,614-555-3305,Champion,,LEAD0067,USR011,2026-08-31 17:50:10,true
+CON0299,ACC0147,Isabella,Adams,isabella.adams@vertexlogistics.com,General Manager,213-555-4048,Decision Maker,Inbound Demo Request,LEAD0084,USR008,2024-03-14 11:44:37,true
+CON0300,ACC0147,Aiden,Taylor,aiden.taylor@vertexlogistics.com,Project Manager,,Evaluator,Inbound Demo Request,LEAD0143,USR008,2023-09-27 06:12:45,true
+CON0301,ACC0148,Caroline,Anderson,caroline.anderson@arborsoftware.com,VP of Operations,,Decision Maker,Webinar / Event,,USR006,2024-01-17 19:20:47,true
+CON0302,ACC0148,Daniel,Peterson,daniel.peterson@arborsoftware.com,Project Coordinator,205-555-3589,Influencer,Partner Referral,LEAD0186,USR006,2024-05-07 03:48:29,true
+CON0303,ACC0149,Jasmine,Thomas,jasmine.thomas@silverlinetransportation.com,Business Operations Manager,305-555-3669,Champion,Inbound Demo Request,LEAD0042,USR006,2023-10-28 18:22:09,true
+CON0304,ACC0150,Liam,Jones,liam.jones@truenorthconsulting.com,General Manager,212-555-8217,Decision Maker,Inbound Demo Request,,USR005,2025-02-02 14:54:59,true
+CON0305,ACC0150,Leah,Rodriguez,leah.rodriguez@truenorthconsulting.com,Operations Analyst,212-555-9334,Evaluator,Outbound SDR,,USR005,2025-12-09 11:42:28,true
+CON0306,ACC0151,Liam,Patel,liam.patel@westlakeservices.com,Business Analyst,602-555-2299,Evaluator,Organic Search,LEAD0108,USR008,2026-07-08 14:45:05,true
+CON0307,ACC0152,Rachel,Perry,rachel.perry@northstarcommerce.com,Chief Information Officer,213-555-3428,Decision Maker,,,USR012,2025-12-30 02:55:18,true
+CON0308,ACC0152,Maya,Allen,maya.allen@northstarcommerce.com,Senior Director of Operations,213-555-6929,Champion,Outbound SDR,,USR012,2025-09-15 06:53:31,false
+CON0309,ACC0152,Daniel,Foster,daniel.foster@northstarcommerce.com,"Senior Manager, Operations",,Influencer,Content Download,,USR012,2026-06-07 06:24:51,true
+CON0310,ACC0152,Elena,Smith,elena.smith@northstarcommerce.com,Program Manager,213-555-7287,Evaluator,Organic Search,LEAD0280,USR012,2025-10-20 22:07:38,false
+CON0311,ACC0153,Brianna,Martinez,brianna.martinez@granitepeakcarenetwork.com,President,405-555-8855,Decision Maker,Paid Search,,USR006,2025-10-17 05:38:47,true
+CON0312,ACC0153,Ashley,Smith,ashley.smith@granitepeakcarenetwork.com,Operations Manager,405-555-5610,Champion,Partner Referral,LEAD0098,USR006,2025-01-03 22:32:53,true
+CON0313,ACC0154,Isabella,Bennett,isabella.bennett@ironwoodindustrial.com,VP of Technology,704-555-6277,Decision Maker,Outbound SDR,,USR006,2023-10-18 11:51:47,true
+CON0314,ACC0155,Michelle,Hughes,michelle.hughes@granitepeakclinicalservices.com,VP of Information Technology,304-555-6589,Decision Maker,Customer Referral,,USR009,2025-05-11 09:13:15,true
+CON0315,ACC0155,Danielle,White,danielle.white@granitepeakclinicalservices.com,Senior Operations Manager,,Champion,Inbound Demo Request,,,2024-10-01 21:41:49,true
+CON0316,ACC0155,Brianna,Morgan,brianna.morgan@granitepeakclinicalservices.com,Purchasing Manager,304-555-3006,Procurement,Paid Search,LEAD0222,USR009,2024-08-08 10:27:29,true
+CON0317,ACC0156,Jasmine,Ross,jasmine.ross@harborviewclinicalservices.com,Chief Operating Officer,,Decision Maker,,,USR009,2024-01-29 08:37:50,true
+CON0318,ACC0156,Marcus,Garcia,marcus.garcia@harborviewclinicalservices.com,Director of Business Systems,201-555-1162,Champion,Paid Search,LEAD0087,USR009,2024-01-13 12:36:35,true
+CON0319,ACC0157,Alicia,Lewis,alicia.lewis@primepointcommerce.com,Director of Operations,201-555-6724,Champion,Content Download,LEAD0083,USR007,2026-08-05 06:58:36,true
+CON0320,ACC0157,Gabriel,Rivera,gabriel.rivera@primepointcommerce.com,Systems Administrator,201-555-3124,Evaluator,Paid Search,,USR007,2026-09-07 16:38:29,true
+CON0321,ACC0158,Brianna,Ortiz,brianna.ortiz@granitepeakbusinessservices.com,IT Specialist,702-555-4869,Evaluator,,,,2026-08-12 11:49:33,true
+CON0322,ACC0159,Angela,Hayes,angela.hayes@brookstonebusinesssolutions.com,Owner,612-555-2725,Decision Maker,,LEAD0063,,2026-07-22 20:17:04,true
+CON0323,ACC0159,Carmen,Chen,carmen.chen@brookstonebusinesssolutions.com,Team Lead,612-555-8313,Influencer,Organic Search,LEAD0184,,2026-04-20 19:37:46,true
+CON0324,ACC0160,Catherine,Anderson,catherine.anderson@redstoneconstruction.com,VP of Business Systems,,Decision Maker,Customer Referral,,USR012,2026-06-25 16:12:45,true
+CON0325,ACC0160,Noah,Hall,noah.hall@redstoneconstruction.com,IT Applications Manager,303-555-4293,Champion,Paid Search,LEAD0297,USR012,2026-07-21 19:58:49,true
+CON0326,ACC0160,Leah,Gomez,leah.gomez@redstoneconstruction.com,Senior Analyst,303-555-4963,Influencer,,LEAD0146,USR012,2026-06-12 04:45:04,true
+CON0327,ACC0161,Thomas,Edwards,thomas.edwards@eastgatesupplychain.com,IT Manager,212-555-8744,Champion,Content Download,LEAD0201,USR005,2026-08-04 14:14:15,true
+CON0328,ACC0162,Thomas,Smith,thomas.smith@clearwaterconsulting.com,Operations Manager,804-555-8214,Champion,Inbound Demo Request,,USR006,2023-05-09 02:04:49,true
+CON0329,ACC0162,Alicia,Brown,alicia.brown@clearwaterconsulting.com,Procurement Manager,804-555-1860,Procurement,Outbound SDR,,USR006,2023-01-10 04:59:02,true
+CON0330,ACC0163,Andrew,Moore,andrew.moore@redwoodoperations.com,President,803-555-7781,Decision Maker,,LEAD0219,USR006,2023-05-12 01:50:40,true
+CON0331,ACC0163,Olivia,Howard,olivia.howard@redwoodoperations.com,Purchasing Manager,803-555-9925,Procurement,Organic Search,,USR006,2023-11-12 21:33:58,true
+CON0332,ACC0164,Grace,King,grace.king@mosaicfabrication.com,Systems Administrator,313-555-1308,Evaluator,Webinar / Event,LEAD0274,USR007,2026-06-27 07:10:55,true
+CON0333,ACC0165,Eva,Harris,eva.harris@redstoneadvisory.com,IT Manager,313-555-9934,Champion,Organic Search,,USR007,2026-01-11 04:45:33,true
+CON0334,ACC0165,Ariana,Phillips,ariana.phillips@redstoneadvisory.com,Purchasing Manager,313-555-5650,Procurement,Content Download,,USR007,2025-11-24 11:15:20,true
+CON0335,ACC0166,Taylor,Hall,taylor.hall@cobaltprecisionworks.com,IT Manager,614-555-7979,Champion,Partner Referral,,USR007,2026-05-13 05:36:00,true
+CON0336,ACC0166,Ethan,Hughes,ethan.hughes@cobaltprecisionworks.com,Department Manager,614-555-4895,Influencer,Organic Search,LEAD0176,USR007,2026-03-01 09:49:27,true
+CON0337,ACC0167,Noah,Walker,noah.walker@harborviewretail.com,Process Improvement Manager,212-555-5764,Champion,Inbound Demo Request,,USR005,2026-04-04 19:48:20,false
+CON0338,ACC0167,Adrian,King,adrian.king@harborviewretail.com,Operations Analyst,212-555-3680,Evaluator,Webinar / Event,LEAD0284,USR005,2026-03-31 03:07:59,true
+CON0339,ACC0168,Eric,Hill,eric.hill@evergreenprofessionalservices.com,Director of Business Systems,601-555-3774,Champion,Outbound SDR,,USR010,2022-11-29 05:03:28,true
+CON0340,ACC0168,Bianca,Howard,bianca.howard@evergreenprofessionalservices.com,Program Manager,601-555-7124,Influencer,Paid Search,,USR010,2022-08-18 03:53:38,true
+CON0341,ACC0169,Ashley,Young,ashley.young@blueharborbrands.com,IT Manager,206-555-4315,Champion,Inbound Demo Request,LEAD0016,USR008,2024-09-06 16:19:24,true
+CON0342,ACC0169,Priya,Bennett,priya.bennett@blueharborbrands.com,Office Manager,,Procurement,Outbound SDR,,USR008,2024-08-16 19:54:42,true
+CON0343,ACC0170,Jasmine,Hill,jasmine.hill@clearpathwealthpartners.com,VP of Operations,313-555-4031,Decision Maker,Referral,,USR011,2025-11-14 16:21:56,true
+CON0344,ACC0171,Ethan,Brooks,ethan.brooks@fairviewconsulting.com,Chief Operating Officer,303-555-9794,Decision Maker,Organic Search,LEAD0061,USR012,2024-05-08 09:52:01,true
+CON0345,ACC0171,Chloe,Baker,chloe.baker@fairviewconsulting.com,Business Operations Director,303-555-4722,Champion,Inbound Demo Request,,USR012,2024-04-15 07:32:00,true
+CON0346,ACC0171,Bianca,Brown,bianca.brown@fairviewconsulting.com,Business Systems Analyst,303-555-5062,Evaluator,Organic Search,,USR012,2024-02-20 01:04:57,true
+CON0347,ACC0172,Caroline,Patel,caroline.patel@brightpathretail.com,VP of Digital Transformation,704-555-4768,Decision Maker,Customer Referral,,USR010,2023-08-24 15:13:09,true
+CON0348,ACC0172,Grace,Howard,grace.howard@brightpathretail.com,Director of Enterprise Applications,704-555-6465,Champion,Outbound SDR,,USR010,2023-05-24 18:09:18,true
+CON0349,ACC0172,Ethan,Green,ethan.green@brightpathretail.com,Senior Program Manager,704-555-7953,Influencer,Paid Search,LEAD0047,USR010,2023-12-12 02:53:31,true
+CON0350,ACC0172,Hannah,Ward,hannah.ward@brightpathretail.com,Solutions Architect,704-555-6828,Evaluator,Inbound Demo Request,LEAD0058,USR010,2023-05-02 22:38:00,true
+CON0351,ACC0173,Claire,Johnson,claire.johnson@bluewatercontracting.com,Operations Manager,,Champion,Content Download,LEAD0152,USR008,2026-03-09 07:52:13,true
+CON0352,ACC0174,Maria,Ward,maria.ward@cornerstonetraining.com,VP of Operations,212-555-1046,Decision Maker,Partner Referral,,USR005,2023-06-02 04:07:43,true
+CON0353,ACC0174,Alicia,Mitchell,alicia.mitchell@cornerstonetraining.com,Finance Manager,212-555-2099,Procurement,Customer Referral,LEAD0011,USR005,2023-04-30 22:06:25,true
+CON0354,ACC0175,Dominic,Barnes,dominic.barnes@frontierfinancialservices.com,IT Manager,404-555-7823,Champion,Paid Search,,USR006,2025-06-26 16:42:06,true
+CON0355,ACC0175,Noah,Rogers,noah.rogers@frontierfinancialservices.com,Team Lead,404-555-6080,Influencer,,LEAD0202,USR006,2025-04-24 10:08:51,true
+CON0356,ACC0176,Aiden,Walker,aiden.walker@clearwaterprecisionworks.com,VP of Technology,305-555-1019,Decision Maker,Inbound Demo Request,LEAD0141,USR006,2023-08-27 13:00:04,true
+CON0357,ACC0176,Olivia,Cooper,olivia.cooper@clearwaterprecisionworks.com,Process Improvement Manager,305-555-1399,Champion,Webinar / Event,LEAD0246,USR006,2023-06-14 19:37:05,true
+CON0358,ACC0177,Alicia,Davis,alicia.davis@vertexservices.com,VP of Operations,,Decision Maker,Inbound Demo Request,LEAD0174,USR006,2026-09-04 15:09:27,true
+CON0359,ACC0178,Chloe,Washington,chloe.washington@skylinefabrication.com,General Manager,804-555-1517,Decision Maker,,,USR006,2024-08-12 21:35:56,true
+CON0360,ACC0179,Sophia,Johnson,sophia.johnson@brightwelldigital.com,VP of Operations,614-555-2405,Decision Maker,Paid Search,LEAD0070,,2023-06-12 08:08:31,false
+CON0361,ACC0179,Katherine,Richardson,katherine.richardson@brightwelldigital.com,Business Systems Analyst,614-555-7045,Evaluator,,,USR011,2023-08-11 09:09:02,true
+CON0362,ACC0180,Thomas,Hernandez,thomas.hernandez@lakeviewtransportation.com,Operations Manager,,Champion,Paid Search,,USR006,2023-08-27 14:29:29,true
+CON0363,ACC0181,Nathan,Stewart,nathan.stewart@bluepeakconstruction.com,VP of Transformation,214-555-5965,Decision Maker,Inbound Demo Request,LEAD0165,USR010,2026-07-19 15:16:00,true
+CON0364,ACC0181,Dominic,Collins,dominic.collins@bluepeakconstruction.com,Business Operations Director,214-555-1215,Champion,,LEAD0281,USR010,2026-04-08 09:04:04,true
+CON0365,ACC0181,Danielle,Perez,danielle.perez@bluepeakconstruction.com,Systems Analyst,214-555-6845,Influencer,Outbound SDR,,USR010,2026-06-04 12:40:44,true
+CON0366,ACC0182,Omar,Ross,omar.ross@horizonfabrication.com,Director of Business Transformation,212-555-9049,Champion,Webinar / Event,,USR009,2025-02-09 05:32:01,true
+CON0367,ACC0182,Daniel,Rogers,daniel.rogers@horizonfabrication.com,Senior Program Manager,212-555-2149,Influencer,Webinar / Event,LEAD0015,USR009,2024-11-09 12:25:40,true
+CON0368,ACC0183,Caroline,Roberts,caroline.roberts@silveroakclinicalservices.com,Director of Business Systems,305-555-6943,Champion,Organic Search,,USR010,2025-04-30 14:37:03,true
+CON0369,ACC0184,Anthony,Hernandez,anthony.hernandez@clearpathsupportservices.com,General Manager,614-555-9981,Decision Maker,Outbound SDR,,USR007,2025-07-30 10:15:00,true
+CON0370,ACC0185,Taylor,Lee,taylor.lee@brookstonelabs.com,Office Manager,212-555-1941,Procurement,Webinar / Event,LEAD0238,USR005,2025-08-03 10:31:34,true
+CON0371,ACC0186,Alicia,Williams,alicia.williams@brightwelloperations.com,Business Operations Director,212-555-5929,Champion,Partner Referral,,USR009,2023-11-23 14:30:19,true
+CON0372,ACC0186,Gabriel,Perez,gabriel.perez@brightwelloperations.com,Senior Business Analyst,212-555-7528,Evaluator,Partner Referral,,USR009,2023-09-13 06:42:43,true
+CON0373,ACC0187,Derek,Rogers,derek.rogers@bluepeakcarenetwork.com,Business Operations Director,913-555-2764,Champion,Partner Referral,,USR009,2025-10-20 07:53:45,true
+CON0374,ACC0188,Jenna,Hernandez,jenna.hernandez@bluepeakfabrication.com,IT Manager,307-555-7417,Champion,Organic Search,LEAD0134,USR008,2025-04-25 19:47:58,true
+CON0375,ACC0189,Rachel,Walker,rachel.walker@beaconsoftware.com,VP of Operations,414-555-6483,Decision Maker,Content Download,,USR011,2022-03-14 08:55:02,true
+CON0376,ACC0189,Madison,Martin,madison.martin@beaconsoftware.com,Business Operations Director,414-555-7554,Champion,Outbound SDR,,USR011,2023-03-06 06:00:32,true
+CON0377,ACC0189,Aaliyah,Barnes,aaliyah.barnes@beaconsoftware.com,Solutions Architect,414-555-1193,Evaluator,Inbound Demo Request,,USR011,2023-01-14 10:15:40,true
+CON0378,ACC0190,Angela,Edwards,angela.edwards@bluewaterindustrial.com,Chief Operating Officer,555-555-5641,Decision Maker,,LEAD0157,USR010,2024-12-27 22:44:22,true
+CON0379,ACC0190,Ethan,Mitchell,ethan.mitchell@bluewaterindustrial.com,Director of Business Systems,555-555-9263,Champion,Outbound SDR,,USR010,2025-05-30 12:12:36,true
+CON0380,ACC0190,Caroline,Rogers,caroline.rogers@bluewaterindustrial.com,IT Project Manager,555-555-3422,Evaluator,Webinar / Event,,USR010,2025-02-05 15:22:32,true
+CON0381,ACC0191,Zoe,Jenkins,zoe.jenkins@ironwoodfinancial.com,General Manager,305-555-7519,Decision Maker,Organic Search,LEAD0150,USR006,2026-07-02 00:21:51,true
+CON0382,ACC0192,Emily,Gonzalez,emily.gonzalez@fairviewadvisorypartners.com,Process Improvement Manager,,Champion,Content Download,,USR008,2026-02-26 12:21:47,true
+CON0383,ACC0193,Brandon,Richardson,brandon.richardson@westlakeacademy.com,President,617-555-3843,Decision Maker,Partner Referral,LEAD0215,USR005,2026-04-20 00:11:06,true
+CON0384,ACC0194,Aaliyah,Johnson,aaliyah.johnson@bluepeakbrands.com,Process Improvement Manager,404-555-1446,Champion,Content Download,,USR006,2024-10-11 17:57:24,true
+CON0385,ACC0195,Dominic,Hall,dominic.hall@summitridgehealthpartners.com,General Manager,803-555-9226,Decision Maker,Organic Search,,USR006,2025-02-09 09:41:10,true
+CON0386,ACC0195,Sophia,Anderson,sophia.anderson@summitridgehealthpartners.com,Department Manager,803-555-6289,Influencer,Webinar / Event,,USR006,2024-07-26 09:35:00,true
+CON0387,ACC0196,Ella,King,ella.king@northstarretail.com,VP of Information Technology,913-555-7586,Decision Maker,Customer Referral,,USR011,2023-11-27 23:49:29,false
+CON0388,ACC0196,Jason,Parker,jason.parker@northstarretail.com,Director of Operations,913-555-1190,Champion,Webinar / Event,,USR011,2024-09-06 05:02:55,true
+CON0389,ACC0196,Alicia,Rivera,alicia.rivera@northstarretail.com,Procurement Manager,913-555-4416,Procurement,Organic Search,LEAD0112,USR011,2024-04-25 05:02:01,false
+CON0390,ACC0197,Jessica,Collins,jessica.collins@cedarstonesoftware.com,VP of Operations,,Decision Maker,Organic Search,,USR007,2023-08-07 06:57:09,true
+CON0391,ACC0198,Noah,Howard,noah.howard@blueharbordigital.com,Operations Manager,502-555-7268,Champion,Content Download,LEAD0268,USR006,2023-04-06 00:36:16,true
+CON0392,ACC0198,Olivia,Thompson,olivia.thompson@blueharbordigital.com,Finance Manager,,Procurement,Paid Search,LEAD0264,USR006,2023-06-25 11:36:28,true
+CON0393,ACC0199,Jose,Roberts,jose.roberts@oakridgeprofessionalservices.com,Business Operations Manager,614-555-7045,Champion,Webinar / Event,LEAD0105,USR007,2023-11-17 00:38:00,true
+CON0394,ACC0200,Justin,Phillips,justin.phillips@meridiancontracting.com,Purchasing Manager,555-555-9555,Procurement,Customer Referral,LEAD0183,USR006,2023-05-04 04:47:34,true
+CON0395,ACC0201,Diana,Nguyen,diana.nguyen@riverbendsystems.com,Business Analyst,,Evaluator,Partner Referral,LEAD0207,USR008,2023-05-02 07:51:14,true
+CON0396,ACC0202,Daniel,Kim,daniel.kim@clearwatersupportservices.com,VP of Operations,615-555-1962,Decision Maker,Outbound SDR,LEAD0230,USR010,2026-02-13 03:04:06,true
+CON0397,ACC0202,David,Howard,david.howard@clearwatersupportservices.com,IT Applications Manager,615-555-5677,Champion,Webinar / Event,LEAD0096,USR010,2026-03-05 21:55:09,true
+CON0398,ACC0202,Camila,Rogers,camila.rogers@clearwatersupportservices.com,Purchasing Manager,615-555-3656,Procurement,Paid Search,,USR010,2026-09-14 13:40:19,true
+CON0399,ACC0203,Danielle,Taylor,danielle.taylor@blueharborprecisionworks.com,VP of Digital Transformation,614-555-3597,Decision Maker,Partner Referral,,USR011,2025-01-05 02:56:29,true
+CON0400,ACC0203,Jordan,Reed,jordan.reed@blueharborprecisionworks.com,Senior Director of Operations,614-555-6015,Champion,Content Download,LEAD0193,USR011,2025-03-04 03:24:44,true
+CON0401,ACC0203,Brianna,Moore,brianna.moore@blueharborprecisionworks.com,Senior Program Manager,614-555-5945,Influencer,Organic Search,,USR011,2025-02-17 02:46:07,true
+CON0402,ACC0203,Elizabeth,Johnson,elizabeth.johnson@blueharborprecisionworks.com,Vendor Management Director,614-555-2640,Procurement,Organic Search,LEAD0170,USR011,2024-08-03 08:00:55,true
+CON0403,ACC0204,Madison,Roberts,madison.roberts@opengatesolutions.com,VP of Operations,404-555-6937,Decision Maker,,,USR010,2026-04-13 04:20:34,true
+CON0404,ACC0205,Rebecca,Morris,rebecca.morris@pinecrestmanufacturing.com,Chief Information Officer,213-555-1978,Decision Maker,Paid Search,,USR012,2025-07-06 05:44:06,true
+CON0405,ACC0205,Anthony,Morgan,anthony.morgan@pinecrestmanufacturing.com,Senior Operations Manager,213-555-1022,Champion,Webinar / Event,,USR012,2026-03-21 04:03:02,true
+CON0406,ACC0206,Justin,Ward,justin.ward@granitepeakcontracting.com,Process Improvement Manager,214-555-3510,Champion,Paid Search,,USR006,2024-06-11 19:22:12,true
+CON0407,ACC0206,Ella,Gray,ella.gray@granitepeakcontracting.com,Business Analyst,,Evaluator,Inbound Demo Request,,USR006,2024-04-06 20:13:36,true
+CON0408,ACC0207,Vanessa,Patel,vanessa.patel@brightpathhealthpartners.com,VP of Operations,214-555-8211,Decision Maker,Content Download,LEAD0180,USR010,2023-08-28 02:32:32,true
+CON0409,ACC0207,Alexandra,Jackson,alexandra.jackson@brightpathhealthpartners.com,Director of Operations,,Champion,Inbound Demo Request,LEAD0292,USR010,2023-06-09 13:44:51,true
+CON0410,ACC0207,Maria,Campbell,maria.campbell@brightpathhealthpartners.com,Purchasing Manager,214-555-4965,Procurement,Paid Search,,USR010,2023-08-27 11:00:10,true
+CON0411,ACC0208,Omar,Morgan,omar.morgan@westfieldlabs.com,Systems Administrator,,Evaluator,Partner Referral,LEAD0094,USR006,2023-10-02 13:42:07,true
+CON0412,ACC0209,Andrea,Green,andrea.green@highpointfreight.com,VP of Digital Transformation,215-555-4646,Decision Maker,Webinar / Event,,USR009,2024-04-09 19:07:51,true
+CON0413,ACC0209,Vanessa,Cruz,vanessa.cruz@highpointfreight.com,Senior Director of Operations,215-555-3796,Champion,Webinar / Event,,USR009,2024-12-26 07:54:53,true
+CON0414,ACC0209,Isaiah,Allen,isaiah.allen@highpointfreight.com,"Senior Manager, Operations",215-555-6652,Influencer,Content Download,LEAD0226,USR009,2024-10-25 15:19:50,true
+CON0415,ACC0209,Maya,Williams,maya.williams@highpointfreight.com,Program Manager,215-555-4735,Evaluator,Organic Search,LEAD0259,USR009,2024-03-26 02:14:41,true
+CON0416,ACC0210,Olivia,Brown,olivia.brown@rivermarkretail.com,IT Manager,405-555-6664,Champion,Inbound Demo Request,,USR010,2026-05-23 08:03:00,true
+CON0417,ACC0210,Kevin,Wright,kevin.wright@rivermarkretail.com,Project Manager,405-555-9559,Evaluator,Organic Search,LEAD0024,USR010,2026-09-01 15:45:57,true
+CON0418,ACC0211,Nicole,Turner,nicole.turner@northwindsupportservices.com,Chief Operating Officer,,Decision Maker,Content Download,LEAD0093,USR011,2026-07-20 12:30:07,true
+CON0419,ACC0211,Amanda,Rivera,amanda.rivera@northwindsupportservices.com,Senior Operations Manager,312-555-7783,Champion,Outbound SDR,,USR011,2025-12-29 07:58:37,true
+CON0420,ACC0211,Julia,Wilson,julia.wilson@northwindsupportservices.com,Procurement Manager,312-555-9928,Procurement,Inbound Demo Request,,USR011,2026-04-15 08:26:31,true
+CON0421,ACC0212,Bianca,Young,bianca.young@brookstonehealthservices.com,VP of Technology,404-555-1184,Decision Maker,Inbound Demo Request,,USR006,2023-12-19 00:52:41,true
+CON0422,ACC0212,Benjamin,Taylor,benjamin.taylor@brookstonehealthservices.com,Office Manager,404-555-1765,Procurement,,LEAD0008,,2024-09-27 17:28:23,true
+CON0423,ACC0213,Nathan,Hill,nathan.hill@silveroakretail.com,Owner,,Decision Maker,Webinar / Event,LEAD0239,USR011,2026-09-19 13:48:18,true
+CON0424,ACC0213,Christopher,Miller,christopher.miller@silveroakretail.com,Business Operations Manager,317-555-7934,Champion,Inbound Demo Request,LEAD0227,USR011,2026-09-19 01:20:27,true
+CON0425,ACC0214,Jose,Hughes,jose.hughes@redstonelogistics.com,VP of Technology,215-555-2188,Decision Maker,Outbound SDR,,USR005,2025-10-17 14:12:11,true
+CON0426,ACC0214,Caleb,Chen,caleb.chen@redstonelogistics.com,Purchasing Manager,215-555-1911,Procurement,Webinar / Event,,USR005,2025-09-23 08:08:35,true
+CON0427,ACC0215,Bianca,Howard,bianca.howard@highpointcarenetwork.com,Purchasing Manager,212-555-9836,Procurement,Paid Search,,USR005,2024-08-07 16:34:15,true
+CON0428,ACC0216,Carmen,Diaz,carmen.diaz@parklinemanufacturing.com,VP of Transformation,414-555-4073,Decision Maker,Content Download,LEAD0243,USR011,2022-12-02 11:17:12,true
+CON0429,ACC0216,Sofia,Collins,sofia.collins@parklinemanufacturing.com,Senior Operations Manager,414-555-2480,Champion,Content Download,,USR011,2023-09-10 05:57:13,true
+CON0430,ACC0216,Jacob,Hill,jacob.hill@parklinemanufacturing.com,Solutions Architect,414-555-5203,Evaluator,Content Download,LEAD0145,USR011,2023-09-14 12:59:14,true
+CON0431,ACC0217,Chloe,Perez,chloe.perez@brookstonesoftware.com,Chief Technology Officer,305-555-1402,Decision Maker,Webinar / Event,,USR010,2026-08-02 20:25:49,true
+CON0432,ACC0217,Eva,Collins,eva.collins@brookstonesoftware.com,Enterprise Systems Manager,305-555-7292,Champion,Inbound Demo Request,,USR010,2026-08-02 23:52:11,true
+CON0433,ACC0217,Eva,Mitchell,eva.mitchell@brookstonesoftware.com,Executive Assistant,305-555-5800,Other,,,USR010,2026-08-24 22:22:19,true
+CON0434,ACC0217,Ethan,Young,ethan.young@brookstonesoftware.com,Strategic Sourcing Director,305-555-4097,Procurement,Outbound SDR,,USR010,2026-07-15 22:46:27,true
+CON0435,ACC0218,Thomas,Gomez,thomas.gomez@fairviewdigital.com,VP of Operations,317-555-6098,Decision Maker,Inbound Demo Request,LEAD0004,,2022-04-06 14:41:02,true
+CON0436,ACC0219,Emily,Williams,emily.williams@maplewoodconsulting.com,VP of Digital Transformation,206-555-7115,Decision Maker,Webinar / Event,LEAD0032,USR012,2024-03-04 22:35:40,true
+CON0437,ACC0219,Megan,James,megan.james@maplewoodconsulting.com,Senior Director of Operations,206-555-4578,Champion,Content Download,LEAD0153,USR012,2024-06-10 16:44:36,true
+CON0438,ACC0219,Justin,Hayes,justin.hayes@maplewoodconsulting.com,Enterprise Applications Lead,206-555-8082,Influencer,Organic Search,,USR012,2024-05-09 22:23:26,true
+CON0439,ACC0219,Catherine,Richardson,catherine.richardson@maplewoodconsulting.com,Senior Business Systems Analyst,206-555-8872,Evaluator,Outbound SDR,,USR012,2025-01-15 18:56:38,true
+CON0440,ACC0220,Katherine,Brooks,katherine.brooks@brookstonetechnologies.com,IT Manager,213-555-3379,Champion,Organic Search,,USR012,2023-01-15 13:31:12,true
+CON0441,ACC0220,Catherine,Hughes,catherine.hughes@brookstonetechnologies.com,Purchasing Manager,213-555-9553,Procurement,Partner Referral,,USR012,2023-05-13 12:29:03,true
+CON0442,ACC0221,Ethan,Phillips,ethan.phillips@keystonelabs.com,Transformation Manager,304-555-3146,Champion,Paid Search,LEAD0122,,2025-06-29 04:14:51,true
+CON0443,ACC0221,Madison,Brooks,madison.brooks@keystonelabs.com,Senior Business Analyst,304-555-2835,Evaluator,Content Download,LEAD0151,,2025-01-08 02:51:02,true
+CON0444,ACC0222,Aaron,Bailey,,Director of Operations,213-555-2916,Champion,Webinar / Event,LEAD0128,USR008,2024-06-09 21:37:26,true
+CON0445,ACC0222,Omar,Peterson,omar.peterson@cedarstonefreight.com,Project Manager,213-555-3686,Evaluator,Inbound Demo Request,,USR008,2024-03-01 11:09:41,true
+CON0446,ACC0223,Andrew,Martinez,andrew.martinez@eastgateadvisorypartners.com,Chief Technology Officer,614-555-3206,Decision Maker,Webinar / Event,LEAD0131,USR011,2026-08-29 07:17:50,true
+CON0447,ACC0223,Michelle,James,michelle.james@eastgateadvisorypartners.com,Senior Director of Operations,614-555-9010,Champion,Partner Referral,,USR011,2026-09-07 09:12:28,true
+CON0448,ACC0223,Amir,Bell,amir.bell@eastgateadvisorypartners.com,"Senior Manager, Operations",614-555-6505,Influencer,Paid Search,,USR011,2026-08-08 01:29:57,true
+CON0449,ACC0224,Isaiah,Allen,isaiah.allen@brightwellbuilders.com,Owner,304-555-6819,Decision Maker,Customer Referral,,USR005,2026-09-02 09:03:41,true
+CON0450,ACC0224,Catherine,Sanchez,catherine.sanchez@brightwellbuilders.com,,304-555-2901,Evaluator,Content Download,,USR005,2026-01-15 17:23:45,false
+CON0451,ACC0225,Angela,Torres,angela.torres@beaconfreight.com,SVP of Operations,702-555-4635,Decision Maker,Content Download,,USR012,2024-01-02 08:31:45,true
+CON0452,ACC0225,Liam,Edwards,liam.edwards@beaconfreight.com,Director of Process Excellence,702-555-3468,Champion,Content Download,LEAD0266,USR012,2023-09-01 03:50:11,true
+CON0453,ACC0225,Noah,Rodriguez,noah.rodriguez@beaconfreight.com,Operations Coordinator,702-555-6074,Other,Organic Search,,USR012,2023-03-06 18:35:56,true
+CON0454,ACC0225,Hannah,Hill,hannah.hill@beaconfreight.com,Enterprise Applications Lead,,Influencer,Inbound Demo Request,,USR012,2024-01-08 20:52:22,true
+CON0455,ACC0226,Carmen,Green,carmen.green@foxbridgecapital.com,President,212-555-2880,Decision Maker,Webinar / Event,LEAD0027,USR005,2025-08-30 07:45:41,true
+CON0456,ACC0226,David,Hayes,david.hayes@foxbridgecapital.com,,,Champion,Outbound SDR,,USR005,2025-08-02 16:56:55,true
+CON0457,ACC0227,Dominic,Morris,dominic.morris@sterlingdigital.com,,215-555-4706,Champion,Outbound SDR,LEAD0258,USR005,2026-04-06 22:17:36,true
+CON0458,ACC0227,Liam,Price,liam.price@sterlingdigital.com,Project Coordinator,215-555-4866,Influencer,Organic Search,,USR005,2025-10-28 19:20:19,true
+CON0459,ACC0228,Isabella,Williams,isabella.williams@cornerstoneconstruction.com,Chief Information Officer,213-555-9123,Decision Maker,Content Download,,USR012,2026-01-18 15:30:27,true
+CON0460,ACC0228,Elizabeth,Edwards,elizabeth.edwards@cornerstoneconstruction.com,Transformation Manager,213-555-5439,Champion,Website,LEAD0212,USR012,2026-09-13 23:32:32,true
+CON0461,ACC0228,Maria,Bennett,maria.bennett@cornerstoneconstruction.com,Strategic Sourcing Manager,213-555-1142,Procurement,Outbound SDR,,USR012,2025-10-15 16:31:18,true
+CON0462,ACC0229,Dominic,Scott,dominic.scott@elmwoodwealthpartners.com,Director of Operations,404-555-1002,Champion,Paid Search,,USR006,2026-07-13 02:59:48,false
+CON0463,ACC0230,Jason,Jenkins,jason.jenkins@opengateadvisorypartners.com,VP of Digital Transformation,612-555-3978,,Content Download,LEAD0158,USR011,2025-10-07 23:54:09,true
+CON0464,ACC0230,Claire,Gomez,claire.gomez@opengateadvisorypartners.com,Director of Process Excellence,612-555-6793,Champion,Webinar / Event,LEAD0200,USR011,2025-07-02 10:10:36,true
+CON0465,ACC0230,Lucas,White,lucas.white@opengateadvisorypartners.com,Executive Assistant,612-555-7241,Other,Organic Search,LEAD0223,USR011,2025-09-28 14:11:32,true
+CON0466,ACC0230,Isaiah,Brown,isaiah.brown@opengateadvisorypartners.com,Process Excellence Lead,612-555-2645,Evaluator,Inbound Demo Request,,USR011,2025-07-16 10:57:09,true
+CON0467,ACC0231,Olivia,Wright,olivia.wright@ironwoodlabs.com,Business Operations Director,515-555-4585,Champion,Partner Referral,,USR011,2024-02-14 14:07:54,false
+CON0468,ACC0231,Jasmine,Diaz,jasmine.diaz@ironwoodlabs.com,Operations Program Manager,515-555-4959,Influencer,Outbound SDR,,USR011,2024-01-25 12:13:15,true
+CON0469,ACC0232,Eva,Allen,,Chief Information Officer,402-555-4709,Decision Maker,Partner Referral,LEAD0225,USR011,2023-12-26 11:58:45,true
+CON0470,ACC0232,Abigail,Chen,abigail.chen@pinecrestlabs.com,Director of Operations,402-555-3250,Champion,Webinar / Event,LEAD0237,USR011,2024-04-10 00:33:23,true
+CON0471,ACC0233,Justin,Sanchez,justin.sanchez@truenorthmarketplace.com,Transformation Manager,,Champion,Webinar / Event,,USR011,2024-11-01 01:54:04,true
+CON0472,ACC0234,Eli,Ramirez,eli.ramirez@crownstonefabrication.com,Director of Operations,212-555-1864,Champion,,,USR005,2026-06-05 00:37:08,true
+CON0473,ACC0234,Justin,Lee,justin.lee@crownstonefabrication.com,Department Manager,,Influencer,Partner Referral,LEAD0267,USR005,2026-09-12 23:57:20,true
+CON0474,ACC0235,Henry,Gray,henry.gray@highlandclinicalservices.com,General Manager,704-555-6969,Decision Maker,Paid Search,LEAD0198,USR006,2023-12-21 23:55:34,true
+CON0475,ACC0235,Brianna,Rodriguez,brianna.rodriguez@highlandclinicalservices.com,Department Manager,,Influencer,Paid Search,LEAD0254,USR006,2024-10-16 01:25:08,true
+CON0476,ACC0236,Madison,Reed,madison.reed@brightwellfabrication.com,General Manager,304-555-9116,Decision Maker,Inbound Demo Request,LEAD0046,USR005,2026-09-06 08:17:18,true
+CON0477,ACC0237,Noah,Anderson,noah.anderson@silveroakprofessionalservices.com,VP of Transformation,215-555-2082,Decision Maker,Content Download,LEAD0164,USR009,2026-09-01 13:20:33,true
+CON0478,ACC0237,Victoria,Washington,victoria.washington@silveroakprofessionalservices.com,Director of Business Systems,215-555-3546,Champion,Inbound Demo Request,LEAD0278,USR009,2026-09-09 10:16:16,true
+CON0479,ACC0237,Brianna,Morris,brianna.morris@silveroakprofessionalservices.com,Vendor Management Manager,215-555-5146,Procurement,Outbound SDR,LEAD0276,USR009,2026-09-11 05:17:24,true
+CON0480,ACC0238,William,Perez,william.perez@catalystsupplychain.com,General Manager,804-555-9566,Decision Maker,Outbound SDR,,USR006,2025-09-21 04:18:04,true
+CON0481,ACC0238,Justin,Mitchell,justin.mitchell@catalystsupplychain.com,IT Specialist,804-555-2177,Evaluator,Inbound Demo Request,LEAD0260,,2025-12-22 13:22:42,true
+CON0482,ACC0239,Danielle,Gray,danielle.gray@westlakesupportservices.com,Senior Operations Manager,702-555-5852,Champion,Organic Search,LEAD0242,,2024-04-29 00:04:47,true
+CON0483,ACC0239,Andrea,Ross,andrea.ross@westlakesupportservices.com,Systems Analyst,,Influencer,Inbound Demo Request,,,2024-06-26 09:02:04,true
+CON0484,ACC0240,Samuel,Thomas,samuel.thomas@ridgeviewlabs.com,IT Manager,804-555-7511,Champion,Inbound Demo Request,,,2024-12-19 18:56:39,true
+CON0485,ACC0240,Anthony,Taylor,anthony.taylor@ridgeviewlabs.com,Senior Analyst,804-555-5774,Influencer,Customer Referral,,,2024-10-31 02:15:28,true
+CON0486,ACC0241,Isaiah,Thomas,isaiah.thomas@bluewaterfreight.com,Operations Manager,614-555-5272,Champion,Outbound SDR,LEAD0041,USR007,2025-10-03 11:48:37,true
+CON0487,ACC0242,Ryan,Moore,ryan.moore@brookstonelearningsystems.com,Project Manager,206-555-1589,Evaluator,Outbound SDR,LEAD0287,USR008,2025-12-10 17:30:41,true
+CON0488,ACC0243,Madison,Thomas,madison.thomas@greenfieldconstruction.com,VP of Technology,,Decision Maker,Outbound SDR,,USR005,2023-04-07 00:25:53,true
+CON0489,ACC0244,Abigail,Rodriguez,abigail.rodriguez@ridgeviewbrands.com,Director of Operations,803-555-3610,Champion,,,USR006,2022-04-24 11:41:10,true
+CON0490,ACC0244,Steven,Harris,steven.harris@ridgeviewbrands.com,Operations Analyst,803-555-8269,Evaluator,Organic Search,,,2022-11-26 06:56:14,true
+CON0491,ACC0245,Rebecca,Diaz,rebecca.diaz@cobaltlabs.com,Chief Information Officer,503-555-9173,Decision Maker,Inbound Demo Request,LEAD0071,,2026-05-12 04:53:39,true
+CON0492,ACC0245,Natalie,Wright,natalie.wright@cobaltlabs.com,Director of Process Excellence,503-555-7421,Champion,Customer Referral,,USR012,2026-01-07 11:29:45,true
+CON0493,ACC0245,Lauren,Moore,lauren.moore@cobaltlabs.com,Solutions Architect,503-555-5606,Evaluator,Content Download,,USR012,2025-11-05 13:22:06,true
+CON0494,ACC0246,Carmen,Scott,carmen.scott@riverbendmedicalgroup.com,SVP of Operations,303-555-4873,Decision Maker,Outbound SDR,LEAD0133,USR012,2023-11-29 05:40:54,true
+CON0495,ACC0246,Andrea,Barnes,andrea.barnes@riverbendmedicalgroup.com,Director of Enterprise Applications,303-555-9671,Champion,Partner Referral,LEAD0296,USR012,2023-06-29 14:08:48,true
+CON0496,ACC0246,Aaron,Hughes,aaron.hughes@riverbendmedicalgroup.com,,303-555-1253,Evaluator,Organic Search,,USR012,2023-10-22 04:45:41,true
+CON0497,ACC0247,Emily,Butler,emily.butler@truenorthsupplychain.com,Chief Information Officer,203-555-6896,Decision Maker,Paid Search,,USR009,2026-04-04 02:16:49,true
+CON0498,ACC0247,Carlos,Clark,carlos.clark@truenorthsupplychain.com,Director of Business Systems,203-555-9154,Champion,Inbound Demo Request,,,2026-03-24 17:27:05,true
+CON0499,ACC0247,Steven,Reed,steven.reed@truenorthsupplychain.com,Strategic Sourcing Manager,203-555-6890,Procurement,Paid Search,LEAD0090,USR009,2026-05-09 08:56:44,true
+CON0500,ACC0248,Sofia,Harris,sofia.harris@clearwateradvisorypartners.com,VP of Information Technology,206-555-3253,Decision Maker,Organic Search,,USR012,2022-12-19 15:27:57,false
+CON0501,ACC0249,Ariana,Thompson,ariana.thompson@highpointhealthpartners.com,Chief Information Officer,,Decision Maker,Webinar / Event,LEAD0127,USR010,2025-08-28 05:31:53,true
+CON0502,ACC0249,Bianca,Phillips,bianca.phillips@highpointhealthpartners.com,Director of Operations,305-555-3860,Champion,Customer Referral,LEAD0295,USR010,2025-12-24 20:02:20,true
+CON0503,ACC0250,Omar,Bennett,omar.bennett@brightpathadvisorypartners.com,General Manager,,Decision Maker,,LEAD0038,USR008,2023-01-18 21:49:27,true
+CON0504,ACC0250,Marcus,Anderson,marcus.anderson@brightpathadvisorypartners.com,Office Manager,213-555-1191,Procurement,Outbound SDR,,USR008,2023-02-26 10:34:06,true
+CON0505,ACC0251,Emily,Adams,emily.adams@westfieldretail.com,Operations Manager,213-555-5111,Champion,Customer Referral,LEAD0117,USR008,2024-04-25 02:06:58,true
+CON0506,ACC0252,Benjamin,Richardson,benjamin.richardson@silveroakconsulting.com,Procurement Manager,312-555-3366,Procurement,Inbound Demo Request,,USR007,2025-01-17 10:22:54,false
+CON0507,ACC0253,Claire,Ramirez,claire.ramirez@crestpointprofessionalservices.com,Chief Information Officer,404-555-8768,Decision Maker,Webinar / Event,,USR010,2026-01-12 02:40:20,false
+CON0508,ACC0253,Nicole,Morgan,nicole.morgan@crestpointprofessionalservices.com,Business Operations Director,404-555-4318,Champion,Outbound SDR,,USR010,2026-06-06 14:49:27,true
+CON0509,ACC0253,Camila,Butler,camila.butler@crestpointprofessionalservices.com,Vendor Management Manager,404-555-2172,Procurement,Outbound SDR,,USR010,2026-04-01 09:22:57,true
+CON0510,ACC0254,Justin,Taylor,justin.taylor@riverbendlearningsystems.com,VP of Enterprise Systems,202-555-6875,Decision Maker,Customer Referral,,USR009,2026-01-31 20:43:32,true
+CON0511,ACC0254,Emily,Hayes,emily.hayes@riverbendlearningsystems.com,Director of Process Excellence,202-555-2099,Champion,Inbound Demo Request,LEAD0137,USR009,2025-10-10 17:59:47,true
+CON0512,ACC0254,Megan,Ortiz,megan.ortiz@riverbendlearningsystems.com,Vendor Management Director,202-555-5842,Procurement,Content Download,,USR009,2025-11-19 05:20:50,true
+CON0513,ACC0254,Henry,Martin,henry.martin@riverbendlearningsystems.com,Solutions Architect,202-555-4046,Evaluator,Partner,LEAD0288,USR009,2025-05-30 21:51:10,true
+CON0514,ACC0255,Marcus,Roberts,marcus.roberts@maplewoodbrands.com,Transformation Manager,213-555-7041,Champion,Content Download,LEAD0205,USR012,2026-08-10 11:03:39,true
+CON0515,ACC0256,Charles,Peterson,,Owner,305-555-2066,Decision Maker,,LEAD0187,USR006,2026-07-07 05:44:59,true
+CON0516,ACC0257,Elizabeth,Gray,elizabeth.gray@sterlingdigital.com,Chief Information Officer,312-555-6154,Decision Maker,Outbound SDR,LEAD0154,USR011,2023-03-03 04:35:46,true
+CON0517,ACC0258,Ella,Rodriguez,ella.rodriguez@crescentsolutions.com,VP of Transformation,212-555-5543,Decision Maker,Inbound Demo Request,LEAD0138,USR012,2026-09-02 00:48:41,true
+CON0518,ACC0258,Jordan,Collins,jordan.collins@crescentsolutions.com,Solutions Architect,212-555-1291,Evaluator,Outbound SDR,LEAD0111,USR012,2026-07-19 21:21:01,true
+CON0519,ACC0259,Jordan,Hill,jordan.hill@eastgatelabs.com,VP of Business Systems,704-555-3199,,Outbound SDR,,USR010,2025-12-16 14:39:37,true
+CON0520,ACC0260,Gabriel,Turner,gabriel.turner@parklineprofessionalservices.com,Owner,203-555-6239,Decision Maker,Webinar / Event,LEAD0194,USR005,2024-09-12 16:47:42,true
+CON0521,ACC0260,Eva,Wright,eva.wright@parklineprofessionalservices.com,Business Analyst,203-555-9611,Evaluator,Paid Search,,USR005,2024-11-09 18:38:30,true
+CON0522,ACC0261,Camila,Smith,camila.smith@fairviewcommerce.com,VP of Information Technology,,Decision Maker,Inbound Demo Request,,USR012,2023-02-19 09:22:58,true
+CON0523,ACC0261,Chloe,Foster,chloe.foster@fairviewcommerce.com,Business Operations Director,213-555-9709,Champion,,,USR012,2023-09-04 14:46:41,true
+CON0524,ACC0261,William,Morgan,william.morgan@fairviewcommerce.com,Senior Business Analyst,213-555-1094,Evaluator,Organic Search,,USR012,2023-12-29 00:49:12,true
+CON0525,ACC0262,Grace,Bailey,grace.bailey@redwoodmanufacturing.com,General Manager,212-555-1082,Decision Maker,Webinar / Event,,USR005,2024-08-16 16:58:59,true
+CON0526,ACC0263,Nathan,Perez,nathan.perez@northwindindustries.com,Business Operations Manager,503-555-4801,Champion,Outbound SDR,,USR008,2026-09-01 05:59:46,true
+CON0527,ACC0263,Claire,Rodriguez,claire.rodriguez@northwindindustries.com,Department Manager,503-555-7878,Influencer,Outbound SDR,,USR008,2026-07-26 10:25:39,true
+CON0528,ACC0264,Diana,Lee,diana.lee@northwindsystems.com,Business Operations Manager,555-555-2332,Champion,Content Download,,USR007,2026-03-03 09:28:16,true
+CON0529,ACC0265,Carlos,Bennett,carlos.bennett@westfieldcommerce.com,VP of Operations,602-555-8918,Decision Maker,Webinar / Event,LEAD0232,USR008,2026-04-16 14:54:34,true
+CON0530,ACC0265,Leah,Miller,leah.miller@westfieldcommerce.com,Operations Manager,,Champion,Paid Search,,USR008,2026-07-31 02:25:32,true
+CON0531,ACC0266,Brianna,Martinez,brianna.martinez@lakeshoremanufacturing.com,SVP of Operations,312-555-2320,Decision Maker,Webinar / Event,,,2023-10-15 13:52:58,true
+CON0532,ACC0266,Taylor,White,taylor.white@lakeshoremanufacturing.com,Director of Business Transformation,312-555-1536,Champion,Outbound SDR,,,2023-05-22 10:05:55,true
+CON0533,ACC0266,Jacob,Clark,jacob.clark@lakeshoremanufacturing.com,,,Influencer,Webinar / Event,,,2023-06-07 21:52:33,true
+CON0534,ACC0266,Michael,Hall,michael.hall@lakeshoremanufacturing.com,Solutions Architect,312-555-7339,Evaluator,Organic Search,LEAD0156,,2023-11-22 06:38:52,true
+CON0535,ACC0267,Christopher,Collins,christopher.collins@cedarstonehealthservices.com,President,212-555-6768,Decision Maker,Customer Referral,LEAD0107,USR005,2025-05-27 17:30:59,true
+CON0536,ACC0267,Eli,Thomas,eli.thomas@cedarstonehealthservices.com,Business Analyst,212-555-9966,Evaluator,Paid Search,LEAD0095,USR005,2025-09-06 04:45:19,true
+CON0537,ACC0268,Maya,Gomez,maya.gomez@clearwatersoftware.com,Business Operations Manager,213-555-9150,Champion,Outbound SDR,,USR008,2026-09-19 05:48:55,true
+CON0538,ACC0269,Michael,Ramirez,michael.ramirez@apexmarketplace.com,Chief Operating Officer,410-555-8351,Decision Maker,Organic Search,LEAD0155,USR009,2023-09-04 03:02:15,true
+CON0539,ACC0270,Ariana,Rodriguez,ariana.rodriguez@pioneercarenetwork.com,Business Operations Manager,212-555-1330,Champion,Paid Search,LEAD0075,USR005,2025-10-11 22:58:29,true
+CON0540,ACC0270,Carmen,Chen,carmen.chen@pioneercarenetwork.com,Department Manager,212-555-8970,Influencer,Content Download,,USR005,2025-10-20 14:19:28,true
+CON0541,ACC0271,Anthony,Moore,anthony.moore@northstarsoftware.com,President,213-555-4039,Decision Maker,Outbound SDR,LEAD0003,USR008,2025-01-05 14:36:08,true
+CON0542,ACC0271,Gabriel,Hernandez,gabriel.hernandez@northstarsoftware.com,Office Manager,213-555-1890,Procurement,,,USR008,2024-12-25 17:42:56,true
+CON0543,ACC0272,Brianna,Lopez,brianna.lopez@eastwoodfinancialservices.com,Chief Information Officer,404-555-5330,Decision Maker,Organic Search,LEAD0245,USR010,2026-03-21 14:02:31,true
+CON0544,ACC0272,Chloe,Bell,chloe.bell@eastwoodfinancialservices.com,Business Systems Analyst,404-555-4102,Evaluator,Organic Search,LEAD0091,USR010,2026-06-23 11:01:04,true
+CON0545,ACC0273,Alicia,Shah,alicia.shah@ironwoodtraining.com,IT Manager,614-555-5965,Champion,Content Download,,USR007,2026-03-10 01:50:51,true
+CON0546,ACC0274,Andrew,Martinez,andrew.martinez@horizonsupportservices.com,Chief Operating Officer,304-555-5506,Decision Maker,Partner Referral,LEAD0114,USR009,2024-12-18 20:18:49,true
+CON0547,ACC0274,Michelle,Kelly,michelle.kelly@horizonsupportservices.com,Enterprise Systems Manager,304-555-5895,Champion,Organic Search,,,2025-02-21 19:52:13,true
+CON0548,ACC0274,Kevin,Rodriguez,kevin.rodriguez@horizonsupportservices.com,Operations Strategy Manager,304-555-7474,Influencer,Inbound Demo Request,,USR009,2025-01-28 05:28:43,true
+CON0549,ACC0274,Henry,Ross,henry.ross@horizonsupportservices.com,Director of Procurement,304-555-1414,Procurement,Content Download,LEAD0220,USR009,2025-03-14 14:45:18,true
+CON0550,ACC0275,Alexandra,Cooper,alexandra.cooper@lakeshoreinfrastructure.com,IT Manager,305-555-9212,Champion,Outbound SDR,LEAD0204,USR006,2026-07-27 15:42:58,true
+CON0551,ACC0275,Amir,Wright,amir.wright@lakeshoreinfrastructure.com,Purchasing Manager,305-555-4191,Procurement,Customer Referral,,USR006,2026-07-27 07:41:03,true
+CON0552,ACC0276,Eric,Gomez,eric.gomez@lakeviewsupportservices.com,Senior Business Analyst,312-555-9273,Evaluator,Organic Search,,USR011,2024-11-18 13:59:28,true
+CON0553,ACC0277,Brandon,Taylor,brandon.taylor@arborcarenetwork.com,Chief Operating Officer,305-555-8801,Decision Maker,,LEAD0283,USR010,2025-12-09 22:05:50,true
+CON0554,ACC0277,Ariana,Roberts,ariana.roberts@arborcarenetwork.com,Business Operations Director,305-555-1441,Champion,Content Download,LEAD0065,USR010,2025-12-27 03:25:25,true
+CON0555,ACC0277,William,Edwards,,Process Analyst,305-555-2096,Evaluator,Inbound Demo Request,,USR010,2026-03-04 05:06:31,true
+CON0556,ACC0278,David,Hughes,david.hughes@westfieldindustrial.com,VP of Operations,,Decision Maker,Paid Search,,USR010,2025-10-05 17:01:11,true
+CON0557,ACC0279,Jasmine,Martinez,jasmine.martinez@stonebridgelearning.com,VP of Information Technology,314-555-3055,Decision Maker,Outbound SDR,,USR011,2023-07-20 09:41:32,true
+CON0558,ACC0279,Andrea,Howard,andrea.howard@stonebridgelearning.com,Business Operations Director,314-555-2032,Champion,Inbound Demo Request,LEAD0121,USR011,2023-09-17 08:32:47,true
+CON0559,ACC0279,Christopher,Allen,christopher.allen@stonebridgelearning.com,Procurement Manager,314-555-8690,Procurement,Customer Referral,LEAD0064,USR011,2023-08-12 01:10:54,false
+CON0560,ACC0280,Abigail,Campbell,,VP of Technology,,Decision Maker,Content Download,LEAD0185,USR007,2023-10-31 12:18:34,false
+CON0561,ACC0281,Aiden,Martinez,aiden.martinez@parklinedevelopment.com,Chief Operating Officer,602-555-3478,Decision Maker,Content Download,,USR008,2025-07-07 09:08:09,true
+CON0562,ACC0282,Anthony,Morris,anthony.morris@fairviewmanufacturing.com,Chief Information Officer,,Decision Maker,Outbound SDR,LEAD0119,USR010,2024-12-23 14:14:43,true
+CON0563,ACC0282,Dominic,Robinson,dominic.robinson@fairviewmanufacturing.com,Enterprise Systems Manager,,Champion,Paid Search,LEAD0257,USR010,2024-09-22 14:01:15,true
+CON0564,ACC0282,William,Gomez,william.gomez@fairviewmanufacturing.com,Senior Procurement Manager,704-555-1547,Procurement,,LEAD0118,USR010,2024-07-22 21:47:14,true
+CON0565,ACC0282,Grace,Lopez,grace.lopez@fairviewmanufacturing.com,Solutions Architect,704-555-7076,Evaluator,Partner Referral,LEAD0102,USR010,2024-06-26 11:28:56,true
+CON0566,ACC0283,Sophia,Harris,sophia.harris@silveroaksystems.com,VP of Operations,404-555-8859,Decision Maker,Inbound Demo Request,,USR006,2026-09-04 16:35:43,true
+CON0567,ACC0284,Noah,Shah,noah.shah@cedarstonefinancial.com,Chief Information Officer,304-555-5094,Decision Maker,,LEAD0261,USR009,2022-08-13 02:15:45,true
+CON0568,ACC0285,Nicole,Gray,nicole.gray@granitepeakservices.com,Chief Information Officer,317-555-2695,Decision Maker,Paid Search,,USR011,2024-06-12 03:16:39,true
+CON0569,ACC0286,Julia,Hernandez,julia.hernandez@foxbridgelabs.com,Chief Technology Officer,213-555-6330,Decision Maker,Paid Search,LEAD0189,USR012,2022-08-08 01:12:22,true
+CON0570,ACC0286,David,Cooper,david.cooper@foxbridgelabs.com,Director of Enterprise Applications,213-555-1956,Champion,Organic Search,LEAD0175,USR012,2022-09-15 16:15:06,true
+CON0571,ACC0286,Caroline,Garcia,caroline.garcia@foxbridgelabs.com,Enterprise Architect,213-555-1998,Evaluator,Content Download,,USR012,2022-06-17 00:48:10,true
+CON0572,ACC0286,Aiden,Hayes,aiden.hayes@foxbridgelabs.com,Vendor Management Director,213-555-4957,Procurement,Webinar / Event,LEAD0052,USR012,2022-05-26 19:55:45,true
+CON0573,ACC0287,Eva,Ward,eva.ward@brookstoneretail.com,Business Operations Manager,213-555-7030,Champion,Inbound Demo Request,,USR008,2023-03-02 11:06:08,false
+CON0574,ACC0288,Eric,Young,eric.young@lakeshorecontracting.com,SVP of Operations,206-555-4983,Decision Maker,,,USR012,2025-04-17 11:24:56,true
+CON0575,ACC0288,Carlos,Thomas,carlos.thomas@lakeshorecontracting.com,Solutions Architect,206-555-6854,Evaluator,Partner Referral,,USR012,2024-09-25 11:18:20,true
+CON0576,ACC0289,Dominic,Brown,dominic.brown@bluepeaksystems.com,IT Manager,203-555-3319,Champion,Paid Search,,USR005,2025-06-20 23:14:59,true
+CON0577,ACC0289,Vanessa,Collins,vanessa.collins@bluepeaksystems.com,Department Manager,,Influencer,Inbound Demo Request,,USR005,2025-03-26 07:46:54,true
+CON0578,ACC0290,Isabella,Peterson,isabella.peterson@beacondigital.com,General Manager,303-555-8520,Decision Maker,Outbound SDR,,USR008,2023-10-20 11:40:41,true
+CON0579,ACC0291,Catherine,White,catherine.white@sterlingprofessionalservices.com,VP of Transformation,804-555-6115,Decision Maker,Content Download,LEAD0066,USR010,2025-05-30 17:43:45,true
+CON0580,ACC0291,Natalie,Chen,natalie.chen@sterlingprofessionalservices.com,IT Applications Manager,804-555-9718,Champion,Inbound Demo Request,,USR010,2025-08-15 09:27:19,true
+CON0581,ACC0291,Eli,Gonzalez,eli.gonzalez@sterlingprofessionalservices.com,Procurement Manager,804-555-2365,Procurement,Inbound Demo Request,,USR010,2025-12-13 19:23:03,true
+CON0582,ACC0292,Jessica,Scott,jessica.scott@vantagetraining.com,Senior Operations Manager,206-555-6696,Champion,Content Download,LEAD0135,USR012,2025-07-01 21:36:06,true
+CON0583,ACC0292,Jose,Hernandez,jose.hernandez@vantagetraining.com,Operations Program Manager,206-555-5287,Influencer,Webinar / Event,LEAD0253,USR012,2026-03-12 08:32:45,true
+CON0584,ACC0293,Abigail,Peterson,abigail.peterson@horizonoperations.com,VP of Transformation,206-555-7860,Decision Maker,Content Download,,USR012,2023-05-17 06:52:18,true
+CON0585,ACC0293,Olivia,Campbell,olivia.campbell@horizonoperations.com,Business Operations Director,,Champion,Outbound SDR,LEAD0142,USR012,2023-12-23 01:25:54,true
+CON0586,ACC0294,Justin,Edwards,justin.edwards@harborviewcapital.com,VP of Information Technology,203-555-3253,Decision Maker,Partner Referral,LEAD0191,USR011,2023-02-14 18:12:18,true
+CON0587,ACC0294,Jose,Lee,jose.lee@harborviewcapital.com,Business Operations Director,,Champion,Customer Referral,,USR011,2023-04-21 06:35:44,true
+CON0588,ACC0294,Sophia,Young,sophia.young@harborviewcapital.com,Process Analyst,,Evaluator,Organic Search,,USR011,2022-09-26 13:26:05,true
+CON0589,ACC0295,Jordan,Taylor,jordan.taylor@vertexwealthpartners.com,IT Applications Manager,305-555-3645,Champion,Paid Search,LEAD0228,USR010,2023-05-01 04:05:36,true
+CON0590,ACC0296,Jasmine,Taylor,jasmine.taylor@catalysthealthpartners.com,VP of Business Systems,,Decision Maker,Organic Search,,USR012,2025-10-31 20:31:53,true
+CON0591,ACC0296,Benjamin,Ramirez,benjamin.ramirez@catalysthealthpartners.com,IT Applications Manager,213-555-8767,Champion,Outbound SDR,LEAD0039,USR012,2025-07-28 13:38:46,true
+CON0592,ACC0296,Benjamin,Scott,benjamin.scott@catalysthealthpartners.com,Senior Business Analyst,,Evaluator,,,USR012,2025-11-02 01:32:59,false
+CON0593,ACC0297,Jessica,Barnes,jessica.barnes@elmwoodtransportation.com,Owner,503-555-9772,Decision Maker,Webinar / Event,,USR008,2025-10-13 08:24:13,true
+CON0594,ACC0297,Ella,Shah,ella.shah@elmwoodtransportation.com,Business Analyst,503-555-5739,Evaluator,Organic Search,LEAD0199,USR008,2025-06-19 07:55:18,true
+CON0595,ACC0298,Vanessa,Robinson,vanessa.robinson@suncrestsystems.com,,317-555-1245,Decision Maker,Paid Search,,USR011,2025-11-24 12:14:18,true
+CON0596,ACC0298,Nicole,White,nicole.white@suncrestsystems.com,Director of Operations,317-555-9243,Champion,Webinar / Event,LEAD0132,USR011,2025-03-17 12:42:30,false
+CON0597,ACC0298,Ella,Phillips,ella.phillips@suncrestsystems.com,Department Manager,,Influencer,Organic Search,,USR011,2025-11-07 00:42:28,true
+CON0598,ACC0299,Aiden,Kim,aiden.kim@clearwatermanufacturing.com,Business Operations Manager,601-555-4193,Champion,Content Download,LEAD0130,USR006,2024-06-12 13:45:43,true
+CON0599,ACC0300,Benjamin,King,benjamin.king@stonebridgeservices.com,Chief Operating Officer,,Decision Maker,,,,2026-04-10 18:33:13,true
+CON0600,ACC0301,Nicole,Richardson,nicole.richardson@stonebridgefinancialservices.com,VP of Information Technology,208-555-8559,Decision Maker,Organic Search,,USR012,2025-09-01 14:28:34,true
+CON0601,ACC0301,Jasmine,Clark,jasmine.clark@stonebridgefinancialservices.com,Transformation Manager,208-555-7382,Champion,Content Download,,USR012,2025-11-19 12:43:21,true
+CON0602,ACC0302,Maya,Hughes,maya.hughes@riverbendoperations.com,VP of Operations,213-555-5109,Decision Maker,Organic Search,,USR012,2025-01-09 02:14:28,true
+CON0603,ACC0303,Justin,Wilson,justin.wilson@truenorthfreight.com,Chief Information Officer,317-555-3428,Decision Maker,Content Download,,USR011,2022-10-03 20:54:18,true
+CON0604,ACC0303,Benjamin,Perry,benjamin.perry@truenorthfreight.com,Business Operations Director,317-555-6168,Champion,Outbound SDR,,,2022-03-15 11:39:55,true
+CON0605,ACC0303,Andrew,Campbell,andrew.campbell@truenorthfreight.com,Senior Analyst,317-555-1277,Influencer,Content Download,,USR011,2022-07-02 14:47:02,true
+CON0606,ACC0304,Derek,Barnes,derek.barnes@clearwaterdigital.com,Chief Operating Officer,801-555-2660,Decision Maker,Content Download,,USR008,2023-10-25 13:05:43,true
+CON0607,ACC0304,Elena,Taylor,elena.taylor@clearwaterdigital.com,Purchasing Manager,801-555-1353,Procurement,Inbound Demo Request,,,2024-06-21 15:35:02,true
+CON0608,ACC0305,Aiden,Perry,aiden.perry@skylinefabrication.com,President,305-555-9980,Decision Maker,Webinar / Event,LEAD0013,USR006,2025-02-17 17:52:43,true
+CON0609,ACC0306,Aiden,Murphy,aiden.murphy@silveroakacademy.com,Director of Operations,504-555-5536,Champion,Content Download,LEAD0006,USR006,2026-08-15 11:01:59,false
+CON0610,ACC0307,Aaliyah,Scott,aaliyah.scott@brookstonesolutions.com,VP of Technology,,Decision Maker,Outbound SDR,,USR006,2026-01-09 07:39:02,true
+CON0611,ACC0307,Noah,Perez,noah.perez@brookstonesolutions.com,Operations Analyst,214-555-4095,Evaluator,Inbound Demo Request,LEAD0218,USR006,2025-09-12 07:52:07,true
+CON0612,ACC0308,Lauren,Turner,lauren.turner@vertexretail.com,President,,Decision Maker,Content Download,,,2025-09-20 00:40:48,true
+CON0613,ACC0308,Ethan,Moore,ethan.moore@vertexretail.com,Project Coordinator,214-555-3447,Influencer,Content Download,LEAD0074,USR006,2025-03-26 14:48:47,true
+CON0614,ACC0309,Aiden,Campbell,aiden.campbell@silverlineservices.com,President,214-555-8536,Decision Maker,Paid Search,LEAD0163,USR010,2024-10-10 22:37:52,true
+CON0615,ACC0309,Aaliyah,Hughes,aaliyah.hughes@silverlineservices.com,Business Operations Manager,214-555-7714,Champion,Webinar / Event,,USR010,2024-09-08 10:04:59,true
+CON0616,ACC0310,Maria,Diaz,maria.diaz@keystonebuilders.com,General Manager,201-555-3555,Decision Maker,Outbound SDR,,USR005,2025-07-16 00:34:56,true
+CON0617,ACC0310,Julia,Clark,julia.clark@keystonebuilders.com,Process Improvement Manager,201-555-1740,Champion,Content Download,,USR005,2026-01-13 07:57:01,true
+CON0618,ACC0311,Sofia,Martinez,sofia.martinez@harborviewtransportation.com,Business Operations Director,804-555-5004,Champion,Customer Referral,,USR010,2026-08-28 06:34:26,false
+CON0619,ACC0312,Dominic,Hernandez,dominic.hernandez@vertexconsulting.com,VP of Digital Transformation,404-555-5642,Decision Maker,,,USR010,2023-08-22 02:46:40,true
+CON0620,ACC0312,Diana,Nguyen,diana.nguyen@vertexconsulting.com,Senior Director of Operations,404-555-1645,Champion,Content Download,LEAD0073,USR010,2023-08-19 16:33:09,true
+CON0621,ACC0312,Lauren,Williams,lauren.williams@vertexconsulting.com,Strategic Sourcing Director,404-555-6037,Procurement,Partner Referral,LEAD0224,USR010,2023-12-06 20:15:47,true
+CON0622,ACC0313,Jose,King,jose.king@greenfieldservices.com,VP of Operations,203-555-7276,Decision Maker,Webinar / Event,LEAD0147,USR009,2026-06-06 03:20:15,true
+CON0623,ACC0313,Dominic,Anderson,dominic.anderson@greenfieldservices.com,IT Applications Manager,203-555-8352,Champion,Organic Search,,USR009,2026-08-15 20:26:53,true
+CON0624,ACC0313,Madison,Edwards,madison.edwards@greenfieldservices.com,IT Project Manager,203-555-9411,Evaluator,Paid Search,,USR009,2026-07-20 13:16:17,true
+CON0625,ACC0314,Isabella,Allen,isabella.allen@suncrestcarenetwork.com,VP of Operations,201-555-9300,Decision Maker,Partner Referral,,USR009,2022-03-04 02:49:57,true
+CON0626,ACC0314,Emily,Green,emily.green@suncrestcarenetwork.com,Director of Business Systems,201-555-1170,Champion,Inbound Demo Request,LEAD0285,USR009,2022-11-09 18:09:08,true
+CON0627,ACC0314,Carlos,Rodriguez,carlos.rodriguez@suncrestcarenetwork.com,IT Project Manager,201-555-9420,Evaluator,Webinar / Event,LEAD0007,USR009,2022-11-26 22:00:02,true
+CON0628,ACC0315,Jordan,Smith,jordan.smith@cedarstonehealthpartners.com,Chief Information Officer,212-555-6508,Decision Maker,Partner Referral,LEAD0030,USR009,2023-11-20 16:18:15,true
+CON0629,ACC0316,Chloe,Murphy,chloe.murphy@pinecrestfabrication.com,VP of Operations,405-555-6794,Decision Maker,Webinar,,USR010,2023-04-12 18:55:10,true
+CON0630,ACC0316,Sofia,Adams,sofia.adams@pinecrestfabrication.com,IT Applications Manager,405-555-2864,Champion,,,USR010,2023-05-02 02:49:22,true
+CON0631,ACC0316,Anthony,Nguyen,anthony.nguyen@pinecrestfabrication.com,Systems Analyst,405-555-4374,Influencer,Organic Search,,USR010,2023-09-21 03:47:56,true
+CON0632,ACC0317,Victoria,Gomez,victoria.gomez@summitridgedigital.com,IT Applications Manager,208-555-6485,Champion,Webinar / Event,,USR012,2025-12-23 21:10:00,true
+CON0633,ACC0318,Camila,Young,camila.young@mosaicprecisionworks.com,Owner,615-555-1264,Decision Maker,Inbound Demo Request,LEAD0123,USR006,2026-07-04 15:32:21,true
+CON0634,ACC0319,Ryan,Mitchell,ryan.mitchell@ridgeviewconsulting.com,VP of Transformation,213-555-8227,Decision Maker,Paid Search,,USR012,2026-09-02 20:55:50,true
+CON0635,ACC0319,Christopher,Sanchez,christopher.sanchez@ridgeviewconsulting.com,Transformation Manager,213-555-6408,Champion,Webinar / Event,LEAD0172,USR012,2026-08-22 01:58:36,true
+CON0636,ACC0319,Jacob,Mitchell,jacob.mitchell@ridgeviewconsulting.com,Systems Analyst,213-555-3880,Influencer,Paid Search,LEAD0208,USR012,2026-09-06 20:42:49,true
+CON0637,ACC0320,Madison,Stewart,madison.stewart@northwindbrands.com,General Manager,305-555-7323,Decision Maker,Organic Search,,USR006,2026-08-14 13:24:55,true
+CON0638,ACC0321,Steven,Turner,steven.turner@lakeviewfinancialservices.com,Chief Information Officer,317-555-3515,Decision Maker,Inbound Demo Request,,USR011,2022-12-01 16:38:37,false
+CON0639,ACC0321,Rachel,Martin,rachel.martin@lakeviewfinancialservices.com,Enterprise Architect,,Evaluator,Outbound SDR,,USR011,2023-03-07 02:08:40,true
+CON0640,ACC0322,Aaliyah,Kelly,aaliyah.kelly@frontierbuilders.com,Chief Technology Officer,201-555-4032,Decision Maker,Partner Referral,LEAD0110,USR009,2023-11-04 12:47:44,true
+CON0641,ACC0322,Sofia,Brown,sofia.brown@frontierbuilders.com,Director of Business Transformation,201-555-9454,Champion,Content Download,,USR009,2024-04-04 20:21:04,true
+CON0642,ACC0322,Jacob,Peterson,jacob.peterson@frontierbuilders.com,Solutions Architect,201-555-9497,Evaluator,Outbound SDR,LEAD0240,USR009,2024-07-01 01:51:20,true
+CON0643,ACC0322,David,Rogers,david.rogers@frontierbuilders.com,"Senior Manager, Operations",201-555-1131,Influencer,Partner Referral,,USR009,2023-09-01 15:19:46,true
+CON0644,ACC0323,Eva,Nguyen,eva.nguyen@rivermarkmedical.com,VP of Technology,603-555-7587,Decision Maker,Organic Search,LEAD0023,USR005,2024-05-11 00:18:29,true
+CON0645,ACC0323,Aiden,Richardson,aiden.richardson@rivermarkmedical.com,Office Manager,,Procurement,Webinar / Event,,USR005,2024-04-07 13:27:20,true
+CON0646,ACC0324,Ryan,Davis,ryan.davis@frontieracademy.com,Chief Information Officer,505-555-5331,Decision Maker,Outbound SDR,,USR012,2026-09-17 07:32:01,true
+CON0647,ACC0324,Jason,Thomas,jason.thomas@frontieracademy.com,Enterprise Systems Manager,,Champion,Inbound Demo Request,LEAD0077,USR012,2026-07-26 12:32:26,true
+CON0648,ACC0324,Taylor,Hughes,taylor.hughes@frontieracademy.com,Operations Strategy Manager,505-555-4178,Influencer,Outbound SDR,,USR012,2026-09-19 15:40:59,true
+CON0649,ACC0324,Thomas,Rodriguez,thomas.rodriguez@frontieracademy.com,Enterprise Architect,505-555-5769,Evaluator,,,USR012,2026-09-04 16:55:44,true
+CON0650,ACC0325,Olivia,Miller,olivia.miller@beaconhealthpartners.com,Director of Operations,,Champion,Organic Search,LEAD0206,USR006,2024-12-31 01:03:22,true

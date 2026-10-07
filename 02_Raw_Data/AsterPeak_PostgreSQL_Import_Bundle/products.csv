@@ -1,0 +1,11 @@
+product_id,product_name,product_category,revenue_type,standard_unit_price,included_users,is_active
+PROD001,Essentials,Subscription Tier,Recurring,12000,25,true
+PROD002,Professional,Subscription Tier,Recurring,30000,75,true
+PROD003,Advanced,Subscription Tier,Recurring,60000,200,true
+PROD004,25-User Pack,Capacity,Recurring,4000,25,true
+PROD005,Analytics Suite,Add-On,Recurring,8000,,true
+PROD006,Advanced Integrations,Add-On,Recurring,12000,,true
+PROD007,Premium Support,Add-On,Recurring,6000,,true
+PROD008,Essentials Implementation,Implementation,One-Time,5000,,true
+PROD009,Professional Implementation,Implementation,One-Time,10000,,true
+PROD010,Advanced Implementation,Implementation,One-Time,20000,,true
