@@ -6,7 +6,7 @@
 
 AsterPeak Software is a fictional U.S.-based B2B SaaS company with approximately $15–20M in ARR and roughly 100 employees.
 
-This project is an end-to-end Revenue Operations case study built from a synthetic CRM dataset containing **13,864 records**. The goal was to move beyond standalone reporting and build a connected RevOps operating model spanning:
+I built this project around a synthetic CRM dataset containing **13,864 records** to work through a realistic Revenue Operations environment from end to end. The project covers:
 
 - CRM data quality and governance
 - Lead routing and Marketing-to-Sales handoff
@@ -19,7 +19,7 @@ This project is an end-to-end Revenue Operations case study built from a synthet
 - Process design and SOPs
 - Executive recommendations
 
-The project follows a simple operating framework:
+I used the following framework throughout the project:
 
 **Business Rule → Data → Analysis → Finding → Recommendation → Governance Control**
 
@@ -51,9 +51,7 @@ The analysis surfaced several common RevOps challenges:
 - Inconsistent historical Deal Desk approval evidence
 - Revenue processes that lacked fully documented operating procedures
 
-The core challenge was not simply to build another dashboard.
-
-The project was designed to improve both **revenue visibility** and the **operational controls that create reliable revenue data**.
+The project focused on both reporting and the controls behind the data. I wanted to identify where the revenue process was breaking, quantify the impact, and then build practical ways to prevent or surface those issues earlier.
 
 ---
 
@@ -84,7 +82,7 @@ Additional account analysis identified:
 
 ## Solution
 
-The findings were translated into a broader Revenue Operations operating model rather than treated as isolated reporting problems.
+I used the findings to define controls and processes across CRM governance, pipeline management, forecasting, lead routing, and Deal Desk.
 
 ### CRM Governance
 
@@ -338,11 +336,9 @@ AsterPeak_Revenue_Operations_Command_Center/
 
 ## Project Outcome
 
-The final result is an end-to-end Revenue Operations operating model connecting:
+The project brings together analysis, reporting, CRM governance, and process design in one RevOps case study.
 
-**Analysis → Reporting → CRM Governance → Process Design → Repeatable Business Execution**
-
-The project demonstrates how RevOps can move beyond identifying problems in dashboards and instead build systems and processes designed to prevent, surface, and resolve those problems.
+The goal was not just to identify issues in dashboards. It was to show how the findings could be turned into controls, workflows, and operating processes that help keep revenue data more reliable over time.
 
 ---
 
